@@ -16,7 +16,9 @@ const config: QuartzConfig = {
       provider: "google",
     },
     locale: "en-US",
-    baseUrl: "lpcode808.github.io/SteamEngine25",
+    // Update this to your Netlify URL after deployment
+    // Example: "your-site-name.netlify.app" or your custom domain
+    baseUrl: "steamengine25.netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "modified",
     theme: {
