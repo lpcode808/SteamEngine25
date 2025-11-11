@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "lpcode808.github.io/SteamEngine25",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
