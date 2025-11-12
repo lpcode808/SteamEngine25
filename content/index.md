@@ -93,4 +93,5 @@ This site is designed for exploration. Every concept links to examples, every pr
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz/) • Sharing the journey of STEAM learning at Hawaiʻi School for Girls at La Pietra*
+*Built with [Quartz](https://quartz.jzhao.xyz/) • Sharing the journey of STEAM learning at Hawaiʻi School for Girls at La Pietra*# Updated: STEAM Course
+# Updated: STEAM Course
