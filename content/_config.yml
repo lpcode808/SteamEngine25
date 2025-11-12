@@ -1,0 +1,60 @@
+# Jekyll/GitHub Pages fallback configuration
+# In case Quartz isn't available, this enables basic GitHub Pages functionality
+
+title: "STEAM: Bringing Ideas to Life"
+description: "A journey through STEAM learning at Hawaiʻi School for Girls at La Pietra"
+baseurl: ""
+url: ""
+
+# Educational site configuration
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins for enhanced functionality
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation structure
+header_pages:
+  - learning-journey/index.md
+  - concepts/index.md
+  - projects/index.md
+  - tools-techniques/index.md
+  - connections/index.md
+
+# Educational metadata
+author:
+  name: "Mr. Justin Lai"
+  institution: "Hawaiʻi School for Girls at La Pietra"
+
+# Student-friendly defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      show_excerpts: false
+
+# Collection configuration for organized content
+collections:
+  daily-summaries:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
+  concepts:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude administrative files
+exclude:
+  - .quartz.yml
+  - node_modules/
+  - vendor/
+  - .git/
+  - .gitignore
