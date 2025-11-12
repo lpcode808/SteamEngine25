@@ -6,6 +6,7 @@ on:
       - main
       - master
       - claude/git-obsidian-workflow-011CUywz4Wt7dDc2ERC6ts7h
+      - claude/deploy-quartz-obsidian-011CUtEuF6BZcB8neub9uFtF
   workflow_dispatch:
 
 permissions:
