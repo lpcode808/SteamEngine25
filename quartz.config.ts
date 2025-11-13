@@ -11,10 +11,8 @@ const config: QuartzConfig = {
     pageTitle: "SteamEngine25",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "google",
-    },
+    enablePopovers: false,
+    analytics: null,
     locale: "en-US",
     baseUrl: "lpcode808.github.io/SteamEngine25",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
