@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Magic School AI: Specialized Design Assistant
 
 > [!meta] You Are Here
 > Part 2 of 3 · Magic School AI

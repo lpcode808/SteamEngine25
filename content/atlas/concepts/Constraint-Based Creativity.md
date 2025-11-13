@@ -7,8 +7,6 @@ updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
 
-# Constraint-Based Creativity: Using Limitations to Spark Innovation
-
 > **"Constraint as creative catalyst, not limitation"** - How boundaries create rather than restrict creative possibilities.
 
 ---

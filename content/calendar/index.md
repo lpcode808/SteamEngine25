@@ -4,7 +4,6 @@ title: "Learning Journey Hub"
 description: "Start here to navigate the full STEAM course calendar, milestones, and daily reflections."
 publish: true
 ---
-# Learning Journey Hub
 
 > [!tldr] Welcome
 > Orient yourself to the STEAM calendar in one spot. Use this hub to jump directly to the timeline, key milestones, or the detailed daily log.

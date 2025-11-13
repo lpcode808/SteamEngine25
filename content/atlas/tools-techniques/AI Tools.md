@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/tools-techniques/index]]
-# AI Tools for STEAM Education
 
 > **"Ethics before capabilities, partnership over replacement"** - Comprehensive guide to responsible AI integration in educational making and design.
 

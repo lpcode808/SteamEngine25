@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Embedded Learning: Professional Workflow Observation
 
 > **"Understanding through observation before hands-on practice"** - How systematic observation of expert practice accelerates skill development and professional understanding.
 

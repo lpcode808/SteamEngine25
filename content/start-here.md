@@ -3,7 +3,6 @@ title: "Start Here"
 description: "Three-step orientation for first-time visitors to the STEAM learning compendium."
 publish: true
 ---
-# Start Here: First-Time Orientation
 
 > [!tldr] New to this STEAM course collection? Follow these three steps to get oriented in under ten minutes, then choose the path that fits you best.
 

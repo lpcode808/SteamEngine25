@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# AI as Creative Partner: Responsible Innovation
 
 > [!meta] You Are Here
 > Part 1 of 3 · Philosophy & Ethics

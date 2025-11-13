@@ -3,7 +3,6 @@ title: "STEAM: Bringing Ideas to Life"
 description: "Interactive map of the STEAM learning ecosystem and its core navigation hubs."
 publish: true
 ---
-# STEAM: Bringing Ideas to Life
 
 > [!tldr] Welcome!
 > This is your guide to a semester of bringing ideas to life. Whether you're a student, teacher, or just curious, this is your starting point for exploring a journey of creativity, collaboration, and making.

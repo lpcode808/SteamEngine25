@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Observation & Sketching: "I Notice and Wonder"
 
 > **"Visual thinking foundation for design development"** - How systematic observation and sketching build design thinking and communication skills.
 

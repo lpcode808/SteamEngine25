@@ -5,7 +5,6 @@ title: "Future Learning Pathways"
 publish: true
 updated: 2025-11-12
 ---
-# Future Learning Pathways
 
 > **"Professional AI integration and lifelong learning"** - How STEAM skills connect to career development and ongoing educational opportunities.
 

@@ -5,7 +5,6 @@ title: "Cross-Curricular Connections: STEAM Beyond the Classroom"
 publish: true
 updated: 2025-11-12
 ---
-# Cross-Curricular Connections: STEAM Beyond the Classroom
 
 > **Where STEAM enhances other subjects rather than competing with them** - Discovering how making, design thinking, and AI partnership amplify learning across disciplines.
 

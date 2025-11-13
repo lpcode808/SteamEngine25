@@ -5,7 +5,6 @@ title: "Community Engagement: Learning Beyond the Classroom"
 publish: true
 updated: 2025-11-12
 ---
-# Community Engagement: Learning Beyond the Classroom
 
 > **"Connecting classroom learning to the real world"** - How STEAM students became active participants in their technology community.
 

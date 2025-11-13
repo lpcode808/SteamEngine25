@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/tools-techniques/index]]
-# Onshape CAD: Professional Design Thinking in 3D
 
 > **"Parametric design - a set of instructions and corresponding code that Onshape continuously follows"** - Understanding how professional design software supports sophisticated making.
 

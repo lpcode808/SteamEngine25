@@ -5,7 +5,6 @@ aliases: ["AI Partnership"]
 publish: true
 ---
 up: [[atlas/concepts/index]]
-# AI Integration MOC
 
 > [!tldr] TL;DR
 > We use AI as a creative partner, not a replacement for thinking. Our core principle is **"Ethics first, capabilities second."** We use tools like **[[atlas/concepts/AI Magic School Bot|Magic School AI]]** and **[[atlas/concepts/AI Gemini Integration|Google Gemini]]** to brainstorm ideas, get feedback, and accelerate our work responsibly.

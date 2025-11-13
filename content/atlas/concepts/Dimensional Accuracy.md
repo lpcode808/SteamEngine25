@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Dimensional Accuracy: Precision in Design and Making
 
 > **"Focus on the right dimensions rather than fine detail"** - Strategic thinking about where precision matters most.
 

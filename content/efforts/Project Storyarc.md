@@ -8,7 +8,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[efforts/index.md]]
-# Real Projects, Real Impact
 
 > **"Learning happens when design thinking meets authentic challenges"** - How STEAM students solve real problems for real people.
 

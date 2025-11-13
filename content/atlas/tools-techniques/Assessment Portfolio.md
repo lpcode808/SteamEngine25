@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/tools-techniques/index]]
-# Portfolio & Reflection: Documenting Growth Through Making
 
 > **"Learning becomes visible when students capture not just what they made, but how they thought"** - Assessment through authentic documentation and reflective practice.
 

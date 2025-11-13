@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Iterative Refinement: Small Improvements Based on Testing
 
 > **"Small improvements based on testing results"** - The path from good to great through systematic iteration.
 

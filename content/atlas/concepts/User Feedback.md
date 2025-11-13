@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# User Feedback: Testing with Real People
 
 > **"Testing with actual teachers and classmates"** - The most valuable insights come from the people who will actually use what you make.
 

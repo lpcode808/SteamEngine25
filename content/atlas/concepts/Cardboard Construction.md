@@ -5,8 +5,7 @@ title: "Cardboard Construction: Rapid, Low-Cost Iteration"
 publish: true
 updated: 2025-11-12
 ---
-[]]
-# Cardboard Co](<up: [[atlas/concepts/index]]>)nstruction: Rapid, Low-Cost Iteration
+up: [[atlas/concepts/index]]
 
 > **"Props for testing, not perfection"** - How cardboard prototyping enables fast learning cycles and concept validation.
 

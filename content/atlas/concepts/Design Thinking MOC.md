@@ -6,8 +6,6 @@ publish: true
 ---
 up: [[atlas/concepts/index]]
 
-# Design Thinking MOC
-
 > [!tldr] TL;DR
 > Design Thinking is our core process for solving problems. It's a five-step map: **Empathize → Define → Ideate → Prototype → Test**. We use it for everything, from making [[efforts/Family Coasters|gifts for family]] to building [[efforts/Robot Storage|tools for teachers]].
 

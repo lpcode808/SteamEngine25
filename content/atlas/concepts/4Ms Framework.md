@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# The 4Ms Framework: Systems Thinking for Makers
 
 > **"Maker, Machine, Method, Materials, Margin"** - A systematic approach to understanding and planning any making project.
 

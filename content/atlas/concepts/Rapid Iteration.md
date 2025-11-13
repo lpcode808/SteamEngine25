@@ -7,8 +7,6 @@ updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
 
-# Rapid Iteration: Learning Through Quick Cycles
-
 > **"Prototype iteration and learning the various techniques"** - How fast feedback loops accelerate learning and improve solutions.
 
 ---

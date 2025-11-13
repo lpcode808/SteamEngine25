@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Group Cohesion: Collaborative Strengths in Project Selection
 
 > **"When collaboration should drive project decisions"** - Understanding how team dynamics and shared investment create more impactful learning and outcomes.
 

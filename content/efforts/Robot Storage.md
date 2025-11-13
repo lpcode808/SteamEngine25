@@ -1,5 +1,8 @@
+---
+title: "Robot Storage Solution: Design for Daily Use"
+publish: true
+---
 up: [[efforts/index.md]]
-# Robot Storage Solution: Design for Daily Use
 
 > **Real problems, real users, real constraints** - How design thinking principles apply to professional-level challenges.
 

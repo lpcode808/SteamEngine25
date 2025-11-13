@@ -5,7 +5,6 @@ aliases: ["4Ms"]
 publish: true
 ---
 up: [[atlas/concepts/index]]
-# 4Ms Framework MOC
 
 > [!tldr] TL;DR
 > The 4Ms is a mental checklist for planning and troubleshooting any making project: **Maker, Machine, Method, Materials, Margin**. It helps you think systematically and avoid common problems.

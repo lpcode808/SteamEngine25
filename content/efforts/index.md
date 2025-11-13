@@ -3,8 +3,6 @@ title: "Projects & Efforts"
 publish: true
 ---
 
-# Projects & Efforts: Learning in Action MOC
-
 > [!tldr]
 > Every build, iteration, and showcase lives here. Use this hub to follow the progression from first laser cut to cross-curricular impact and to jump into the artifacts that prove learning.
 

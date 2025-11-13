@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Learning Through Reflection
 
 > **"What was surprising, frustrating, accomplished, curious about?"** - Systematic approaches to processing experience and accelerating growth through reflection.
 

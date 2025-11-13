@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Brainstorming Methods: Collaborative Idea Generation
 
 > **"Build on others' ideas rather than competing with them"** - Techniques for productive group ideation.
 

@@ -3,7 +3,6 @@ title: "Atlas of Ideas"
 publish: true
 ---
 up:: [[index]]
-# Atlas of Ideas: Concept, Connection, and Tool MOC
 
 > [!tldr]
 > Start here when you need a conceptual anchor. The Atlas groups notes by purpose so you can move from “Why does this matter?” to “How do I apply it?” without getting lost.

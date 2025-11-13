@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up:  [[atlas/index|index]]
-# Beyond the Classroom: STEAM Connections to the World
 
 > **"Learning becomes powerful when it connects to life beyond school walls"** - How STEAM education bridges classroom skills with community contribution and future possibilities.
 

@@ -7,8 +7,6 @@ updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
 
-# Functional Testing: Does It Solve the Problem?
-
 > **"Does it solve the problem it's meant to solve?"** - The fundamental question that determines whether a design succeeds or fails.
 
 ---

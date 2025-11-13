@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Cardboard Prototyping: Rapid, Forgiving, Cheap Iteration
 
 > **"Professional foundation for design development"** - How cardboard prototyping builds essential design thinking and professional development skills.
 

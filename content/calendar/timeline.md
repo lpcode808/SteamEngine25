@@ -1,5 +1,8 @@
+---
+title: "The Learning Journey: 35 Days of Discovery"
+publish: true
+---
 up: [[Journey MOC]]
-# The Learning Journey: 35 Days of Discovery
 
 > **"Curiosity, Confidence, Creativity, Communication"** - How these four principles guided our semester of bringing ideas to life.
 

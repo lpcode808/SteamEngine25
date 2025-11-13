@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Google Gemini: Visual and Creative AI
 
 > [!meta] You Are Here
 > Part 3 of 3 · Google Gemini

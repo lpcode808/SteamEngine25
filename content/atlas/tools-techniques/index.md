@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/index|index]]
-# Tools & Techniques: Mastering the Maker Toolkit
 
 > **"Tools amplify human creativity when we understand both their power and their limits"** - Building technical fluency in service of meaningful making.
 

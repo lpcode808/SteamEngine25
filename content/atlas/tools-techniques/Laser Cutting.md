@@ -5,7 +5,6 @@ title: "Laser Cutting: Precision Making Fundamentals"
 publish: true
 updated: 2025-11-12
 ---
-# Laser Cutting: Precision Making Fundamentals
 
 > **"A laser cutter burns stuff precisely"** - Transforming digital designs into physical reality with accuracy and repeatability.
 

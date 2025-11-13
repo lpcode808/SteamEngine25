@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[atlas/concepts/index]]
-# Design Thinking: A Problem-Solving Framework
 
 > **"Understand problems before jumping to solutions"** - The mindset that guides all STEAM learning.
 

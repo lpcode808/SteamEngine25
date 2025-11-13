@@ -1,4 +1,7 @@
-# The Learning Journey: 35 Days of Discovery
+---
+title: "The Learning Journey: 35 Days of Discovery"
+publish: true
+---
 
 > **"Curiosity, Confidence, Creativity, Communication"** - How these four principles guided our semester of bringing ideas to life.
 

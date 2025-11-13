@@ -6,7 +6,6 @@ publish: true
 updated: 2025-11-12
 ---
 up: [[efforts/index.md]]
-# Individual Explorations: Student-Driven Discovery
 
 > **"When curiosity leads, learning follows"** - Self-directed investigations that emerge from personal interests and authentic questions.
 
