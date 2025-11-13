@@ -4,7 +4,7 @@ title: "AI Integration MOC"
 aliases: ["AI Partnership"]
 publish: true
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # AI Integration MOC
 
 > [!tldr] TL;DR
@@ -66,6 +66,6 @@ up: [[Concepts MOC]]
 > [!seealso] See Also
 > - [[atlas/concepts/Design Thinking|Design Thinking]] - AI can be a powerful assistant in every phase.
 > - [[atlas/connections/Future Learning|Future Learning Pathways]] - Understanding AI is key to future careers.
-> - [[Atlas MOC|Atlas of Ideas]]
+> - [[atlas/index|Atlas of Ideas]]
 
-*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Integration MOC|This Page]]*
+*Navigate: [[index|Home]] | [[atlas/index|Atlas]] | [[atlas/concepts/index|Concepts]] | [[atlas/concepts/AI Integration MOC|This Page]]*

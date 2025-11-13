@@ -5,7 +5,7 @@ title: "Beyond the Classroom: STEAM Connections to the World"
 publish: true
 updated: 2025-11-12
 ---
-up:  [[index]]
+up:  [[atlas/index|index]]
 # Beyond the Classroom: STEAM Connections to the World
 
 > **"Learning becomes powerful when it connects to life beyond school walls"** - How STEAM education bridges classroom skills with community contribution and future possibilities.
@@ -219,4 +219,4 @@ Communities that partner with STEAM education:
 
 ---
 
-*Navigate: [[Atlas MOC|← Atlas Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular →]] | [[atlas/connections/Community Engagement|Community →]] | [[atlas/connections/Future Learning|Future Pathways →]]*
+*Navigate: [[atlas/index|← Atlas Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular →]] | [[atlas/connections/Community Engagement|Community →]] | [[atlas/connections/Future Learning|Future Pathways →]]*

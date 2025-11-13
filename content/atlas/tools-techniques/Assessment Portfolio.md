@@ -5,7 +5,7 @@ title: "Portfolio & Reflection: Documenting Growth Through Making"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Tools MOC]]
+up: [[atlas/tools-techniques/index]]
 # Portfolio & Reflection: Documenting Growth Through Making
 
 > **"Learning becomes visible when students capture not just what they made, but how they thought"** - Assessment through authentic documentation and reflective practice.
@@ -309,4 +309,4 @@ Portfolio assessment succeeds when it aligns with broader school assessment cult
 
 ---
 
-*Navigate: [[Tools MOC|← Tools Hub]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting ←]] | [[atlas/tools-techniques/AI Tools|AI Tools →]] | [[atlas/concepts/Reflection Methods|Reflection Methods ↑]]*
+*Navigate: [[atlas/tools-techniques/index|← Tools Hub]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting ←]] | [[atlas/tools-techniques/AI Tools|AI Tools →]] | [[atlas/concepts/Reflection Methods|Reflection Methods ↑]]*

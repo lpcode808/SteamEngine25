@@ -7,7 +7,7 @@ description: "Narrative overview of the STEAM project progression and how each e
 publish: true
 updated: 2025-11-12
 ---
-up: [[Efforts MOC]]
+up: [[efforts/index.md]]
 # Real Projects, Real Impact
 
 > **"Learning happens when design thinking meets authentic challenges"** - How STEAM students solve real problems for real people.
@@ -145,4 +145,4 @@ Support student project work by sharing genuine challenges you face and celebrat
 
 ---
 
-*Navigate: [[Efforts MOC|<- Projects Hub]] | [[efforts/Family Coasters|Family Coasters ->]] | [[Atlas MOC|Atlas of Ideas ->]] | [[calendar/index|Learning Journey ->]]*
+*Navigate: [[efforts/index.md|<- Projects Hub]] | [[efforts/Family Coasters|Family Coasters ->]] | [[atlas/index|Atlas of Ideas ->]] | [[calendar/index|Learning Journey ->]]*

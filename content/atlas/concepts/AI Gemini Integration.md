@@ -5,7 +5,7 @@ title: "Google Gemini: Visual and Creative AI"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Google Gemini: Visual and Creative AI
 
 > [!meta] You Are Here
@@ -221,4 +221,4 @@ Comprehensive visual creation for concept visualization and creative exploration
 
 ---
 
-*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Gemini Integration|This Page]]*
+*Navigate: [[index|Home]] | [[atlas/index|Atlas]] | [[atlas/concepts/index|Concepts]] | [[atlas/concepts/AI Gemini Integration|This Page]]*

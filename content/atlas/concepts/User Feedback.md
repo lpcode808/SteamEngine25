@@ -5,7 +5,7 @@ title: "User Feedback: Testing with Real People"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # User Feedback: Testing with Real People
 
 > **"Testing with actual teachers and classmates"** - The most valuable insights come from the people who will actually use what you make.
@@ -77,5 +77,5 @@ Real user testing transformed both the [[efforts/Robot Storage|Robot Storage]] a
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/concepts/Iterative Refinement|Iterative Refinement →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/concepts/Iterative Refinement|Iterative Refinement →]]*
 

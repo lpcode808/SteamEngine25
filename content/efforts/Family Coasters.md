@@ -5,7 +5,7 @@ title: "Family Coasters: First Steps in Digital Making"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Efforts MOC]]
+up: [[efforts/index.md]]
 # Family Coasters: First Steps in Digital Making
 
 > **"Where personal meaning meets precision tools"** - Your first laser cutting project connects heart to hands, family to fabrication.

@@ -5,7 +5,7 @@ title: "Learning Through Reflection"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Learning Through Reflection
 
 > **"What was surprising, frustrating, accomplished, curious about?"** - Systematic approaches to processing experience and accelerating growth through reflection.
@@ -186,4 +186,4 @@ Reflection in STEAM education goes beyond simple documentation - it's a systemat
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolio →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolio →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*

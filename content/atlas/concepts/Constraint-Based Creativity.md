@@ -5,7 +5,7 @@ title: "Constraint-Based Creativity: Using Limitations to Spark Innovation"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 
 # Constraint-Based Creativity: Using Limitations to Spark Innovation
 
@@ -49,7 +49,7 @@ Constraints help distinguish essential features from unnecessary complexity.
 See how constraint-based creativity appears throughout:
 - **[[calendar/timeline|The Learning Journey]]**
 - **[[Project Storyarc|Project Applications]]**  
-- **[[Tools MOC|Technical Skill Development]]**
+- **[[atlas/tools-techniques/index|Technical Skill Development]]**
 
 ---
 

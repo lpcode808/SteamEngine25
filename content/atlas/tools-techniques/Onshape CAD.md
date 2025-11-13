@@ -5,7 +5,7 @@ title: "Onshape CAD: Professional Design Thinking in 3D"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Tools MOC]]
+up: [[atlas/tools-techniques/index]]
 # Onshape CAD: Professional Design Thinking in 3D
 
 > **"Parametric design - a set of instructions and corresponding code that Onshape continuously follows"** - Understanding how professional design software supports sophisticated making.
@@ -287,4 +287,4 @@ Understanding how designs move from CAD to fabrication:
 
 ---
 
-*Navigate: [[Tools MOC|← Tools Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting ←]] | [[atlas/tools-techniques/AI Tools|AI Tools →]]*
+*Navigate: [[atlas/tools-techniques/index|← Tools Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting ←]] | [[atlas/tools-techniques/AI Tools|AI Tools →]]*

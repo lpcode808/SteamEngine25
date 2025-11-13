@@ -1,8 +1,8 @@
 ---
+tags: [calendar, navigation, moc]
 title: "Learning Journey Hub"
 description: "Start here to navigate the full STEAM course calendar, milestones, and daily reflections."
 publish: true
-tags: [calendar, navigation, moc]
 ---
 # Learning Journey Hub
 
@@ -43,5 +43,5 @@ tags: [calendar, navigation, moc]
 
 ---
 
-*Navigate: [[index|Home]] • [[Atlas MOC|Atlas of Ideas]] • [[Efforts MOC|Projects & Efforts]]*
+*Navigate: [[index|Home]] • [[atlas/index|Atlas of Ideas]] • [[efforts/index.md|Projects & Efforts]]*
 

@@ -293,4 +293,4 @@ Community engagement provides assessment opportunities that can't be replicated 
 
 ---
 
-*Navigate: [[Real World|← Connections Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular ←]] | [[atlas/connections/Future Learning|Future Learning →]]*
+*Navigate: [[atlas/connections/index|← Connections Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular ←]] | [[atlas/connections/Future Learning|Future Learning →]]*

@@ -1,4 +1,4 @@
-up: [[Atlas MOC]]
+up: [[atlas/index]]
 # Core Concepts: The Ideas That Connect Everything
 
 > **Frameworks for thinking, learning, and making** - The conceptual foundation that supports all STEAM learning.
@@ -150,12 +150,12 @@ The assessment philosophy that prioritizes growth mindset and process learning o
 These concepts aren't endpoints - they're tools for lifelong learning and making. As you explore the rest of this site, notice how these big ideas show up in:
 
 - **[[Project Storyarc|Project case studies]]** showing concepts in action
-- **[[Tools MOC|Technical skills]]** grounded in conceptual understanding  
+- **[[atlas/tools-techniques/index|Technical skills]]** grounded in conceptual understanding  
 - **[[calendar/Journey MOC|Daily learning]]** demonstrating concept development over time
-- **[[Real World|Real-world applications]]** extending concepts beyond the classroom
+- **[[atlas/connections/index|Real-world applications]]** extending concepts beyond the classroom
 
 The goal isn't to master these concepts perfectly, but to develop fluency with frameworks that will serve you in any creative, technical, or collaborative challenge you encounter.
 
 ---
 
-*Navigate: [[Atlas MOC|← Atlas Home]] | [[atlas/concepts/Design Thinking|Design Thinking →]] | [[Project Storyarc|See Applications →]]*
+*Navigate: [[atlas/index|← Atlas Home]] | [[atlas/concepts/Design Thinking|Design Thinking →]] | [[Project Storyarc|See Applications →]]*

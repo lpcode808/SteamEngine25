@@ -5,7 +5,7 @@ title: "Functional Testing: Does It Solve the Problem?"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 
 # Functional Testing: Does It Solve the Problem?
 
@@ -130,5 +130,5 @@ Sometimes testing reveals you were solving the wrong problem
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/User Feedback|User Feedback ←]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/User Feedback|User Feedback ←]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
 

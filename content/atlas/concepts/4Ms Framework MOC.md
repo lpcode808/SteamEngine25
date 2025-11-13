@@ -4,7 +4,7 @@ title: "4Ms Framework MOC"
 aliases: ["4Ms"]
 publish: true
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # 4Ms Framework MOC
 
 > [!tldr] TL;DR
@@ -63,4 +63,4 @@ The framework helps you analyze the entire system of a project.
 > [!seealso] See Also
 > - [[atlas/concepts/Design Thinking|Design Thinking]] - The 4Ms is a great tool to use within the Design Thinking process.
 > - [[atlas/concepts/Constraint-Based Creativity|Constraint-Based Creativity]] - Each of the 4Ms can be a creative constraint.
-> - [[Atlas MOC|Atlas of Ideas]]
+> - [[atlas/index|Atlas of Ideas]]

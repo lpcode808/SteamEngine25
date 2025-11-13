@@ -5,7 +5,7 @@ title: "Rapid Iteration: Learning Through Quick Cycles"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 
 # Rapid Iteration: Learning Through Quick Cycles
 
@@ -47,4 +47,4 @@ AI-assisted brainstorming and design variation generation accelerates ideation p
 
 ---
 
-*Navigate: [[atlas/concepts/Design Thinking#prototype|← Prototyping]] | [[Tools MOC|Technical Tools →]]*
+*Navigate: [[atlas/concepts/Design Thinking#prototype|← Prototyping]] | [[atlas/tools-techniques/index|Technical Tools →]]*

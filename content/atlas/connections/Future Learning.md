@@ -212,4 +212,4 @@ Future learning in STEAM education extends far beyond classroom boundaries - it'
 
 ---
 
-*Navigate: [[Real World|← Connections Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular →]] | [[atlas/connections/Community Engagement|Community Engagement →]]*
+*Navigate: [[atlas/connections/index|← Connections Home]] | [[atlas/connections/Cross-Curricular|Cross-Curricular →]] | [[atlas/connections/Community Engagement|Community Engagement →]]*

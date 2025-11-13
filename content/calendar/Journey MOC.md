@@ -89,10 +89,10 @@ This timeline shows the progression from tentative first steps to confident maki
 ## Navigate Your Journey
 
 ### By Learning Style
-- **🎯 Project-Focused**: Start with [[Efforts MOC|Projects Hub]] to see applications
-- **📚 Concept-Driven**: Begin with [[atlas/concepts/Concepts MOC|Core Concepts]] for theoretical foundation  
-- **⚙️ Tool-Oriented**: Explore [[Tools MOC|Tools & Techniques]] for hands-on skills
-- **🌐 Connection-Seekers**: Discover [[Real World|Beyond the Classroom]] for broader context
+- **🎯 Project-Focused**: Start with [[efforts/index.md|Projects Hub]] to see applications
+- **📚 Concept-Driven**: Begin with [[atlas/concepts/index|Core Concepts]] for theoretical foundation  
+- **⚙️ Tool-Oriented**: Explore [[atlas/tools-techniques/index|Tools & Techniques]] for hands-on skills
+- **🌐 Connection-Seekers**: Discover [[atlas/connections/index|Beyond the Classroom]] for broader context
 
 ### By Interest Area
 - **Making & Fabrication**: [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] → [[efforts/Family Coasters|First Projects]] → [[efforts/Robot Storage|Complex Designs]]

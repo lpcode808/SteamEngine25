@@ -5,7 +5,7 @@ title: "Plywood Projects: Structural Integrity and Natural Aesthetics"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Plywood Projects: Structural Integrity and Natural Aesthetics
 
 > **"Building with strength, beauty, and sustainability"** - How plywood combines engineering performance with natural aesthetics for sophisticated making projects.

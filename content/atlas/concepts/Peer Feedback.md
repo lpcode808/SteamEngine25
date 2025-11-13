@@ -5,7 +5,7 @@ title: "Peer Feedback: Notice and Wonder Presentation Protocols"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Peer Feedback: "Notice and Wonder" Presentation Protocols
 
 > **"Constructive collaboration through systematic observation"** - How structured peer feedback builds communication skills and learning community.

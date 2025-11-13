@@ -6,7 +6,7 @@ publish: true
 updated: 2025-11-12
 ---
 []]
-# Cardboard Co](<up: [[Concepts MOC]]>)nstruction: Rapid, Low-Cost Iteration
+# Cardboard Co](<up: [[atlas/concepts/index]]>)nstruction: Rapid, Low-Cost Iteration
 
 > **"Props for testing, not perfection"** - How cardboard prototyping enables fast learning cycles and concept validation.
 

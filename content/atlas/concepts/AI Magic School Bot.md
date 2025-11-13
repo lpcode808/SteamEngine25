@@ -5,7 +5,7 @@ title: "Magic School AI: Specialized Design Assistant"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Magic School AI: Specialized Design Assistant
 
 > [!meta] You Are Here
@@ -212,4 +212,4 @@ Magic School AI was introduced as part of the robot storage project development,
 
 ---
 
-*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Magic School Bot|This Page]]*
+*Navigate: [[index|Home]] | [[atlas/index|Atlas]] | [[atlas/concepts/index|Concepts]] | [[atlas/concepts/AI Magic School Bot|This Page]]*

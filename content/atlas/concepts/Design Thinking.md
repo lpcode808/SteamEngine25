@@ -5,7 +5,7 @@ title: "Design Thinking: A Problem-Solving Framework"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Design Thinking: A Problem-Solving Framework
 
 > **"Understand problems before jumping to solutions"** - The mindset that guides all STEAM learning.
@@ -157,4 +157,4 @@ Students demonstrated mature prototyping judgment by prioritizing core functiona
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/4Ms Framework|4Ms Framework →]] | [[Project Storyarc|See Applications →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/4Ms Framework|4Ms Framework →]] | [[Project Storyarc|See Applications →]]*

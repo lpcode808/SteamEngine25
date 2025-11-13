@@ -5,7 +5,7 @@ title: "AI as Creative Partner: Responsible Innovation"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # AI as Creative Partner: Responsible Innovation
 
 > [!meta] You Are Here
@@ -190,4 +190,4 @@ Explore specific AI tools and their applications:
 
 ---
 
-*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Integration|This Page]]*
+*Navigate: [[index|Home]] | [[atlas/index|Atlas]] | [[atlas/concepts/index|Concepts]] | [[atlas/concepts/AI Integration|This Page]]*

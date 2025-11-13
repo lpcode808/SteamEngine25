@@ -282,4 +282,4 @@ Laser cutting supported all major projects: [[efforts/Family Coasters|Personal C
 
 ---
 
-*Navigate: [[Tools MOC|← Tools Home]] | [[atlas/tools-techniques/Onshape CAD|Onshape CAD →]] | [[Project Storyarc|See Applications →]]*
+*Navigate: [[atlas/tools-techniques/index|← Tools Home]] | [[atlas/tools-techniques/Onshape CAD|Onshape CAD →]] | [[Project Storyarc|See Applications →]]*

@@ -23,7 +23,7 @@ up:: [[index]]
 
 ## Concepts · Why We Work This Way
 
-- **[[atlas/concepts/Concepts MOC|Core Concepts MOC]]** – index of the four cornerstone mindsets.
+- **[[atlas/concepts/index|Core Concepts MOC]]** – index of the four cornerstone mindsets.
 - [[atlas/concepts/Design Thinking|Design Thinking Overview]] – process primer with classroom snapshots.
 - [[atlas/concepts/Design Thinking MOC|Design Thinking MOC]] – curated examples, protocols, and prompts.
 - [[atlas/concepts/4Ms Framework|4Ms Framework Overview]] & [[atlas/concepts/4Ms Framework MOC|4Ms Framework MOC]] – systems thinking for planning and troubleshooting.
@@ -34,7 +34,7 @@ up:: [[index]]
 
 ## Connections · Where Learning Travels
 
-- **[[Real World|Connections MOC]]** – high-level view across cross-curricular, community, and future pathways.
+- **[[atlas/connections/index|Connections MOC]]** – high-level view across cross-curricular, community, and future pathways.
 - [[atlas/connections/Cross-Curricular|Cross-Curricular Links]] – subject-to-subject examples.
 - [[atlas/connections/Community Engagement|Community Engagement]] – Tech Week, AI conference, and authentic audiences.
 - [[atlas/connections/Future Learning|Future Pathways]] – how skills transfer to advanced study and careers.
@@ -47,7 +47,7 @@ up:: [[index]]
 
 ## Tools & Techniques · How We Make It Real
 
-- **[[atlas/tools-techniques/Tools MOC|Tools & Techniques MOC]]** – entry point to tool philosophy and safety culture.
+- **[[atlas/tools-techniques/index|Tools & Techniques MOC]]** – entry point to tool philosophy and safety culture.
 - [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] – operations, materials, and project-ready settings.
 - [[atlas/tools-techniques/Onshape CAD|Onshape CAD]] – parametric workflows and collaboration.
 - [[atlas/tools-techniques/AI Tools|AI Tools Arsenal]] – Magic School, Gemini, and "vibe coding".
@@ -63,7 +63,7 @@ up:: [[index]]
 ## Pathways & Crosslinks
 
 - **Learning Journey Loop**: [[calendar/index|Learning Journey MOC]] → [[calendar/timeline|Timeline]] → any concept or tool note → return here for deeper study.
-- **Project Application Loop**: [[Efforts MOC|Projects Hub]] → pick a project → follow callouts back to the relevant concept/tool notes listed above.
+- **Project Application Loop**: [[efforts/index.md|Projects Hub]] → pick a project → follow callouts back to the relevant concept/tool notes listed above.
 - **Assessment Loop**: [[atlas/tools-techniques/Assessment Portfolio|Portfolio Guide]] → [[atlas/concepts/Reflection Methods|Reflection Methods]] → [[calendar/milestones|Milestones]] for exemplars.
 
 ---
@@ -72,7 +72,7 @@ up:: [[index]]
 
 - Looking for teaching moves? Jump to [[atlas/connections/Community Engagement|Community Engagement]] and [[atlas/connections/Cross-Curricular|Cross-Curricular Links]].
 - Planning a new module? Combine [[atlas/concepts/Design Thinking MOC|Design Thinking MOC]] with [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] and [[efforts/Family Coasters|Family Coasters]].
-- Onboard a new student? Pair [[index|Course Quick Start]] with [[atlas/concepts/Concepts MOC|Core Concepts MOC]] and a guided pass through [[calendar/timeline|Timeline]].
+- Onboard a new student? Pair [[index|Course Quick Start]] with [[atlas/concepts/index|Core Concepts MOC]] and a guided pass through [[calendar/timeline|Timeline]].
 
 > [!note]
 > Add your own notes or tag new ideas inside the appropriate shelf so the Atlas stays the single source of truth for future cohorts.

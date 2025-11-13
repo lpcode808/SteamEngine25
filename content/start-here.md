@@ -25,7 +25,7 @@ publish: true
 
 ## Step 3: Watch It in Action
 
--   Explore the **[[Efforts MOC|Projects & Efforts Hub]]** and start with the [[efforts/Family Coasters|Family Coasters]] story to see how the process comes alive in students' work.
+-   Explore the **[[efforts/index.md|Projects & Efforts Hub]]** and start with the [[efforts/Family Coasters|Family Coasters]] story to see how the process comes alive in students' work.
 -   Jump to [[efforts/Robot Storage|Robot Storage]] for a collaborative challenge that highlights professional tools and AI partnership.
 
 ---
@@ -34,7 +34,7 @@ publish: true
 
 -   **If you want a timeline**: Head to the **[[calendar/index|Learning Journey MOC]]** for a day-by-day narrative of the semester.
 -   **If you're curious about AI**: Follow the **[[atlas/concepts/AI Integration MOC|AI Integration series]]** beginning with Part 1 on philosophy and ethics.
--   **If you're guiding others**: Use the **[[Atlas MOC|Atlas of Ideas]]** to jump into concepts, tools, and connections that support instruction.
+-   **If you're guiding others**: Use the **[[atlas/index|Atlas of Ideas]]** to jump into concepts, tools, and connections that support instruction.
 
 ---
 
@@ -46,5 +46,5 @@ publish: true
 
 ---
 
-*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[start-here|This Page]]*
+*Navigate: [[index|Home]] | [[atlas/index|Atlas]] | [[atlas/concepts/index|Concepts]] | [[start-here|This Page]]*
 

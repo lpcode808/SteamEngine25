@@ -5,7 +5,7 @@ title: "The 4Ms Framework: Systems Thinking for Makers"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # The 4Ms Framework: Systems Thinking for Makers
 
 > **"Maker, Machine, Method, Materials, Margin"** - A systematic approach to understanding and planning any making project.
@@ -243,4 +243,4 @@ Explore specific aspects of the 4 Ms framework:
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/concepts/AI Integration|AI Integration →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/concepts/AI Integration|AI Integration →]]*

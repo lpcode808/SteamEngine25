@@ -12,7 +12,8 @@ up:: [[Journey MOC]]
 
 ---
 
-## Day 1 {#day-01}
+# Day 1 {#day-01}
+
 **First Steps in STEAM**
 
 > **"Curiosity, Confidence, Creativity, Communication"** - The four principles that will guide our semester journey.
@@ -65,7 +66,8 @@ Create four connected words using **only cardstock and scissors**:
 
 ---
 
-## Day 2 {#day-02}
+# Day 2 {#day-02}
+
 **Digital Art Foundations**
 
 **Date**: Second day of semester  
@@ -109,7 +111,8 @@ Students begin understanding how digital design translates to physical making:
 
 ---
 
-## Day 3 {#day-03}
+# Day 3 {#day-03}
+
 **Family Projects Planning**
 
 **Date**: Third day of semester  
@@ -151,7 +154,8 @@ Moving beyond personal preference to consider:
 
 ---
 
-## Day 4-9 {#day-04}
+# Day 4-9 {#day-04}
+
 **Making and Reflecting**
 
 **Date**: Days 4-9 of semester  
@@ -190,7 +194,8 @@ Building communication skills through:
 
 ---
 
-## Day 10-14 {#day-10}
+# Day 10-14 {#day-10}
+
 **Public Communication**
 
 **Date**: Days 10-14 of semester  
@@ -237,7 +242,8 @@ Engaging with Honolulu's technology community:
 
 ---
 
-## Day 15-16 {#day-15}
+# Day 15-16 {#day-15}
+
 **Structured Reflection**
 
 **Date**: Days 15-16 of semester  
@@ -269,7 +275,8 @@ Processing input from Tech Week presentations:
 
 ---
 
-## Day 17-18 {#day-17}
+# Day 17-18 {#day-17}
+
 **Design Evaluation**
 
 **Date**: Days 17-18 of semester  
@@ -315,7 +322,8 @@ Beginning to work together on shared challenges:
 
 ---
 
-## Day 19 {#day-19}
+# Day 19 {#day-19}
+
 **Problem Identification**
 
 **Date**: Day 19 of semester  
@@ -347,7 +355,8 @@ Connecting classroom learning to authentic challenges:
 
 ---
 
-## Day 20 {#day-20}
+# Day 20 {#day-20}
+
 **AI Ethics and Robot Storage**
 
 **Date**: Day 20 of semester  
@@ -411,7 +420,8 @@ Visual AI for design development:
 
 ---
 
-## Day 21 {#day-21}
+# Day 21 {#day-21}
+
 **"Context Rot" Discussion**
 
 **Date**: Day 21 of semester  
@@ -458,7 +468,8 @@ Applying professional patterns to classroom projects:
 
 ---
 
-## Day 22 {#day-22}
+# Day 22 {#day-22}
+
 **Dimensional Planning**
 
 **Date**: Day 22 of semester  
@@ -522,7 +533,8 @@ Learning from professional prototyping practices:
 
 ---
 
-## Day 23 {#day-23}
+# Day 23 {#day-23}
+
 **Advanced AI Applications**
 
 **Date**: Day 23 of semester  
@@ -570,7 +582,8 @@ Learning from educational technology specialist:
 
 ---
 
-## Day 24-25 {#day-24}
+# Day 24-25 {#day-24}
+
 **Knowledge Transfer**
 
 **Date**: Days 24-25 of semester  
@@ -618,7 +631,8 @@ Understanding how to select projects for maximum learning and impact:
 
 ---
 
-## Day 26 {#day-26}
+# Day 26 {#day-26}
+
 **Project Discovery**
 
 **Date**: Day 26 of semester  
@@ -666,7 +680,8 @@ Learning to work effectively in educational collaboration:
 
 ---
 
-## Day 27 {#day-27}
+# Day 27 {#day-27}
+
 **USB Cable Measurements**
 
 **Date**: Day 27 of semester  
@@ -714,7 +729,8 @@ Working with teachers as professional partners:
 
 ---
 
-## Day 28 {#day-28}
+# Day 28 {#day-28}
+
 **AI Conference Integration**
 
 **Date**: Day 28 of semester  
@@ -771,7 +787,8 @@ Introduction to professional development tools:
 
 ---
 
-## Day 29 {#day-29}
+# Day 29 {#day-29}
+
 **Advanced Development Integration**
 
 **Date**: Day 29 of semester  
@@ -819,7 +836,8 @@ Connecting classroom learning to industry practices:
 
 ---
 
-## Day 30 {#day-30}
+# Day 30 {#day-30}
+
 **Image Generation and Editing**
 
 **Date**: Day 30 of semester  
@@ -883,7 +901,8 @@ Systematic approaches to recording and sharing learning:
 
 ---
 
-## Day 31 {#day-31}
+# Day 31 {#day-31}
+
 **Design Decision Maturity**
 
 **Date**: Day 31 of semester  
@@ -947,7 +966,8 @@ Connecting classroom work to real-world professional practice:
 
 ---
 
-## Day 32 {#day-32}
+# Day 32 {#day-32}
+
 **Real-World Cost Analysis**
 
 **Date**: Day 32 of semester  
@@ -1012,7 +1032,8 @@ Learning to think like professional designers and makers:
 
 ---
 
-## Day 33 {#day-33}
+# Day 33 {#day-33}
+
 **Hands-On Refinement**
 
 **Date**: Day 33 of semester  
@@ -1076,7 +1097,8 @@ Systematic approaches to design refinement:
 
 ---
 
-## Day 34 {#day-34}
+# Day 34 {#day-34}
+
 **Professional Design Process**
 
 **Date**: Day 34 of semester  
@@ -1141,7 +1163,8 @@ Understanding how technical skills develop in professional contexts:
 
 ---
 
-## Day 35 {#day-35}
+# Day 35 {#day-35}
+
 **Production Integration**
 
 **Date**: Day 35 of semester  

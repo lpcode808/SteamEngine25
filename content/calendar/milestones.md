@@ -193,4 +193,4 @@ As you explore these milestones:
 
 ---
 
-*Navigate: [[calendar/timeline|← Learning Timeline]] | [[calendar/consolidated|Daily Details →]] | [[atlas/concepts/Concepts MOC|Core Concepts →]]*
+*Navigate: [[calendar/timeline|← Learning Timeline]] | [[calendar/consolidated|Daily Details →]] | [[atlas/concepts/index|Core Concepts →]]*

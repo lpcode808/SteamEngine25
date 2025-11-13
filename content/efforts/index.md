@@ -65,7 +65,7 @@ publish: true
 
 ## Crosslinks & Next Steps
 
-- **Concept Backlinks**: Every project references the relevant sections inside [[Atlas MOC|Atlas of Ideas]].
+- **Concept Backlinks**: Every project references the relevant sections inside [[atlas/index|Atlas of Ideas]].
 - **Timeline Touchpoints**: Match project moments with [[calendar/timeline|Semester Timeline]] or specific [[calendar/consolidated|Daily Stories]].
 - **Assessment Evidence**: Collect artifacts and reflections through [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolio]].
 - **Community Showcases**: Pair project walkthroughs with [[atlas/connections/Community Engagement|Community Engagement]] to design authentic audiences.

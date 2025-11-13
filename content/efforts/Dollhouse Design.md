@@ -5,7 +5,7 @@ title: "Educational Dollhouse: Cross-Curricular Design Excellence"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Efforts MOC]]
+up: [[efforts/index.md]]
 # Educational Dollhouse: Cross-Curricular Design Excellence
 
 > **"The most impactful application of their laser-cutting skills and collaborative abilities"** - How a simple storage problem became sophisticated educational tool design.

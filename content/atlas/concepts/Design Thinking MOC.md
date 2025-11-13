@@ -4,7 +4,7 @@ title: "Design Thinking MOC"
 aliases: ["Design Process"]
 publish: true
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 
 # Design Thinking MOC
 
@@ -60,4 +60,4 @@ Design Thinking is not a strict, linear process. It's a flexible cycle where you
 > [!seealso] See Also
 > - [[atlas/concepts/4Ms Framework|The 4Ms Framework]] - A great tool for the **Ideate** and **Prototype** phases.
 > - [[atlas/concepts/Constraint-Based Creativity|Constraint-Based Creativity]] - Constraints are critical for the **Define** phase.
-> - [[Atlas MOC|Atlas of Ideas]]
+> - [[atlas/index|Atlas of Ideas]]

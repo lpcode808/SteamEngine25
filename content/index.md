@@ -22,7 +22,7 @@ Pressed for time? Here are the five most important places to start:
 
 1.  **[[calendar/index|Learning Journey MOC]]**: Get a high-level overview of the entire semester.
 2.  **[[atlas/concepts/Design Thinking MOC|Design Thinking MOC]]**: Understand our core problem-solving process.
-3.  **[[Efforts MOC|Projects & Efforts Hub]]**: See the amazing things students built.
+3.  **[[efforts/index.md|Projects & Efforts Hub]]**: See the amazing things students built.
 4.  **[[atlas/tools-techniques/Laser Cutting|Laser Cutting Guide]]**: Learn about our most-used tool.
 5.  **[[atlas/concepts/AI Integration MOC|AI Integration MOC]]**: Discover our "ethics-first" approach to AI.
 
@@ -32,11 +32,11 @@ Pressed for time? Here are the five most important places to start:
 
 Follow this path to get a solid understanding of what this course is all about.
 
-1.  **Understand the "Why"**: Start with the **[[Atlas MOC|Atlas of Ideas]]** to see the big concepts that drive everything we do.
+1.  **Understand the "Why"**: Start with the **[[atlas/index|Atlas of Ideas]]** to see the big concepts that drive everything we do.
 2.  **See the Progression**: Skim the **[[calendar/timeline|Semester Timeline]]** to understand how skills build from week to week.
 3.  **Explore a First Project**: Read about the **[[efforts/Family Coasters|Family Coasters]]** project to see how we introduce core skills in a personal, meaningful way.
 4.  **See an Advanced Project**: Jump to the **[[efforts/Dollhouse Design|Educational Dollhouse]]** project to see how those skills culminate in professional-level, collaborative work.
-5.  **Check out the Tools**: Look at the **[[Tools MOC|Tools & Techniques Hub]]** to get a sense of the technologies we use.
+5.  **Check out the Tools**: Look at the **[[atlas/tools-techniques/index|Tools & Techniques Hub]]** to get a sense of the technologies we use.
 
 ---
 
@@ -47,8 +47,8 @@ Ready to go deeper? Use these Maps of Content (MOCs) to explore key areas.
 -   **[[atlas/concepts/Design Thinking MOC|Design Thinking]]**: Master our 5-step process for creative problem-solving.
 -   **[[atlas/concepts/4Ms Framework MOC|The 4Ms Framework]]**: Learn the system for planning and troubleshooting any project.
 -   **[[atlas/concepts/AI Integration MOC|AI Partnership]]**: Explore how we use AI ethically and effectively as a creative collaborator.
--   **[[Tools MOC|Tools & Techniques]]**: Find detailed guides on our core making and design skills.
--   **[[Real World|Connections to the World]]**: See how our learning applies outside the classroom.
+-   **[[atlas/tools-techniques/index|Tools & Techniques]]**: Find detailed guides on our core making and design skills.
+-   **[[atlas/connections/index|Connections to the World]]**: See how our learning applies outside the classroom.
 
 ---
 
@@ -75,12 +75,12 @@ Inspired to make something? Here’s a path to get you started.
 - [[calendar/milestones|Key Milestones]] – breakthrough moments and why they mattered.
 - [[calendar/consolidated|Daily Log]] – 35 days of observations, prompts, and reflections.
 
-### [[Atlas MOC|Atlas of Ideas]]
-- [[atlas/concepts/Concepts MOC|Core Concepts MOC]] – Design Thinking, 4Ms, AI partnership, reflection.
-- [[Real World|Connections MOC]] – Cross-curricular, community, and future pathways.
-- [[Tools MOC|Tools & Techniques MOC]] – Laser cutting, CAD, AI tools, portfolio craft.
+### [[atlas/index|Atlas of Ideas]]
+- [[atlas/concepts/index|Core Concepts MOC]] – Design Thinking, 4Ms, AI partnership, reflection.
+- [[atlas/connections/index|Connections MOC]] – Cross-curricular, community, and future pathways.
+- [[atlas/tools-techniques/index|Tools & Techniques MOC]] – Laser cutting, CAD, AI tools, portfolio craft.
 
-### [[Efforts MOC|Projects & Efforts]]
+### [[efforts/index.md|Projects & Efforts]]
 - [[efforts/Family Coasters|Family Coasters]] – foundational making with personal meaning.
 - [[efforts/Robot Storage|Robot Storage]] – professional collaboration with precision CAD.
 - [[efforts/Dollhouse Design|Educational Dollhouse]] – cross-curricular capstone.
@@ -97,12 +97,12 @@ Inspired to make something? Here’s a path to get you started.
 
 > [!tip] Educators & Facilitators
 > 1. Start with this Quick Start for the instructional overview.  
-> 2. Visit [[Atlas MOC|Atlas of Ideas]] to understand the conceptual spine.  
+> 2. Visit [[atlas/index|Atlas of Ideas]] to understand the conceptual spine.  
 > 3. Examine [[calendar/milestones|milestones]] for authentic assessment touchpoints.
 
 > [!tip] Families & Community Partners
-> 1. Browse [[Efforts MOC|Projects Hub]] to see what students built.  
-> 2. Jump to [[Real World|Connections MOC]] to learn how projects tie into community needs.  
+> 1. Browse [[efforts/index.md|Projects Hub]] to see what students built.  
+> 2. Jump to [[atlas/connections/index|Connections MOC]] to learn how projects tie into community needs.  
 > 3. Read [[calendar/milestones|Key Milestones]] to celebrate progress together.
 
 ---

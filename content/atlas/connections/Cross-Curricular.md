@@ -48,4 +48,4 @@ Kinesthetic learning through physical manipulation, cultural context for house v
 
 ---
 
-*Navigate: [[Real World|← Connections Home]] | [[atlas/connections/Community Engagement|Community Engagement →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
+*Navigate: [[atlas/connections/index|← Connections Home]] | [[atlas/connections/Community Engagement|Community Engagement →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*

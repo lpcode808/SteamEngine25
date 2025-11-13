@@ -5,7 +5,7 @@ title: "Tools & Techniques: Mastering the Maker Toolkit"
 publish: true
 updated: 2025-11-12
 ---
-up: [[index]]
+up: [[atlas/index|index]]
 # Tools & Techniques: Mastering the Maker Toolkit
 
 > **"Tools amplify human creativity when we understand both their power and their limits"** - Building technical fluency in service of meaningful making.
@@ -121,7 +121,7 @@ Tools develop through authentic application:
 
 ## Tool Connections Across Learning
 
-### **[[atlas/concepts/Concepts MOC|Core Concepts]] Integration**
+### **[[atlas/concepts/index|Core Concepts]] Integration**
 - **[[atlas/concepts/Design Thinking|Design Thinking]]**: Tools serve human-centered problem solving rather than driving solutions
 - **[[atlas/concepts/4Ms Framework|4Ms Framework]]**: Understanding relationships between Maker, Machine, Method, Materials, Margin
 - **[[atlas/concepts/AI Integration|AI Partnership]]**: Ethical and effective integration of AI across all tool categories
@@ -133,7 +133,7 @@ Tools develop through authentic application:
 - **Cross-curricular integration**: Tools support learning across disciplines rather than competing with other subjects
 - **Professional preparation**: Tool fluency and collaborative practices prepare students for future learning and career contexts
 
-### **[[Real World|Beyond the Classroom]]**  
+### **[[atlas/connections/index|Beyond the Classroom]]**  
 - **[[atlas/connections/Cross-Curricular|Cross-Curricular Links]]**: How STEAM tools enhance learning in other subjects
 - **[[atlas/connections/Community Engagement|Community Engagement]]**: Sharing tool capabilities and learning with broader community
 - **[[atlas/connections/Future Learning|Future Pathways]]**: How tool fluency opens doors to advanced learning and career opportunities
@@ -166,4 +166,4 @@ When students develop strong relationships with powerful tools while maintaining
 
 ---
 
-*Navigate: [[Atlas MOC|← Atlas Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting →]] | [[Project Storyarc|Real Projects →]]*
+*Navigate: [[atlas/index|← Atlas Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting →]] | [[Project Storyarc|Real Projects →]]*

@@ -5,7 +5,7 @@ title: "Iterative Refinement: Small Improvements Based on Testing"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Iterative Refinement: Small Improvements Based on Testing
 
 > **"Small improvements based on testing results"** - The path from good to great through systematic iteration.
@@ -134,5 +134,5 @@ Both [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse Design|Doll
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/Functional Testing|Functional Testing ←]] | [[atlas/concepts/Rapid Iteration|Rapid Iteration →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Functional Testing|Functional Testing ←]] | [[atlas/concepts/Rapid Iteration|Rapid Iteration →]]*
 

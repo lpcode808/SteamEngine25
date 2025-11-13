@@ -5,7 +5,7 @@ title: "AI Tools for STEAM Education"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Tools MOC]]
+up: [[atlas/tools-techniques/index]]
 # AI Tools for STEAM Education
 
 > **"Ethics before capabilities, partnership over replacement"** - Comprehensive guide to responsible AI integration in educational making and design.
@@ -180,4 +180,4 @@ AI tools in STEAM education represent a fundamental shift in how students approa
 
 ---
 
-*Navigate: [[Tools MOC|← Tools & Techniques Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting →]] | [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolio →]]*
+*Navigate: [[atlas/tools-techniques/index|← Tools & Techniques Home]] | [[atlas/tools-techniques/Laser Cutting|Laser Cutting →]] | [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolio →]]*

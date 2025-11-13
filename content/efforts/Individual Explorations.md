@@ -5,7 +5,7 @@ title: "Individual Explorations: Student-Driven Discovery"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Efforts MOC]]
+up: [[efforts/index.md]]
 # Individual Explorations: Student-Driven Discovery
 
 > **"When curiosity leads, learning follows"** - Self-directed investigations that emerge from personal interests and authentic questions.
@@ -191,7 +191,7 @@ Individual explorations assess different dimensions than structured projects:
 
 ### **Tool-Driven Explorations**
 *"I want to learn this tool/technique - what can I make with it?"*
-- Often emerge after exposure to new [[Tools MOC|digital fabrication]] capabilities
+- Often emerge after exposure to new [[atlas/tools-techniques/index|digital fabrication]] capabilities
 - Focus on technical skill development through meaningful application
 - Tend toward iterative design improvement and complexity escalation
 
@@ -245,9 +245,9 @@ Individual explorations serve multiple purposes in the overall [[calendar/timeli
 ### **Synthesis Opportunity**
 Students integrate skills developed across:
 - **[[atlas/concepts/Design Thinking|Design thinking]]** methodology and mindset
-- **[[Tools MOC|Technical capabilities]]** from laser cutting to [[atlas/concepts/AI Integration|AI partnership]]
+- **[[atlas/tools-techniques/index|Technical capabilities]]** from laser cutting to [[atlas/concepts/AI Integration|AI partnership]]
 - **[[atlas/concepts/Reflection Methods|Documentation practices]]** and portfolio development
-- **[[Real World|Community engagement]]** and collaboration skills
+- **[[atlas/connections/index|Community engagement]]** and collaboration skills
 
 ### **Differentiation Through Choice**
 - **Learning style accommodation** through self-selected project types

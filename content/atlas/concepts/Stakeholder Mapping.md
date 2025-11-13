@@ -5,7 +5,7 @@ title: "Stakeholder Mapping: Understanding All the People Affected"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Concepts MOC]]
+up: [[atlas/concepts/index]]
 # Stakeholder Mapping: Understanding All the People Affected
 
 > **"Who else cares about this problem and solution?"** - A systematic approach to identifying everyone affected by your design decisions.
