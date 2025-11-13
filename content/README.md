@@ -3,7 +3,7 @@ title: "STEAM Course Quick Start"
 publish: true
 ---
 
-# Welcome to the STEAM Learning Hub!
+# How to navigate
 
 > [!tldr] Welcome!
 > This is your guide to a semester of bringing ideas to life. Whether you're a student, teacher, or just curious, this is your starting point for exploring a journey of creativity, collaboration, and making.

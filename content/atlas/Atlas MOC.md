@@ -2,7 +2,7 @@
 title: "Atlas of Ideas"
 publish: true
 ---
-
+up:: [[index]]
 # Atlas of Ideas: Concept, Connection, and Tool MOC
 
 > [!tldr]

@@ -6,7 +6,7 @@ description: "Interactive map of the STEAM learning ecosystem and its core navig
 publish: true
 updated: 2025-11-12
 ---
-# STEAM: Bringing Ideas to Life
+# Home for STEAM: Bringing Ideas to Life
 ## Your Map of the Learning Ecosystem
 
 > [!tldr]
