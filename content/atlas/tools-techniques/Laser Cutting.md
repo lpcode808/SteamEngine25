@@ -27,7 +27,7 @@ Laser cutting uses a focused laser beam to cut or engrave materials with extreme
 
 ## Safety First: Understanding, Not Just Rules
 
-### **[Day 01](../../calendar/consolidated.md#day-01)**: Introduction to Safety Thinking
+### **[Day 1](../../calendar/consolidated.md#day-1)**: Introduction to Safety Thinking
 *"When we burn stuff precisely, ask yourself, what might you need to worry about?"*
 
 #### **Systematic Safety Approach**
@@ -51,7 +51,7 @@ Laser cutting uses a focused laser beam to cut or engrave materials with extreme
 
 ### **Digital Design Pipeline**
 
-#### **[Day 02](../../calendar/consolidated.md#day-02)**: First Digital Design Experience
+#### **[Day 2](../../calendar/consolidated.md#day-2)**: First Digital Design Experience
 *"Students learned Xtool Creative Suite software, focusing on 'messy first, then precise' approach"*
 
 **Design Workflow:**

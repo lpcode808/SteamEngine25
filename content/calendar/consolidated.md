@@ -12,7 +12,7 @@ up:: [[Journey MOC]]
 
 ---
 
-# Day 1 {#day-01}
+# Day 1
 
 **First Steps in STEAM**
 
@@ -66,7 +66,7 @@ Create four connected words using **only cardstock and scissors**:
 
 ---
 
-# Day 2 {#day-02}
+# Day 2
 
 **Digital Art Foundations**
 
@@ -111,7 +111,7 @@ Students begin understanding how digital design translates to physical making:
 
 ---
 
-# Day 3 {#day-03}
+# Day 3
 
 **Family Projects Planning**
 
@@ -154,7 +154,7 @@ Moving beyond personal preference to consider:
 
 ---
 
-# Day 4-9 {#day-04}
+# Day 4-9
 
 **Making and Reflecting**
 
@@ -194,7 +194,7 @@ Building communication skills through:
 
 ---
 
-# Day 10-14 {#day-10}
+# Day 10-14
 
 **Public Communication**
 
@@ -242,7 +242,7 @@ Engaging with Honolulu's technology community:
 
 ---
 
-# Day 15-16 {#day-15}
+# Day 15-16
 
 **Structured Reflection**
 
@@ -275,7 +275,7 @@ Processing input from Tech Week presentations:
 
 ---
 
-# Day 17-18 {#day-17}
+# Day 17-18
 
 **Design Evaluation**
 
@@ -322,7 +322,7 @@ Beginning to work together on shared challenges:
 
 ---
 
-# Day 19 {#day-19}
+# Day 19
 
 **Problem Identification**
 
@@ -355,7 +355,7 @@ Connecting classroom learning to authentic challenges:
 
 ---
 
-# Day 20 {#day-20}
+# Day 20
 
 **AI Ethics and Robot Storage**
 
@@ -420,7 +420,7 @@ Visual AI for design development:
 
 ---
 
-# Day 21 {#day-21}
+# Day 21
 
 **"Context Rot" Discussion**
 
@@ -468,7 +468,7 @@ Applying professional patterns to classroom projects:
 
 ---
 
-# Day 22 {#day-22}
+# Day 22
 
 **Dimensional Planning**
 
@@ -533,7 +533,7 @@ Learning from professional prototyping practices:
 
 ---
 
-# Day 23 {#day-23}
+# Day 23
 
 **Advanced AI Applications**
 
@@ -582,7 +582,7 @@ Learning from educational technology specialist:
 
 ---
 
-# Day 24-25 {#day-24}
+# Day 24-25
 
 **Knowledge Transfer**
 
@@ -631,7 +631,7 @@ Understanding how to select projects for maximum learning and impact:
 
 ---
 
-# Day 26 {#day-26}
+# Day 26
 
 **Project Discovery**
 
@@ -680,7 +680,7 @@ Learning to work effectively in educational collaboration:
 
 ---
 
-# Day 27 {#day-27}
+# Day 27
 
 **USB Cable Measurements**
 
@@ -729,7 +729,7 @@ Working with teachers as professional partners:
 
 ---
 
-# Day 28 {#day-28}
+# Day 28
 
 **AI Conference Integration**
 
@@ -787,7 +787,7 @@ Introduction to professional development tools:
 
 ---
 
-# Day 29 {#day-29}
+# Day 29
 
 **Advanced Development Integration**
 
@@ -836,7 +836,7 @@ Connecting classroom learning to industry practices:
 
 ---
 
-# Day 30 {#day-30}
+# Day 30
 
 **Image Generation and Editing**
 
@@ -901,7 +901,7 @@ Systematic approaches to recording and sharing learning:
 
 ---
 
-# Day 31 {#day-31}
+# Day 31
 
 **Design Decision Maturity**
 
@@ -966,7 +966,7 @@ Connecting classroom work to real-world professional practice:
 
 ---
 
-# Day 32 {#day-32}
+# Day 32
 
 **Real-World Cost Analysis**
 
@@ -1032,7 +1032,7 @@ Learning to think like professional designers and makers:
 
 ---
 
-# Day 33 {#day-33}
+# Day 33
 
 **Hands-On Refinement**
 
@@ -1097,7 +1097,7 @@ Systematic approaches to design refinement:
 
 ---
 
-# Day 34 {#day-34}
+# Day 34
 
 **Professional Design Process**
 
@@ -1163,7 +1163,7 @@ Understanding how technical skills develop in professional contexts:
 
 ---
 
-# Day 35 {#day-35}
+# Day 35
 
 **Production Integration**
 

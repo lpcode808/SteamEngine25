@@ -12,10 +12,10 @@ This timeline shows the progression from tentative first steps to confident maki
 ### 🌱 **Foundation Phase** (Days 1-9)
 **Building confidence through immediate success**
 
-- **[[calendar/consolidated#day-01|Day 1]]**: [[atlas/concepts/Design Thinking|Design Thinking]] introduction through collaborative [[efforts/Family Coasters|cardstock challenge]]
-- **[[calendar/consolidated#day-02|Day 2]]**: First digital design with [[atlas/tools-techniques/Laser Cutting|Xtool Creative Suite]]
-- **[[calendar/consolidated#day-03|Day 3]]**: [[atlas/concepts/Design Thinking|Stanford D.school methodology]] and family project planning
-- **[[calendar/consolidated#day-04|Days 4-9]]**: [[efforts/Family Coasters|Family coaster projects]], [[atlas/tools-techniques/Assessment Portfolio|portfolio development]], and peer presentations
+- **[[calendar/consolidated#day-1|Day 1]]**: [[atlas/concepts/Design Thinking|Design Thinking]] introduction through collaborative [[efforts/Family Coasters|cardstock challenge]]
+- **[[calendar/consolidated#day-2|Day 2]]**: First digital design with [[atlas/tools-techniques/Laser Cutting|Xtool Creative Suite]]
+- **[[calendar/consolidated#day-3|Day 3]]**: [[atlas/concepts/Design Thinking|Stanford D.school methodology]] and family project planning
+- **[[calendar/consolidated#day-4-9|Days 4-9]]**: [[efforts/Family Coasters|Family coaster projects]], [[atlas/tools-techniques/Assessment Portfolio|portfolio development]], and peer presentations
 
 **Key Milestone**: Students create personalized laser-cut items while learning documentation and reflection practices.
 
@@ -24,9 +24,9 @@ This timeline shows the progression from tentative first steps to confident maki
 ### 🚀 **Exploration Phase** (Days 10-18)  
 **Connecting classroom learning to the real world**
 
-- **[[calendar/consolidated#day-10|Days 10-14]]**: [[atlas/connections/Community Engagement|Honolulu Tech Week]] preparation and community engagement
-- **[[calendar/consolidated#day-15|Days 15-16]]**: Structured reflection and [[atlas/concepts/Reflection Methods|feedback integration]]
-- **[[calendar/consolidated#day-17|Days 17-18]]**: Design evaluation, 3D printing introduction, collaborative project planning
+- **[[calendar/consolidated#day-10-14|Days 10-14]]**: [[atlas/connections/Community Engagement|Honolulu Tech Week]] preparation and community engagement
+- **[[calendar/consolidated#day-15-16|Days 15-16]]**: Structured reflection and [[atlas/concepts/Reflection Methods|feedback integration]]
+- **[[calendar/consolidated#day-17-18|Days 17-18]]**: Design evaluation, 3D printing introduction, collaborative project planning
 
 **Key Milestone**: Students present their learning to community members, building confidence in communication.
 
@@ -40,7 +40,7 @@ This timeline shows the progression from tentative first steps to confident maki
 - **[[calendar/consolidated#day-21|Day 21]]**: AI limitations discussion, iPhone prototyping examples
 - **[[calendar/consolidated#day-22|Day 22]]**: [[atlas/tools-techniques/Laser Cutting|Tool safety]] and dimensional prototyping
 - **[[calendar/consolidated#day-23|Day 23]]**: Advanced [[atlas/concepts/AI Integration|AI applications]], guest teacher collaboration
-- **[[calendar/consolidated#day-24|Days 24-25]]**: [[atlas/connections/Cross-Curricular|Substitute teacher collaboration]] and knowledge transfer
+- **[[calendar/consolidated#day-24-25|Days 24-25]]**: [[atlas/connections/Cross-Curricular|Substitute teacher collaboration]] and knowledge transfer
 
 **Key Milestone**: Students work on real problems for teachers while mastering advanced prototyping techniques.
 
@@ -98,8 +98,8 @@ This timeline shows the progression from tentative first steps to confident maki
 ### By Interest Area
 - **Making & Fabrication**: [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] → [[efforts/Family Coasters|First Projects]] → [[efforts/Robot Storage|Complex Designs]]
 - **AI & Technology**: [[atlas/concepts/AI Integration|AI Partnership]] → [[calendar/consolidated#day-20|First Applications]] → [[calendar/consolidated#day-30|Advanced Use]]
-- **Design Process**: [[atlas/concepts/Design Thinking|Framework]] → [[calendar/consolidated#day-03|Early Application]] → [[efforts/Dollhouse Design|Sophisticated Implementation]]
-- **Collaboration**: [[calendar/consolidated#day-01|Team Challenges]] → [[atlas/connections/Community Engagement|Community Presentation]] → [[atlas/connections/Cross-Curricular|Professional Collaboration]]
+- **Design Process**: [[atlas/concepts/Design Thinking|Framework]] → [[calendar/consolidated#day-3|Early Application]] → [[efforts/Dollhouse Design|Sophisticated Implementation]]
+- **Collaboration**: [[calendar/consolidated#day-1|Team Challenges]] → [[atlas/connections/Community Engagement|Community Presentation]] → [[atlas/connections/Cross-Curricular|Professional Collaboration]]
 
 ---
 

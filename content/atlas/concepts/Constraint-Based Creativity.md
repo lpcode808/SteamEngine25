@@ -20,7 +20,7 @@ Rather than hindering creativity, well-designed constraints focus creative energ
 ## Types of Creative Constraints
 
 ### Material Constraints
-- **[[calendar/consolidated#day-01|Day 1]]**: Only cardstock and scissors for connected words
+- **[[calendar/consolidated#day-1|Day 1]]**: Only cardstock and scissors for connected words
 - **[[efforts/Family Coasters|Family Coasters]]**: Working within laser cutting material properties
 - **[[efforts/Dollhouse Design|Dollhouse]]**: 2'×1' cutting area affecting overall design scale
 

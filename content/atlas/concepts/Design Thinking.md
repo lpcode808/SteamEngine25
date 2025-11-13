@@ -29,7 +29,7 @@ Design thinking is a human-centered approach to innovation that integrates the n
 
 > *"Who will use this? What's the real problem we're solving?"*
 
-**In Practice**: [[calendar/consolidated#day-03|Day 03]]
+**In Practice**: [[calendar/consolidated#day-3|Day 3]]
 
 Students practiced observation and sketching exercises to develop empathy for their target users (family members) while learning about constraint-based design within material limits.
 

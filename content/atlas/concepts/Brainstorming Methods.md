@@ -29,7 +29,7 @@ Generating many possibilities before evaluating which ones to pursue.
 
 ## Key Applications
 
-### [[calendar/consolidated#day-01|Day 1 Connected Words Challenge]]
+### [[calendar/consolidated#day-1|Day 1 Connected Words Challenge]]
 Silent individual brainstorming followed by collaborative building.
 
 ### [[calendar/consolidated#day-20|Day 20 AI-Assisted Ideation]]

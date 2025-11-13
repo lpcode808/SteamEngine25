@@ -20,7 +20,7 @@ Rapid iteration means making many small improvements quickly rather than trying 
 ## Iteration Philosophy
 
 ### "Messy First, Then Precise"
-- **[[calendar/consolidated#day-02|Day 2]]**: Digital art exploration before technical refinement
+- **[[calendar/consolidated#day-2|Day 2]]**: Digital art exploration before technical refinement
 - **[[calendar/consolidated#day-22|Day 22]]**: Cardboard prototyping before final fabrication
 - Multiple testing cycles before committing to final materials
 

@@ -12,7 +12,7 @@ These aren't just theories - they're practical frameworks that guided every proj
 ### **[[atlas/concepts/Design Thinking|🎯 Design Thinking Process]]**
 **Empathize → Define → Ideate → Prototype → Test**
 
-The human-centered problem-solving methodology that became second nature to our students. From [[calendar/consolidated#day-01|Day 1's cardstock challenge]] to [[efforts/Robot Storage|professional teacher solutions]], design thinking provided the structure for tackling any challenge.
+The human-centered problem-solving methodology that became second nature to our students. From [[calendar/consolidated#day-1|Day 1's cardstock challenge]] to [[efforts/Robot Storage|professional teacher solutions]], design thinking provided the structure for tackling any challenge.
 
 **Key Applications:**
 - [[efforts/Family Coasters|Personal projects]] with family focus
@@ -83,8 +83,8 @@ The assessment philosophy that prioritizes growth mindset and process learning o
 
 ### **Foundation Projects** (Days 1-9)
 **Building confidence through immediate application**
-- [[calendar/consolidated#day-01|Connected words challenge]]: Design thinking introduction
-- [[calendar/consolidated#day-03|Family projects]]: User-centered design
+- [[calendar/consolidated#day-1|Connected words challenge]]: Design thinking introduction
+- [[calendar/consolidated#day-3|Family projects]]: User-centered design
 - [[efforts/Family Coasters|Coaster creation]]: Materials and methods exploration
 
 ### **Development Projects** (Days 10-25)  

@@ -48,7 +48,7 @@ The maker brings expertise, creativity, and decision-making to every project. Un
 - **Collaboration style** and team dynamics
 
 #### Examples from Our Journey
-- **[[calendar/consolidated#day-01|Day 01]]**: Collaborative design instincts
+- **[[calendar/consolidated#day-1|Day 1]]**: Collaborative design instincts
 - **[[calendar/consolidated#day-26|Day 26]]**: [[atlas/concepts/Group Cohesion|Collaborative strengths]] driving project selection
 
 ---
@@ -101,7 +101,7 @@ Method encompasses both technical processes and learning approaches. The same ou
 - **[[atlas/concepts/Embedded Learning|Embedded Learning]]**: Observing professional workflows before hands-on practice
 
 #### Method Evolution Examples
-- **[[calendar/consolidated#day-02|Day 02]]**: "Messy first, then precise"
+- **[[calendar/consolidated#day-2|Day 2]]**: "Messy first, then precise"
 - **[[calendar/consolidated#day-20|Day 20]]**: AI ethics before AI tools
 
 ---

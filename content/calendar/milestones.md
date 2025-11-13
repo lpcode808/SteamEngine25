@@ -7,7 +7,7 @@ up: [[Journey MOC]]
 
 ## 🎯 Foundation Milestones
 
-### **First Collaborative Success** | [[calendar/consolidated#day-01|Day 1]]
+### **First Collaborative Success** | [[calendar/consolidated#day-1|Day 1]]
 **The Connected Words Challenge**
 
 Students created four connected words from cardstock using only scissors - no breaks in letters, readable across the room. This seemingly simple challenge introduced:
@@ -23,7 +23,7 @@ Students created four connected words from cardstock using only scissors - no br
 
 ---
 
-### **Digital-Physical Connection** | [[calendar/consolidated#day-02|Day 2]]
+### **Digital-Physical Connection** | [[calendar/consolidated#day-2|Day 2]]
 **From Screen to Reality**
 
 First experience with [[atlas/tools-techniques/Laser Cutting|Xtool Creative Suite]], transforming digital designs into physical objects:
