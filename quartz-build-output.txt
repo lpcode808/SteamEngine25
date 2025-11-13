@@ -1,0 +1,125 @@
+
+ Quartz v4.5.2  
+
+▲ [WARNING] sass warning: 19 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings. [plugin sass-plugin]
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls [plugin sass-plugin]
+
+    quartz/styles/themes/_index.scss:3102:6:
+      3102 │ background-color: transparent
+           ╵       ^
+
+  The plugin "sass-plugin" was triggered by this import
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls [plugin sass-plugin]
+
+    quartz/styles/themes/_index.scss:3102:6:
+      3102 │ background-color: transparent
+           ╵       ^
+
+  The plugin "sass-plugin" was triggered by this import
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls [plugin sass-plugin]
+
+    quartz/styles/themes/_index.scss:3102:6:
+      3102 │ background-color: transparent
+           ╵       ^
+
+  The plugin "sass-plugin" was triggered by this import
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls [plugin sass-plugin]
+
+    quartz/styles/themes/_index.scss:3102:6:
+      3102 │ background-color: transparent
+           ╵       ^
+
+  The plugin "sass-plugin" was triggered by this import
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls [plugin sass-plugin]
+
+    quartz/styles/themes/_index.scss:3102:6:
+      3102 │ background-color: transparent
+           ╵       ^
+
+  The plugin "sass-plugin" was triggered by this import
+
+    quartz/plugins/emitters/componentResources.ts:8:19:
+      8 │ import styles from "../../styles/custom.scss"
+        ╵                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cleaned output directory `public` in 12ms
+Found 47 input files from `content` in 23ms
+Parsing input files using 1 threads
+
+Warning: found invalid date "0" in `atlas/Atlas MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `atlas/concepts/4Ms Framework MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `atlas/concepts/AI Integration MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `atlas/concepts/Concepts MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `atlas/concepts/Design Thinking MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `calendar/Journey MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `calendar/milestones.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `calendar/timeline.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `efforts/Efforts MOC.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `efforts/Robot Storage.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 47 Markdown files in 3s
+Filtered out 0 files in 142μs
+Emitting files
+Emitted 109 files to `public` in 510ms
+Done processing 47 files in 3s

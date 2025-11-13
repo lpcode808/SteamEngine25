@@ -1,0 +1,880 @@
+Analyzing markdown files for broken links...
+Repository: /home/user/SteamEngine25
+
+Found 123 markdown files to analyze
+
+================================================================================
+LINK ANALYSIS REPORT
+================================================================================
+
+1. BROKEN WIKILINKS
+--------------------------------------------------------------------------------
+
+content/atlas/Atlas MOC.md:
+  Line 65: [[calendar/index]]
+  Line 67: [[tools-techniques/Assessment Portfolio]]
+  Line 67: [[concepts/Reflection Methods]]
+
+content/atlas/concepts/4Ms Framework MOC.md:
+  Line 22: [[concepts/4Ms Framework]]
+  Line 24: [[concepts/Group Cohesion]]
+  Line 26: [[concepts/4Ms Framework]]
+  Line 28: [[tools-techniques/Laser Cutting]]
+  Line 30: [[concepts/4Ms Framework]]
+  Line 31: [[concepts/Design Thinking]]
+  Line 32: [[tools-techniques/Onshape CAD]]
+  Line 32: [[concepts/Embedded Learning]]
+  Line 34: [[concepts/4Ms Framework]]
+  Line 36: [[concepts/Cardboard Prototyping]]
+  Line 36: [[concepts/Plywood Projects]]
+  Line 38: [[concepts/4Ms Framework]]
+  Line 46: [[concepts/4Ms Framework]]
+  Line 48: [[concepts/Group Cohesion]]
+  Line 49: [[tools-techniques/Laser Cutting]]
+  Line 50: [[concepts/Design Thinking]]
+  Line 51: [[concepts/Cardboard Prototyping]]
+  Line 59: [[tools-techniques/Assessment Portfolio]]
+  Line 64: [[concepts/Design Thinking]]
+  Line 65: [[concepts/Constraint-Based Creativity]]
+
+content/atlas/concepts/Design Thinking MOC.md:
+  Line 23: [[concepts/Design Thinking]]
+  Line 24: [[concepts/Observation Sketching]]
+  Line 27: [[concepts/Design Thinking]]
+  Line 31: [[concepts/Design Thinking]]
+  Line 32: [[concepts/Brainstorming Methods]]
+  Line 32: [[concepts/AI Integration]]
+  Line 35: [[concepts/Design Thinking]]
+  Line 36: [[concepts/Cardboard Prototyping]]
+  Line 39: [[concepts/Design Thinking]]
+  Line 40: [[concepts/User Feedback]]
+  Line 40: [[concepts/Iterative Refinement]]
+  Line 47: [[concepts/Design Thinking]]
+  Line 56: [[tools-techniques/Assessment Portfolio]]
+  Line 61: [[concepts/4Ms Framework]]
+  Line 62: [[concepts/Constraint-Based Creativity]]
+
+content/calendar/Journey MOC.md:
+  Line 118: [[calendar/index]]
+
+content/calendar/consolidated.md:
+  Line 1237: [[calendar/index]]
+
+content/calendar/timeline.md:
+  Line 119: [[calendar/index]]
+
+content/efforts/Project Storyarc.md:
+  Line 148: [[calendar/index]]
+
+content/index.md:
+  Line 21: [[calendar/index]]
+  Line 71: [[calendar/index]]
+
+docs/advanced/architecture.md:
+  Line 26: [[configuration]]
+  Line 30: [[paths]]
+  Line 38: [[layout]]
+  Line 49: [[SPA Routing]]
+  Line 49: [[configuration]]
+  Line 52: [[making plugins]]
+
+docs/advanced/creating components.md:
+  Line 73: [[making plugins]]
+  Line 152: [[SPA Routing]]
+  Line 164: [[SPA Routing]]
+  Line 224: [[configuration]]
+
+docs/advanced/making plugins.md:
+  Line 10: [[quartz transform pipeline.png]]
+  Line 26: [[build]]
+  Line 27: [[configuration]]
+  Line 28: [[paths]]
+  Line 57: [[plugins/Latex]]
+  Line 80: [[rehypeKatex, { output: "html" }]]
+  Line 264: [[creating components]]
+
+docs/authoring content.md:
+  Line 9: [[build]]
+  Line 13: [[callouts]]
+  Line 13: [[wikilinks]]
+  Line 35: [[private pages]]
+  Line 38: [[Frontmatter]]
+  Line 43: [[setting up your GitHub repository]]
+  Line 47: [[Frontmatter]]
+  Line 47: [[CreatedModifiedDate]]
+  Line 47: [[Description]]
+
+docs/build.md:
+  Line 27: [[hosting]]
+
+docs/configuration.md:
+  Line 5: [[layout]]
+  Line 23: [[RSS Feed]]
+  Line 25: [[SPA Routing]]
+  Line 26: [[popover previews]]
+  Line 39: [[i18n]]
+  Line 41: [[hosting]]
+  Line 43: [[private pages]]
+  Line 58: [[graph view]]
+  Line 59: [[graph view]]
+  Line 60: [[syntax highlighting]]
+  Line 67: [[quartz transform pipeline.png]]
+  Line 77: [[tags/plugin/transformer]]
+  Line 78: [[tags/plugin/filter]]
+  Line 79: [[tags/plugin/emitter]]
+  Line 86: [[ExplicitPublish]]
+  Line 86: [[tags/plugin/filter]]
+  Line 100: [[plugins/Latex]]
+  Line 111: [[tags/plugin]]
+  Line 113: [[making plugins]]
+
+docs/features/Citations.md:
+  Line 31: [[plugins/Citations]]
+
+docs/features/Latex.md:
+  Line 82: [[plugins/Latex]]
+
+docs/features/Mermaid diagrams.md:
+  Line 7: [[Obsidian compatibility]]
+  Line 12: [[ObsidianFlavoredMarkdown]]
+  Line 12: [[SyntaxHighlighting]]
+
+docs/features/Obsidian compatibility.md:
+  Line 9: [[ObsidianFlavoredMarkdown]]
+  Line 9: [[wikilinks]]
+  Line 9: [[Mermaid diagrams]]
+  Line 11: [[Frontmatter]]
+  Line 13: [[CrawlLinks]]
+  Line 17: [[ObsidianFlavoredMarkdown]]
+  Line 17: [[Frontmatter]]
+  Line 17: [[CrawlLinks]]
+
+docs/features/OxHugo compatibility.md:
+  Line 9: [[OxHugoFlavoredMarkdown]]
+  Line 29: [[OxHugoFlavoredMarkdown]]
+
+docs/features/RSS Feed.md:
+  Line 1: [[configuration]]
+  Line 6: [[ContentIndex]]
+  Line 10: [[ContentIndex]]
+
+docs/features/Roam Research compatibility.md:
+  Line 9: [[components]]
+  Line 10: [[RoamFlavoredMarkdown]]
+  Line 28: [[RoamFlavoredMarkdown]]
+
+docs/features/SPA Routing.md:
+  Line 7: [[configuration]]
+
+docs/features/backlinks.md:
+  Line 7: [[popover previews]]
+
+docs/features/breadcrumbs.md:
+  Line 28: [[layout]]
+
+docs/features/callouts.md:
+  Line 22: [[ObsidianFlavoredMarkdown]]
+  Line 22: [[SyntaxHighlighting]]
+  Line 26: [[ObsidianFlavoredMarkdown]]
+
+docs/features/comments.md:
+  Line 9: [[giscus-example.png]]
+  Line 17: [[setting up your GitHub repository]]
+  Line 25: [[giscus-repo.png]]
+  Line 27: [[giscus-discussion.png]]
+  Line 31: [[giscus-results.png]]
+
+docs/features/explorer.md:
+  Line 9: [[layout]]
+  Line 11: [[authoring content]]
+  Line 44: [[table of contents]]
+
+docs/features/folder and tag listings.md:
+  Line 15: [[advanced/]]
+  Line 15: [[advanced/]]
+  Line 17: [[authoring content]]
+  Line 27: [[tags/plugin]]
+  Line 27: [[tags/plugin]]
+  Line 33: [[FolderPage]]
+  Line 33: [[TagPage]]
+
+docs/features/full-text search.md:
+  Line 16: [[configuration]]
+
+docs/features/graph view.md:
+  Line 17: [[configuration]]
+
+docs/features/i18n.md:
+  Line 5: [[configuration]]
+
+docs/features/popover previews.md:
+  Line 9: [[creating components]]
+  Line 11: [[quartz layout.png]]
+
+docs/features/private pages.md:
+  Line 11: [[making plugins]]
+  Line 11: [[RemoveDrafts]]
+  Line 13: [[ExplicitPublish]]
+  Line 20: [[configuration]]
+
+docs/features/recent notes.md:
+  Line 6: [[layout]]
+
+docs/features/social images.md:
+  Line 11: [[CustomOgImages]]
+  Line 11: [[authoring content]]
+  Line 15: [[social-image-preview-light.png]]
+  Line 15: [[social-image-preview-dark.png]]
+  Line 19: [[CustomOgImages]]
+
+docs/features/syntax highlighting.md:
+  Line 143: [[SyntaxHighlighting]]
+
+docs/features/table of contents.md:
+  Line 16: [[TableOfContents]]
+  Line 18: [[layout]]
+
+docs/features/wikilinks.md:
+  Line 7: [[CrawlLinks]]
+  Line 9: [[Obsidian compatibility]]
+  Line 13: [[Path to file]]
+  Line 14: [[Path to file]]
+  Line 15: [[Path to file]]
+  Line 16: [[Path to file]]
+  Line 20: [[Path to image]]
+  Line 21: [[Path to image]]
+  Line 22: [[Path to file]]
+  Line 23: [[Path to file]]
+  Line 24: [[Path to file]]
+
+docs/hosting.md:
+  Line 10: [[setting up your GitHub repository]]
+  Line 13: [[RSS Feed]]
+  Line 13: [[configuration]]
+  Line 115: [[dns records.png]]
+
+docs/index.md:
+  Line 5: [[showcase]]
+  Line 22: [[authoring content]]
+  Line 23: [[configuration]]
+  Line 24: [[layout]]
+  Line 25: [[build]]
+  Line 26: [[setting up your GitHub repository]]
+  Line 27: [[hosting]]
+  Line 34: [[Obsidian compatibility]]
+  Line 34: [[full-text search]]
+  Line 34: [[graph view]]
+  Line 34: [[wikilinks]]
+  Line 34: [[backlinks]]
+  Line 34: [[features/Latex]]
+  Line 34: [[syntax highlighting]]
+  Line 34: [[popover previews]]
+  Line 34: [[Docker Support]]
+  Line 34: [[i18n]]
+  Line 34: [[comments]]
+  Line 36: [[creating components]]
+  Line 37: [[SPA Routing]]
+  Line 38: [[making plugins]]
+  Line 40: [[philosophy]]
+  Line 40: [[architecture]]
+  Line 44: [[upgrading]]
+
+docs/layout.md:
+  Line 26: [[quartz-layout-desktop.png\]]
+  Line 27: [[quartz-layout-tablet.png\]]
+  Line 28: [[quartz-layout-mobile.png\]]
+  Line 38: [[layout-components]]
+  Line 40: [[creating components]]
+  Line 61: [[configuration]]
+
+docs/migrating from Quartz 3.md:
+  Line 31: [[configuration]]
+  Line 31: [[configuration]]
+  Line 35: [[hosting]]
+  Line 37: [[folder and tag listings]]
+  Line 41: [[creating components]]
+
+docs/plugins/AliasRedirects.md:
+  Line 29: [[configuration]]
+
+docs/plugins/Assets.md:
+  Line 7: [[configuration]]
+  Line 12: [[configuration]]
+
+docs/plugins/CNAME.md:
+  Line 11: [[hosting]]
+  Line 14: [[configuration]]
+
+docs/plugins/Citations.md:
+  Line 10: [[configuration]]
+
+docs/plugins/ComponentResources.md:
+  Line 7: [[configuration]]
+  Line 10: [[configuration]]
+
+docs/plugins/ContentIndex.md:
+  Line 7: [[RSS Feed]]
+  Line 12: [[configuration]]
+
+docs/plugins/ContentPage.md:
+  Line 7: [[layout]]
+  Line 10: [[configuration]]
+
+docs/plugins/CrawlLinks.md:
+  Line 7: [[Obsidian compatibility]]
+  Line 10: [[configuration]]
+  Line 14: [[Obsidian compatibility]]
+
+docs/plugins/CreatedModifiedDate.md:
+  Line 7: [[authoring content]]
+  Line 10: [[configuration]]
+  Line 16: [[Frontmatter]]
+  Line 21: [[hosting]]
+
+docs/plugins/CustomOgImages.md:
+  Line 10: [[configuration]]
+  Line 24: [[configuration]]
+  Line 150: [[custom-social-image-preview-light.png]]
+  Line 150: [[custom-social-image-preview-dark.png]]
+
+docs/plugins/Description.md:
+  Line 7: [[RSS Feed]]
+  Line 7: [[folder and tag listings]]
+  Line 9: [[authoring content]]
+  Line 12: [[configuration]]
+
+docs/plugins/ExplicitPublish.md:
+  Line 7: [[RemoveDrafts]]
+  Line 7: [[private pages]]
+  Line 10: [[configuration]]
+
+docs/plugins/Favicon.md:
+  Line 11: [[configuration]]
+
+docs/plugins/FolderPage.md:
+  Line 7: [[folder and tag listings]]
+  Line 9: [[advanced/]]
+  Line 12: [[configuration]]
+
+docs/plugins/Frontmatter.md:
+  Line 7: [[authoring content]]
+  Line 7: [[Obsidian compatibility]]
+  Line 7: [[OxHugo compatibility]]
+  Line 10: [[configuration]]
+
+docs/plugins/GitHubFlavoredMarkdown.md:
+  Line 12: [[configuration]]
+
+docs/plugins/HardLineBreaks.md:
+  Line 7: [[Obsidian compatibility]]
+  Line 10: [[configuration]]
+
+docs/plugins/Latex.md:
+  Line 7: [[features/Latex]]
+  Line 10: [[configuration]]
+
+docs/plugins/NotFoundPage.md:
+  Line 10: [[configuration]]
+
+docs/plugins/ObsidianFlavoredMarkdown.md:
+  Line 7: [[Obsidian compatibility]]
+  Line 10: [[configuration]]
+  Line 16: [[wikilinks]]
+  Line 17: [[callouts]]
+  Line 18: [[Mermaid diagrams]]
+  Line 29: [[Obsidian compatibility]]
+
+docs/plugins/OxHugoFlavoredMarkdown.md:
+  Line 7: [[OxHugo compatibility]]
+  Line 10: [[configuration]]
+  Line 14: [[wikilinks]]
+  Line 18: [[features/Latex]]
+  Line 21: [[ObsidianFlavoredMarkdown]]
+  Line 23: [[Frontmatter]]
+  Line 23: [[OxHugo compatibility]]
+
+docs/plugins/RemoveDrafts.md:
+  Line 7: [[private pages]]
+  Line 10: [[configuration]]
+
+docs/plugins/RoamFlavoredMarkdown.md:
+  Line 7: [[Roam Research Compatibility]]
+  Line 10: [[Configuration]]
+  Line 15: [[TODO]]
+  Line 16: [[DONE]]
+  Line 17: [[video]]
+  Line 18: [[audio]]
+  Line 19: [[pdf]]
+  Line 20: [[>]]
+
+docs/plugins/Static.md:
+  Line 7: [[configuration]]
+  Line 10: [[Assets]]
+  Line 10: [[Static]]
+  Line 10: [[Assets]]
+  Line 13: [[configuration]]
+
+docs/plugins/SyntaxHighlighting.md:
+  Line 7: [[syntax highlighting]]
+  Line 10: [[configuration]]
+
+docs/plugins/TableOfContents.md:
+  Line 7: [[table of contents]]
+  Line 10: [[configuration]]
+
+docs/plugins/TagPage.md:
+  Line 7: [[folder and tag listings]]
+  Line 10: [[configuration]]
+
+docs/setting up your GitHub repository.md:
+  Line 9: [[github-init-repo-options.png]]
+  Line 13: [[github-quick-setup.png]]
+
+docs/tags/component.md:
+  Line 5: [[creating components]]
+
+docs/upgrading.md:
+  Line 6: [[migrating from Quartz 3]]
+
+Total broken wikilinks: 282
+
+2. BROKEN INTERNAL MARKDOWN LINKS
+--------------------------------------------------------------------------------
+
+content/atlas/concepts/4Ms Framework.md:
+  Line 51: [Day 01](../calendar/consolidated.md#day-01)
+  Line 52: [Day 26](../calendar/consolidated.md#day-26)
+  Line 76: [Day 27](../calendar/consolidated.md#day-27)
+  Line 77: [Day 31](../calendar/consolidated.md#day-31)
+  Line 91: [Day 22](../calendar/consolidated.md#day-22)
+  Line 104: [Day 02](../calendar/consolidated.md#day-02)
+  Line 105: [Day 20](../calendar/consolidated.md#day-20)
+  Line 167: [Day 22](../calendar/consolidated.md#day-22)
+  Line 168: [Day 31](../calendar/consolidated.md#day-31)
+  Line 169: [Day 34](../calendar/consolidated.md#day-34)
+
+content/atlas/concepts/AI Gemini Integration.md:
+  Line 199: [Professional Design Process](../calendar/consolidated.md#day-34-professional-design-process)
+  Line 200: [Cross-Curricular Integration](../../connections/Cross-Curricular)
+  Line 201: [Community Presentation](../../connections/Community Engagement)
+  Line 202: [Portfolio Development](../../tools-techniques/Assessment Portfolio)
+
+content/atlas/concepts/AI Integration.md:
+  Line 22: [Day 20](../calendar/consolidated.md#day-20-ai-ethics-and-robot-storage)
+  Line 40: [Day 20](../calendar/consolidated.md#day-20)
+  Line 57: [Day 20](../calendar/consolidated.md#day-20)
+
+content/atlas/concepts/AI Magic School Bot.md:
+  Line 190: [Cross-Curricular Applications](../../connections/Cross-Curricular)
+  Line 191: [Professional Collaboration](../../connections/Community Engagement)
+  Line 192: [Assessment Integration](../../tools-techniques/Assessment Portfolio)
+
+content/atlas/concepts/Design Thinking.md:
+  Line 32: [Day 03](../calendar/consolidated.md#day-03)
+  Line 48: [Day 19](../calendar/consolidated.md#day-19)
+  Line 64: [Day 20](../calendar/consolidated.md#day-20)
+  Line 74: [Day 28](../calendar/consolidated.md#day-28)
+  Line 75: [Day 20](../calendar/consolidated.md#day-20)
+  Line 84: [Day 22](../calendar/consolidated.md#day-22)
+  Line 101: [Day 31](../calendar/consolidated.md#day-31)
+  Line 113: [Day 17](../calendar/consolidated.md#day-17)
+
+content/atlas/connections/Community Engagement.md:
+  Line 22: [Day 10](../calendar/consolidated.md#day-10)
+  Line 75: [Day 28](../calendar/consolidated.md#day-28)
+  Line 116: [Day 10](../calendar/consolidated.md#day-10)
+  Line 141: [Day 32](../calendar/consolidated.md#day-32)
+  Line 158: [Day 27](../calendar/consolidated.md#day-27)
+  Line 195: [Day 28](../calendar/consolidated.md#day-28)
+
+content/efforts/Dollhouse Design.md:
+  Line 15: [Day 24](../../calendar/consolidated.md#day-24)
+  Line 15: [Day 35](../../calendar/consolidated.md#day-35)
+  Line 22: [Day 24](../../calendar/consolidated.md#day-24)
+  Line 44: [Day 26](../../calendar/consolidated.md#day-26)
+  Line 61: [Day 31](../../calendar/consolidated.md#day-31)
+  Line 78: [Day 32](../../calendar/consolidated.md#day-32)
+  Line 95: [Day 31](../../calendar/consolidated.md#day-31)
+  Line 125: [Day 34](../../calendar/consolidated.md#day-34)
+
+docs/advanced/architecture.md:
+  Line 12: [shebang](<https://en.wikipedia.org/wiki/Shebang_(Unix)
+
+docs/configuration.md:
+  Line 43: [glob](<https://en.wikipedia.org/wiki/Glob_(programming)
+
+docs/layout.md:
+  Line 38: [a list of all the components](component.md)
+
+Total broken internal markdown links: 45
+
+3. EXTERNAL LINKS
+--------------------------------------------------------------------------------
+
+aarnphm.xyz:
+  https://aarnphm.xyz/
+    (in docs/showcase.md, line 9)
+
+app.netlify.com:
+  https://app.netlify.com/
+    (in docs/hosting.md, line 176)
+
+be-far.com:
+  https://be-far.com
+    (in docs/showcase.md, line 23)
+
+blog.eledah.ir:
+  https://blog.eledah.ir/
+    (in docs/showcase.md, line 22)
+
+brandonkboswell.com:
+  https://brandonkboswell.com
+    (in docs/showcase.md, line 17)
+
+clarity.microsoft.com:
+  https://clarity.microsoft.com/
+    (in docs/configuration.md, line 36)
+
+dash.cloudflare.com:
+  https://dash.cloudflare.com/
+    (in docs/hosting.md, line 17)
+
+desktop.github.com:
+  https://desktop.github.com/
+    (in docs/upgrading.md, line 19)
+
+developer.mozilla.org:
+  https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+    (in docs/layout-components.md, line 9)
+  https://developer.mozilla.org/en-US/docs/Web/HTML
+    (in docs/layout.md, line 5)
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
+    (in docs/layout.md, line 33)
+  https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+    (in docs/features/popover previews.md, line 7)
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+    (in docs/features/explorer.md, line 99)
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+    (in docs/features/explorer.md, line 99)
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+    (in docs/features/explorer.md, line 99)
+
+developers.cloudflare.com:
+  https://developers.cloudflare.com/pages/platform/custom-domains/
+    (in docs/hosting.md, line 30)
+
+discord.gg:
+  https://discord.gg/cRFFHYye7t
+    (in docs/index.md, line 46)
+
+docs.devolutions.net:
+  https://docs.devolutions.net/kb/general-knowledge-base/clear-browser-local-storage/clear-chrome-local-storage/
+    (in docs/features/explorer.md, line 16)
+
+docs.github.com:
+  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+    (in docs/authoring content.md, line 13)
+  https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/enabling-or-disabling-github-discussions-for-a-repository
+    (in docs/features/comments.md, line 21)
+  https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/setting-repository-visibility#making-a-repository-public
+    (in docs/features/comments.md, line 19)
+  https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
+    (in docs/hosting.md, line 117)
+  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line#competing-line-change-merge-conflicts
+    (in docs/upgrading.md, line 19)
+
+docs.mathjax.org:
+  https://docs.mathjax.org/en/latest/output/svg.html
+    (in docs/plugins/Latex.md, line 14)
+
+ellie.wtf:
+  https://ellie.wtf
+    (in docs/showcase.md, line 21)
+
+en.wikipedia.org:
+  https://en.wikipedia.org/wiki/Emacs
+    (in docs/features/OxHugo compatibility.md, line 7)
+  https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+    (in docs/features/i18n.md, line 10)
+  https://en.wikipedia.org/wiki/Ishikawa_diagram
+    (in content/atlas/concepts/4Ms Framework.md, line 13)
+  https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+    (in docs/features/i18n.md, line 9)
+  https://en.wikipedia.org/wiki/Nominal_type_system
+    (in docs/advanced/paths.md, line 9)
+
+ericdarve.github.io:
+  https://ericdarve.github.io/NLA/
+    (in docs/showcase.md, line 13)
+
+esbuild.github.io:
+  https://esbuild.github.io/
+    (in docs/advanced/architecture.md, line 15)
+  https://esbuild.github.io/api/#rebuild
+    (in docs/advanced/architecture.md, line 19)
+
+fonts.google.com:
+  https://fonts.google.com/
+    (in docs/configuration.md, line 47)
+
+giscus.app:
+  https://giscus.app/
+    (in docs/features/comments.md, line 11)
+  https://giscus.app/#repository
+    (in docs/features/comments.md, line 23)
+
+git-scm.com:
+  https://git-scm.com/
+    (in docs/upgrading.md, line 14)
+  https://git-scm.com/docs/gitignore#_pattern_format
+    (in docs/features/private pages.md, line 33)
+
+github.com:
+  https://github.com/apps/giscus
+    (in docs/features/comments.md, line 20)
+  https://github.com/jackyzha0/quartz/blob/hugo/layouts/partials/textprocessing.html
+    (in docs/migrating from Quartz 3.md, line 30)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz.config.ts
+    (in docs/configuration.md, line 109)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/404.tsx
+    (in docs/plugins/NotFoundPage.md, line 18)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/aliases.ts
+    (in docs/plugins/AliasRedirects.md, line 37)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/assets.ts
+    (in docs/plugins/Assets.md, line 20)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/cname.ts
+    (in docs/plugins/CNAME.md, line 22)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/componentResources.ts
+    (in docs/plugins/ComponentResources.md, line 18)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/contentIndex.ts
+    (in docs/plugins/ContentIndex.md, line 27)
+  https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/contentPage.tsx
+    (in docs/plugins/ContentPage.md, line 18)
+  ... and 49 more
+
+goatcounter.com:
+  https://goatcounter.com
+    (in docs/configuration.md, line 32)
+
+gohugo.io:
+  https://gohugo.io/
+    (in docs/features/OxHugo compatibility.md, line 7)
+
+help.obsidian.md:
+  https://help.obsidian.md/Editing+and+formatting/Callouts
+    (in docs/features/callouts.md, line 19)
+  https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown
+    (in docs/authoring content.md, line 13)
+  https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown
+    (in docs/features/Obsidian compatibility.md, line 9)
+  https://help.obsidian.md/Editing+and+formatting/Properties
+    (in docs/features/Obsidian compatibility.md, line 11)
+  https://help.obsidian.md/Linking+notes+and+files/Internal+links
+    (in docs/features/wikilinks.md, line 7)
+
+jzhao.xyz:
+  https://jzhao.xyz/
+    (in docs/showcase.md, line 8)
+  https://jzhao.xyz/posts/agentic-computing
+    (in docs/philosophy.md, line 47)
+  https://jzhao.xyz/posts/networked-thought
+    (in docs/index.md, line 5)
+  https://jzhao.xyz/posts/networked-thought
+    (in docs/philosophy.md, line 25)
+
+katex.org:
+  https://katex.org/
+    (in docs/features/Latex.md, line 7)
+  https://katex.org/
+    (in docs/plugins/Latex.md, line 14)
+
+matomo.org:
+  https://matomo.org/
+    (in docs/configuration.md, line 37)
+
+mermaid.js.org:
+  https://mermaid.js.org/syntax/flowchart.html
+    (in docs/features/Mermaid diagrams.md, line 7)
+  https://mermaid.js.org/syntax/sequenceDiagram.html
+    (in docs/features/Mermaid diagrams.md, line 7)
+  https://mermaid.js.org/syntax/timeline.html
+    (in docs/features/Mermaid diagrams.md, line 7)
+
+morrowind-modding.github.io:
+  https://morrowind-modding.github.io/
+    (in docs/showcase.md, line 12)
+
+nodejs.org:
+  https://nodejs.org/
+    (in docs/index.md, line 9)
+  https://nodejs.org/api/fs.html
+    (in docs/advanced/making plugins.md, line 245)
+
+notes.asterhu.com:
+  https://notes.asterhu.com
+    (in docs/showcase.md, line 19)
+
+obsidian.md:
+  https://obsidian.md/
+    (in docs/authoring content.md, line 7)
+
+og-playground.vercel.app:
+  https://og-playground.vercel.app/
+    (in docs/plugins/CustomOgImages.md, line 75)
+
+patternlanguage.cc:
+  https://patternlanguage.cc/
+    (in docs/showcase.md, line 15)
+
+pkg.go.dev:
+  https://pkg.go.dev/text/template
+    (in docs/migrating from Quartz 3.md, line 30)
+
+plausible.io:
+  https://plausible.io/
+    (in docs/configuration.md, line 30)
+
+posthog.com:
+  https://posthog.com/
+    (in docs/configuration.md, line 33)
+
+preactjs.com:
+  https://preactjs.com/
+    (in docs/advanced/architecture.md, line 38)
+
+quartz.eilleeenz.com:
+  https://quartz.eilleeenz.com/
+    (in docs/showcase.md, line 11)
+
+quartz.jzhao.xyz:
+  https://quartz.jzhao.xyz/
+    (in content/index.md, line 122)
+  https://quartz.jzhao.xyz/
+    (in docs/showcase.md, line 7)
+
+react.dev:
+  https://react.dev/learn/passing-props-to-a-component
+    (in docs/advanced/creating components.md, line 58)
+
+rehype-citation.netlify.app:
+  https://rehype-citation.netlify.app/custom-csl
+    (in docs/plugins/Citations.md, line 17)
+
+rehype-pretty-code.netlify.app:
+  https://rehype-pretty-code.netlify.app/
+    (in docs/features/syntax highlighting.md, line 11)
+
+roamresearch.com:
+  https://roamresearch.com
+    (in docs/features/Roam Research compatibility.md, line 7)
+  https://roamresearch.com
+    (in docs/plugins/RoamFlavoredMarkdown.md, line 7)
+
+sass-lang.com:
+  https://sass-lang.com/guide/
+    (in docs/layout.md, line 61)
+
+shikiji.netlify.app:
+  https://shikiji.netlify.app/themes
+    (in docs/plugins/SyntaxHighlighting.md, line 14)
+
+sidney-eliot.github.io:
+  https://sidney-eliot.github.io/3d-artists-handbook/
+    (in docs/showcase.md, line 16)
+
+tinylytics.app:
+  https://tinylytics.app/
+    (in docs/configuration.md, line 34)
+
+toolbox.socratica.info:
+  https://toolbox.socratica.info/
+    (in docs/showcase.md, line 14)
+
+turntrout.com:
+  https://turntrout.com/welcome
+    (in docs/showcase.md, line 10)
+
+typst.app:
+  https://typst.app/
+    (in docs/plugins/Latex.md, line 14)
+
+umami.is:
+  https://umami.is/
+    (in docs/configuration.md, line 31)
+
+unifiedjs.com:
+  https://unifiedjs.com/learn/guide/create-a-plugin/
+    (in docs/advanced/making plugins.md, line 55)
+
+vault.ssp.sh:
+  https://vault.ssp.sh/
+    (in docs/showcase.md, line 18)
+
+vercel.com:
+  https://vercel.com/dashboard
+    (in docs/hosting.md, line 138)
+  https://vercel.com/dashboard
+    (in docs/hosting.md, line 170)
+  https://vercel.com/dashboard/domains
+    (in docs/hosting.md, line 157)
+  https://vercel.com/dashboard/domains
+    (in docs/hosting.md, line 169)
+  https://vercel.com/docs/concepts/analytics
+    (in docs/configuration.md, line 38)
+
+withcabin.com:
+  https://withcabin.com
+    (in docs/configuration.md, line 35)
+
+www.gatekeeper.wiki:
+  https://www.gatekeeper.wiki
+    (in docs/showcase.md, line 20)
+
+www.mathjax.org:
+  https://www.mathjax.org/
+    (in docs/plugins/Latex.md, line 14)
+
+www.npmjs.com:
+  https://www.npmjs.com/package/esbuild-sass-plugin
+    (in docs/advanced/architecture.md, line 15)
+  https://www.npmjs.com/package/remark-parse
+    (in docs/advanced/architecture.md, line 31)
+  https://www.npmjs.com/package/workerpool
+    (in docs/advanced/architecture.md, line 25)
+
+www.orgroam.com:
+  https://www.orgroam.com/
+    (in docs/features/OxHugo compatibility.md, line 7)
+
+www.typescriptlang.org:
+  https://www.typescriptlang.org/play#example/nominal-typing
+    (in docs/advanced/paths.md, line 11)
+
+www.youtube.com:
+  https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s
+    (in docs/index.md, line 30)
+
+yargs.js.org:
+  http://yargs.js.org/
+    (in docs/advanced/architecture.md, line 14)
+
+yoksel.github.io:
+  https://yoksel.github.io/url-encoder/
+    (in docs/features/callouts.md, line 46)
+
+Total external links: 159
+
+4. SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total markdown files analyzed: 123
+Total wikilinks found: 1081
+Broken wikilinks: 282
+Wikilink success rate: 73.9%
+
+Total internal markdown links found: 70
+Broken internal markdown links: 45
+Internal link success rate: 35.7%
+
+Total external links found: 159
+
+================================================================================
