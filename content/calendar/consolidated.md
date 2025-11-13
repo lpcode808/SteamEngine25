@@ -5,7 +5,7 @@ title: "Daily Learning Stories: Complete Journey"
 publish: true
 updated: 2025-11-12
 ---
-up:: [[Journey MOC]]
+up:: [[calendar/index]]
 
 > **35 days of discovery, breakthrough moments, and skill building** - The complete day-by-day progression from tentative first steps to confident making.
 

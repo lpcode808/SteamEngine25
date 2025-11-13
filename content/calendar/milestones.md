@@ -2,7 +2,7 @@
 title: "Key Learning Milestones"
 publish: true
 ---
-up: [[Journey MOC]]
+up: [[calendar/index]]
 
 > **Moments that changed everything** - The breakthrough discoveries and turning points that shaped our STEAM learning journey.
 

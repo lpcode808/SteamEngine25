@@ -6,8 +6,10 @@ publish: true
 
 > [!tldr] Welcome!
 > This is your guide to a semester of bringing ideas to life. Whether you're a student, teacher, or just curious, this is your starting point for exploring a journey of creativity, collaboration, and making.
-
-> [!info] First time here? Visit [[start-here|Start Here]] for a three-step orientation before you dive into the hubs below.
+>
+> 🗺️ **Quick Navigator?** Use the MOC (Map of Content) links below to skim the landscape before diving in.
+>
+> 📖 **Deep Diver?** Each section points to full pages with stories, artifacts, and detailed guidance when you're ready to go deeper.
 
 ## Your Map of the Learning Ecosystem
 
@@ -19,7 +21,7 @@ publish: true
 
 Pressed for time? Here are the five most important places to start:
 
-1.  **[[calendar/index|Learning Journey MOC]]**: Get a high-level overview of the entire semester.
+1.  **[[calendar/index|Learning Journey]]**: Get a high-level overview of the entire semester.
 2.  **[[atlas/concepts/Design Thinking MOC|Design Thinking MOC]]**: Understand our core problem-solving process.
 3.  **[[efforts/index.md|Projects & Efforts Hub]]**: See the amazing things students built.
 4.  **[[atlas/tools-techniques/Laser Cutting|Laser Cutting Guide]]**: Learn about our most-used tool.
@@ -29,13 +31,28 @@ Pressed for time? Here are the five most important places to start:
 
 ## 🌱 "Start Here" Path (10-Minute Overview)
 
-Follow this path to get a solid understanding of what this course is all about.
+New to this STEAM course collection? Follow these three steps to get oriented, then choose the path that fits you best.
 
-1.  **Understand the "Why"**: Start with the **[[atlas/index|Atlas of Ideas]]** to see the big concepts that drive everything we do.
-2.  **See the Progression**: Skim the **[[calendar/timeline|Semester Timeline]]** to understand how skills build from week to week.
-3.  **Explore a First Project**: Read about the **[[efforts/Family Coasters|Family Coasters]]** project to see how we introduce core skills in a personal, meaningful way.
-4.  **See an Advanced Project**: Jump to the **[[efforts/Dollhouse Design|Educational Dollhouse]]** project to see how those skills culminate in professional-level, collaborative work.
-5.  **Check out the Tools**: Look at the **[[atlas/tools-techniques/index|Tools & Techniques Hub]]** to get a sense of the technologies we use.
+### Step 1: See the Big Picture
+
+-   Visit this **Course Overview Hub** (you're here!) to understand how the site is organized and why each section matters.
+-   Skim the five featured links in Quick Start above to spot the core navigation hubs: Journey, Concepts, Projects, Tools, and AI partnership.
+
+### Step 2: Learn the Process
+
+-   Open the **[[atlas/concepts/Design Thinking MOC|Design Thinking MOC]]** to meet the five-step approach that underpins every project.
+-   Capture the key checkpoints (Empathize → Ideate → Prototype → Test → Reflect) so you recognize them throughout the site.
+
+### Step 3: Watch It in Action
+
+-   Explore the **[[efforts/index.md|Projects & Efforts Hub]]** and start with the [[efforts/Family Coasters|Family Coasters]] story to see how the process comes alive in students' work.
+-   Jump to [[efforts/Robot Storage|Robot Storage]] for a collaborative challenge that highlights professional tools and AI partnership.
+
+**Pick Your Path Next:**
+
+-   **If you want a timeline**: Head to the **[[calendar/index|Learning Journey]]** for a day-by-day narrative of the semester.
+-   **If you're curious about AI**: Follow the **[[atlas/concepts/AI Integration MOC|AI Integration series]]** beginning with Part 1 on philosophy and ethics.
+-   **If you're guiding others**: Use the **[[atlas/index|Atlas of Ideas]]** to jump into concepts, tools, and connections that support instruction.
 
 ---
 

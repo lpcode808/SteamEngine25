@@ -61,7 +61,7 @@ up:: [[index]]
 
 ## Pathways & Crosslinks
 
-- **Learning Journey Loop**: [[calendar/index|Learning Journey MOC]] → [[calendar/timeline|Timeline]] → any concept or tool note → return here for deeper study.
+- **Learning Journey Loop**: [[calendar/index|Learning Journey]] → [[calendar/timeline|Timeline]] → any concept or tool note → return here for deeper study.
 - **Project Application Loop**: [[efforts/index.md|Projects Hub]] → pick a project → follow callouts back to the relevant concept/tool notes listed above.
 - **Assessment Loop**: [[atlas/tools-techniques/Assessment Portfolio|Portfolio Guide]] → [[atlas/concepts/Reflection Methods|Reflection Methods]] → [[calendar/milestones|Milestones]] for exemplars.
 

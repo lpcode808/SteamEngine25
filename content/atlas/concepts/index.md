@@ -154,7 +154,7 @@ These concepts aren't endpoints - they're tools for lifelong learning and making
 
 - **[[Project Storyarc|Project case studies]]** showing concepts in action
 - **[[atlas/tools-techniques/index|Technical skills]]** grounded in conceptual understanding  
-- **[[calendar/Journey MOC|Daily learning]]** demonstrating concept development over time
+- **[[calendar/index|Daily learning]]** demonstrating concept development over time
 - **[[atlas/connections/index|Real-world applications]]** extending concepts beyond the classroom
 
 The goal isn't to master these concepts perfectly, but to develop fluency with frameworks that will serve you in any creative, technical, or collaborative challenge you encounter.
