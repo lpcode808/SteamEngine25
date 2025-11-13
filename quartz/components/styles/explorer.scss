@@ -157,7 +157,8 @@ button.desktop-explorer {
 .folder-container {
   flex-direction: row;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  gap: 0.35rem;
   user-select: none;
 
   & div > a {
@@ -173,16 +174,16 @@ button.desktop-explorer {
     color: var(--tertiary);
   }
 
-  & div > button {
+    & div > button {
     color: var(--dark);
     background-color: transparent;
     border: none;
     text-align: left;
     cursor: pointer;
-    padding-left: 0;
-    padding-right: 0;
-    display: flex;
-    align-items: center;
+      padding-left: 0;
+      padding-right: 0;
+      display: flex;
+      align-items: flex-start;
     font-family: var(--headerFont);
 
     & span {
@@ -194,6 +195,15 @@ button.desktop-explorer {
       line-height: 1.5rem;
       pointer-events: none;
     }
+  }
+
+  & ul > li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  & ul > li:last-child {
+    border-bottom: none;
   }
 }
 
