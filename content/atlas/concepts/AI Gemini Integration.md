@@ -8,6 +8,15 @@ updated: 2025-11-12
 up: [[Concepts MOC]]
 # Google Gemini: Visual and Creative AI
 
+> [!meta] You Are Here
+> Part 3 of 3 · Google Gemini
+> Series Home: [[atlas/concepts/AI Integration MOC|AI Integration MOC]]
+> Previous: [[atlas/concepts/AI Magic School Bot|Part 2 - Magic School AI]]
+
+> 🗺️ **Quick Navigator?** See the [[atlas/concepts/AI Integration MOC|AI Integration MOC]] for the overview of our AI partnership sequence.
+>
+> 📖 **Deep Diver?** You're in the right place—this page explores how Google Gemini powers visual analysis and creative iteration.
+
 > **"Breakthrough image analysis meets creative partnership"** - How visual AI transforms design development and creative workflow.
 
 **Tool Category**: Multi-Modal AI Assistant  
@@ -196,10 +205,10 @@ Comprehensive visual creation for concept visualization and creative exploration
 
 ### **🔗 Advanced Applications**
 
-- **[Professional Design Process](../calendar/consolidated.md#day-34-professional-design-process)**: How visual AI supports complex project development and documentation
-- **[Cross-Curricular Integration](../../connections/Cross-Curricular)**: Using visual AI to enhance learning across multiple subject areas and applications
-- **[Community Presentation](../../connections/Community Engagement)**: Leveraging visual AI for effective communication with diverse audiences
-- **[Portfolio Development](../../tools-techniques/Assessment Portfolio)**: Using AI-enhanced visuals for authentic learning documentation and presentation
+- **[[calendar/consolidated#day-34-professional-design-process|Professional Design Process]]**: How visual AI supports complex project development and documentation
+- **[[atlas/connections/Cross-Curricular|Cross-Curricular Integration]]**: Using visual AI to enhance learning across multiple subject areas and applications
+- **[[atlas/connections/Community Engagement|Community Presentation]]**: Leveraging visual AI for effective communication with diverse audiences
+- **[[atlas/tools-techniques/Assessment Portfolio|Portfolio Development]]**: Using AI-enhanced visuals for authentic learning documentation and presentation
 
 ---
 
@@ -212,4 +221,4 @@ Comprehensive visual creation for concept visualization and creative exploration
 
 ---
 
-*Navigate: [[atlas/concepts/AI Magic School Bot|← Magic School AI]] | [[atlas/concepts/AI Integration MOC|AI Integration Home →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
+*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Gemini Integration|This Page]]*

@@ -48,8 +48,8 @@ The maker brings expertise, creativity, and decision-making to every project. Un
 - **Collaboration style** and team dynamics
 
 #### Examples from Our Journey
-- **[Day 01](../calendar/consolidated.md#day-01)**: Collaborative design instincts
-- **[Day 26](../calendar/consolidated.md#day-26)**: [[atlas/concepts/Group Cohesion|Collaborative strengths]] driving project selection
+- **[[calendar/consolidated#day-01|Day 01]]**: Collaborative design instincts
+- **[[calendar/consolidated#day-26|Day 26]]**: [[atlas/concepts/Group Cohesion|Collaborative strengths]] driving project selection
 
 ---
 
@@ -73,8 +73,8 @@ Understanding your tools' capabilities and limitations is crucial for successful
 - **Learning curve**: Balancing capability with time investment
 
 #### Real Examples
-- **[Day 27](../calendar/consolidated.md#day-27)**: Machines don't solve measurement problems
-- **[Day 31](../calendar/consolidated.md#day-31)**: Cutting bed constraints affecting design decisions
+- **[[calendar/consolidated#day-27|Day 27]]**: Machines don't solve measurement problems
+- **[[calendar/consolidated#day-31|Day 31]]**: Cutting bed constraints affecting design decisions
 
 ---
 
@@ -88,7 +88,7 @@ Method encompasses both technical processes and learning approaches. The same ou
 #### Design and Planning Methods
 - **[[atlas/concepts/Design Thinking|Design Thinking Process]]**: Empathize → Define → Ideate → Prototype → Test
 - **[[atlas/concepts/Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
-- **[Day 22](../calendar/consolidated.md#day-22)**: Concept confirmation → sketching → scaled construction
+- **[[calendar/consolidated#day-22|Day 22]]**: Concept confirmation → sketching → scaled construction
 
 #### Fabrication Methods  
 - **[[atlas/tools-techniques/Laser Cutting|Laser Cutting Workflow]]**: Design → File preparation → Material setup → Cutting → Assembly
@@ -101,8 +101,8 @@ Method encompasses both technical processes and learning approaches. The same ou
 - **[[atlas/concepts/Embedded Learning|Embedded Learning]]**: Observing professional workflows before hands-on practice
 
 #### Method Evolution Examples
-- **[Day 02](../calendar/consolidated.md#day-02)**: "Messy first, then precise"
-- **[Day 20](../calendar/consolidated.md#day-20)**: AI ethics before AI tools
+- **[[calendar/consolidated#day-02|Day 02]]**: "Messy first, then precise"
+- **[[calendar/consolidated#day-20|Day 20]]**: AI ethics before AI tools
 
 ---
 
@@ -164,9 +164,9 @@ Margin is often overlooked but critical for successful projects, especially in e
 - **Assessment flexibility**: Multiple ways to demonstrate learning
 
 #### Margin in Practice
-- **[Day 22](../calendar/consolidated.md#day-22)**: "Focus on the right dimensions rather than fine detail" - time allocation priorities
-- **[Day 31](../calendar/consolidated.md#day-31)**: Prioritizing core functionality over additional features - scope management
-- **[Day 34](../calendar/consolidated.md#day-34)**: Multiple file format attempts when technical workflow challenges emerge
+- **[[calendar/consolidated#day-22|Day 22]]**: "Focus on the right dimensions rather than fine detail" - time allocation priorities
+- **[[calendar/consolidated#day-31|Day 31]]**: Prioritizing core functionality over additional features - scope management
+- **[[calendar/consolidated#day-34|Day 34]]**: Multiple file format attempts when technical workflow challenges emerge
 
 #### Planning for Margin
 - **Materials**: Order 20-30% extra, especially for learning projects

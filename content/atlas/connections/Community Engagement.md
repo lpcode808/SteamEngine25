@@ -19,7 +19,7 @@ Real learning happens when students see themselves as valuable contributors to t
 
 ## Honolulu Tech Week: Students as Ambassadors
 
-### **[Day 10](../calendar/consolidated.md#day-10)**: Preparation and Participation
+### **[[calendar/consolidated#day-10|Day 10]]**: Preparation and Participation
 
 #### **The Challenge**
 Present STEAM learning to community members at a professional technology event, demonstrating both technical skills and communication capabilities.
@@ -72,7 +72,7 @@ Present STEAM learning to community members at a professional technology event, 
 
 ## AI Conference Experience: Bridging School and Society
 
-### **[Day 28](../calendar/consolidated.md#day-28)**: Student-Initiated Learning
+### **[[calendar/consolidated#day-28|Day 28]]**: Student-Initiated Learning
 
 #### **The Opportunity**
 During fall break, one student attended an AI venture capital conference, creating an unexpected bridge between classroom AI learning and real-world AI applications.
@@ -113,7 +113,7 @@ During fall break, one student attended an AI venture capital conference, creati
 
 ## Field Trip Learning: Aviation and Engineering
 
-### **[Day 10](../calendar/consolidated.md#day-10)**
+### **[[calendar/consolidated#day-10|Day 10]]**
 *"The week included a memorable field trip to an air show, connecting real-world engineering and aviation to STEAM principles"*
 
 #### **Engineering Connections**
@@ -138,7 +138,7 @@ During fall break, one student attended an AI venture capital conference, creati
 
 ## Local Business Connections
 
-### **[Day 32](../calendar/consolidated.md#day-32)**: Economic Analysis
+### **[[calendar/consolidated#day-32|Day 32]]**: Economic Analysis
 *"Students explored real-world applications of laser cutting after noticing a $15 laser-engraved hair clip"*
 
 #### **Market Understanding**
@@ -155,7 +155,7 @@ During fall break, one student attended an AI venture capital conference, creati
 
 ### **Professional Workflow Observation**
 
-#### **[Day 27](../calendar/consolidated.md#day-27)**
+#### **[[calendar/consolidated#day-27|Day 27]]**
 *"Physics teacher who had previously taught Onshape joined the project, sharing blueprint/drawing techniques"*
 
 **Professional Skills Development:**
@@ -192,7 +192,7 @@ Understanding that student work can have real positive impact on others' daily e
 
 ## Digital Community Participation
 
-### **[Day 28](../calendar/consolidated.md#day-28)**
+### **[[calendar/consolidated#day-28|Day 28]]**
 *"She set it up in our domain, added it, and shared it with the world"*
 
 #### **Global Sharing**

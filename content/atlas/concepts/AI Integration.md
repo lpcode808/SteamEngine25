@@ -8,6 +8,15 @@ updated: 2025-11-12
 up: [[Concepts MOC]]
 # AI as Creative Partner: Responsible Innovation
 
+> [!meta] You Are Here
+> Part 1 of 3 · Philosophy & Ethics
+> Series Home: [[atlas/concepts/AI Integration MOC|AI Integration MOC]]
+> Next: [[atlas/concepts/AI Magic School Bot|Part 2 - Magic School AI]]
+
+> 🗺️ **Quick Navigator?** See the [[atlas/concepts/AI Integration MOC|AI Integration MOC]] for the overview of all AI partnership notes.
+>
+> 📖 **Deep Diver?** You're in the right place—this page unpacks the philosophy and ethics behind our AI approach.
+
 > **"AI is like a word calculator, personalized tutor, or research assistant"** - Tools that amplify human creativity rather than replacing it.
 
 **Philosophy**: Ethics first, capabilities second. Understanding responsible use before exploring powerful features.
@@ -19,7 +28,7 @@ up: [[Concepts MOC]]
 ### **The "Explain the Whole Process" Test**
 > *"A test of whether you've used AI unethically is whether you can explain the whole process - it's almost like someone recorded a video of everything you did."*
 
-**[Day 20](../calendar/consolidated.md#day-20-ai-ethics-and-robot-storage)**: Before introducing any AI tools, students learned this fundamental principle for responsible use.
+**[[calendar/consolidated#day-20-ai-ethics-and-robot-storage|Day 20]]**: Before introducing any AI tools, students learned this fundamental principle for responsible use.
 
 #### **Green Light Scenarios** ✅
 - **Learning reinforcement**: Using AI to explain concepts you're studying
@@ -37,7 +46,7 @@ up: [[Concepts MOC]]
 
 ### **[[atlas/concepts/AI Magic School Bot|Magic School AI]]**: Specialized Design Assistant
 
-#### **[Day 20](../calendar/consolidated.md#day-20)**: Custom Training for Laser Cutting
+#### **[[calendar/consolidated#day-20|Day 20]]**: Custom Training for Laser Cutting
 *"Magic School, in this case, has been loaded with information on laser cutting"*
 
 **Capabilities:**
@@ -54,7 +63,7 @@ up: [[Concepts MOC]]
 
 ### **[[atlas/concepts/AI Gemini Integration|Google Gemini]]**: Visual and Creative AI
 
-#### **[Day 20](../calendar/consolidated.md#day-20)**: Breakthrough Image Analysis
+#### **[[calendar/consolidated#day-20|Day 20]]**: Breakthrough Image Analysis
 *"I put the context of our laser-cutting project into Google Gemini... Gemini annotated how the laser-cut piece could be modified to hold the robot and did a decent job."*
 
 **Advanced Applications:**
@@ -181,4 +190,4 @@ Explore specific AI tools and their applications:
 
 ---
 
-*Navigate: [[atlas/concepts/Concepts MOC|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/tools-techniques/AI Tools|AI Tools Guide →]]*
+*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Integration|This Page]]*

@@ -12,14 +12,14 @@ up: [[Efforts MOC]]
 
 **Client**: Spanish Teacher  
 **Challenge**: Create constructible/deconstructible educational tool for hands-on language learning  
-**Timeline**: [Day 24](../../calendar/consolidated.md#day-24) (conception) - [Day 35](../../calendar/consolidated.md#day-35) (ongoing refinement)  
+**Timeline**: [[calendar/consolidated#day-24|Day 24]] (conception) - [[calendar/consolidated#day-35|Day 35]] (ongoing refinement)  
 **Impact**: [[atlas/connections/Cross-Curricular|Cross-curricular collaboration]] and authentic learning tool creation
 
 ---
 
 ## Project Genesis: From Substitute Teaching to Professional Collaboration
 
-### **[Day 24](../../calendar/consolidated.md#day-24)**: Unexpected Opportunity
+### **[[calendar/consolidated#day-24|Day 24]]**: Unexpected Opportunity
 *"Students worked with a substitute teacher to demonstrate and share their learning from the first semester half"*
 
 **The Spark:**
@@ -41,7 +41,7 @@ The dollhouse project succeeded because it addressed multiple pedagogical goals 
 
 ### **Empathize**: Understanding Language Learners {#empathize}
 
-#### **[Day 26](../../calendar/consolidated.md#day-26)**: User Research
+#### **[[calendar/consolidated#day-26|Day 26]]**: User Research
 *"Debriefed with the students on what they did with the second teacher, and it was really great to see and hear how they naturally worked with that teacher"*
 
 **Key User Insights:**
@@ -58,7 +58,7 @@ The dollhouse project succeeded because it addressed multiple pedagogical goals 
 
 ### **Define**: Educational Tool Requirements {#define}
 
-#### **[Day 31](../../calendar/consolidated.md#day-31)**: Core Functionality Decisions
+#### **[[calendar/consolidated#day-31|Day 31]]**: Core Functionality Decisions
 *"Students chose to prioritize core functionality over additional features, demonstrating mature prototyping judgment"*
 
 **Essential Requirements:**
@@ -75,7 +75,7 @@ The dollhouse project succeeded because it addressed multiple pedagogical goals 
 
 ### **Ideate**: Creative Educational Solutions {#ideate}
 
-#### **[Day 32](../../calendar/consolidated.md#day-32)**: Interior Design Development
+#### **[[calendar/consolidated#day-32|Day 32]]**: Interior Design Development
 *"Students began planning interior furniture designs while the instructor finalized robot holder prototypes"*
 
 **Solution Exploration:**
@@ -92,7 +92,7 @@ The dollhouse project succeeded because it addressed multiple pedagogical goals 
 
 ### **Prototype**: Testing Educational Effectiveness {#prototype}
 
-#### **[Day 31](../../calendar/consolidated.md#day-31)**: Geometric Problem-Solving
+#### **[[calendar/consolidated#day-31|Day 31]]**: Geometric Problem-Solving
 *"Students engaged in geometry discussions about roof angles and structural relationships in their dollhouse design"*
 
 **Technical Prototyping Challenges:**
@@ -122,7 +122,7 @@ Working directly with Spanish teacher to refine educational effectiveness:
 
 ### **[[atlas/tools-techniques/Onshape CAD|Advanced CAD Applications]]**
 
-#### **[Day 34](../../calendar/consolidated.md#day-34)**: Sophisticated Design Challenges
+#### **[[calendar/consolidated#day-34|Day 34]]**: Sophisticated Design Challenges
 *"Students observed advanced Onshape CAD techniques including extrusion modeling, overlap management for tab joints"*
 
 **Technical Achievements:**

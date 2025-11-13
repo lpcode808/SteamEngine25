@@ -8,6 +8,16 @@ updated: 2025-11-12
 up: [[Concepts MOC]]
 # Magic School AI: Specialized Design Assistant
 
+> [!meta] You Are Here
+> Part 2 of 3 · Magic School AI
+> Series Home: [[atlas/concepts/AI Integration MOC|AI Integration MOC]]
+> Previous: [[atlas/concepts/AI Integration|Part 1 - Philosophy & Ethics]]
+> Next: [[atlas/concepts/AI Gemini Integration|Part 3 - Google Gemini]]
+
+> 🗺️ **Quick Navigator?** See the [[atlas/concepts/AI Integration MOC|AI Integration MOC]] for the overview of our AI partnership sequence.
+>
+> 📖 **Deep Diver?** You're in the right place—this page shows how Magic School AI supports fabrication and safety.
+
 > **"Domain expertise meets educational accessibility"** - How specialized AI training creates powerful learning tools for students and educators.
 
 **Tool Category**: AI-Powered Design Assistant  
@@ -186,10 +196,10 @@ Magic School AI was introduced as part of the robot storage project development,
 
 ### **🔗 Long-Term Skill Development**
 
-- **[Advanced CAD Integration](4Ms Framework.md#method)**: How AI-assisted design thinking scales to professional parametric modeling
-- **[Cross-Curricular Applications](../../connections/Cross-Curricular)**: Using Magic School AI to support making projects across different subject areas  
-- **[Professional Collaboration](../../connections/Community Engagement)**: Understanding how AI tools support rather than replace human expertise and creativity
-- **[Assessment Integration](../../tools-techniques/Assessment Portfolio)**: Documenting AI-assisted learning for authentic skill evaluation
+- **[[4Ms Framework#method|Advanced CAD Integration]]**: How AI-assisted design thinking scales to professional parametric modeling
+- **[[atlas/connections/Cross-Curricular|Cross-Curricular Applications]]**: Using Magic School AI to support making projects across different subject areas  
+- **[[atlas/connections/Community Engagement|Professional Collaboration]]**: Understanding how AI tools support rather than replace human expertise and creativity
+- **[[atlas/tools-techniques/Assessment Portfolio|Assessment Integration]]**: Documenting AI-assisted learning for authentic skill evaluation
 
 ---
 
@@ -202,4 +212,4 @@ Magic School AI was introduced as part of the robot storage project development,
 
 ---
 
-*Navigate: [[atlas/concepts/AI Integration MOC|← AI Integration Home]] | [[atlas/concepts/AI Gemini Integration|Gemini Integration →]] | [[atlas/tools-techniques/AI Tools|Tools & Techniques →]]*
+*Navigate: [[index|Home]] | [[Atlas MOC|Atlas]] | [[atlas/concepts/Concepts MOC|Concepts]] | [[atlas/concepts/AI Magic School Bot|This Page]]*

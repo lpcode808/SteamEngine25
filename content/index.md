@@ -8,6 +8,8 @@ publish: true
 > [!tldr] Welcome!
 > This is your guide to a semester of bringing ideas to life. Whether you're a student, teacher, or just curious, this is your starting point for exploring a journey of creativity, collaboration, and making.
 
+> [!info] First time here? Visit [[start-here|Start Here]] for a three-step orientation before you dive into the hubs below.
+
 ## Your Map of the Learning Ecosystem
 
 > Use this page to pick a starting point. Every link below leads to a Map of Content (MOC) that curates related notes, examples, and reflections across the STEAM course.

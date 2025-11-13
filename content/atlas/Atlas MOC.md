@@ -47,7 +47,7 @@ up:: [[index]]
 
 ## Tools & Techniques · How We Make It Real
 
-- **[[Tools MOC|Tools & Techniques MOC]]** – entry point to tool philosophy and safety culture.
+- **[[atlas/tools-techniques/Tools MOC|Tools & Techniques MOC]]** – entry point to tool philosophy and safety culture.
 - [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] – operations, materials, and project-ready settings.
 - [[atlas/tools-techniques/Onshape CAD|Onshape CAD]] – parametric workflows and collaboration.
 - [[atlas/tools-techniques/AI Tools|AI Tools Arsenal]] – Magic School, Gemini, and "vibe coding".
@@ -64,7 +64,7 @@ up:: [[index]]
 
 - **Learning Journey Loop**: [[calendar/index|Learning Journey MOC]] → [[calendar/timeline|Timeline]] → any concept or tool note → return here for deeper study.
 - **Project Application Loop**: [[Efforts MOC|Projects Hub]] → pick a project → follow callouts back to the relevant concept/tool notes listed above.
-- **Assessment Loop**: [[tools-techniques/Assessment Portfolio|Portfolio Guide]] → [[concepts/Reflection Methods|Reflection Methods]] → [[calendar/milestones|Milestones]] for exemplars.
+- **Assessment Loop**: [[atlas/tools-techniques/Assessment Portfolio|Portfolio Guide]] → [[atlas/concepts/Reflection Methods|Reflection Methods]] → [[calendar/milestones|Milestones]] for exemplars.
 
 ---
 

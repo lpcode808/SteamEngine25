@@ -29,7 +29,7 @@ Design thinking is a human-centered approach to innovation that integrates the n
 
 > *"Who will use this? What's the real problem we're solving?"*
 
-**In Practice**: [Day 03](../calendar/consolidated.md#day-03)
+**In Practice**: [[calendar/consolidated#day-03|Day 03]]
 
 Students practiced observation and sketching exercises to develop empathy for their target users (family members) while learning about constraint-based design within material limits.
 
@@ -45,7 +45,7 @@ Students practiced observation and sketching exercises to develop empathy for th
 
 > *"Constraint as creative catalyst, not limitation"*
 
-**In Practice**: [Day 19](../calendar/consolidated.md#day-19)
+**In Practice**: [[calendar/consolidated#day-19|Day 19]]
 
 Students refined problem-and-solution pairs while learning to articulate challenges clearly and specifically, avoiding jumping to solutions too quickly.
 
@@ -61,7 +61,7 @@ Students refined problem-and-solution pairs while learning to articulate challen
 
 > *"Generate ideas and make them real"*
 
-**In Practice**: [Day 20](../calendar/consolidated.md#day-20)
+**In Practice**: [[calendar/consolidated#day-20|Day 20]]
 
 Introduction of [[atlas/concepts/AI Integration|Magic School AI chatbot]] as brainstorming partner, demonstrating how AI can expand ideation while maintaining human creativity and critical thinking.
 
@@ -71,8 +71,8 @@ Introduction of [[atlas/concepts/AI Integration|Magic School AI chatbot]] as bra
 - **[[atlas/concepts/Constraint-Based Creativity|Constraint-Based Creativity]]**: Using limitations to spark innovation
 
 #### Breakthrough Moments
-- **[Day 28](../calendar/consolidated.md#day-28)**: "Vibe coding" - rapid app prototyping through AI
-- **[Day 20](../calendar/consolidated.md#day-20)**: AI annotating laser-cut prototypes
+- **[[calendar/consolidated#day-28|Day 28]]**: "Vibe coding" - rapid app prototyping through AI
+- **[[calendar/consolidated#day-20|Day 20]]**: AI annotating laser-cut prototypes
 
 ---
 
@@ -81,7 +81,7 @@ Introduction of [[atlas/concepts/AI Integration|Magic School AI chatbot]] as bra
 
 > *"Props for testing, not perfection"*
 
-**In Practice**: [Day 22](../calendar/consolidated.md#day-22)
+**In Practice**: [[calendar/consolidated#day-22|Day 22]]
 
 Students learned comprehensive [[atlas/tools-techniques/Laser Cutting|tool safety]] while understanding that prototypes are for testing concepts, not creating final products.
 
@@ -98,7 +98,7 @@ Students learned comprehensive [[atlas/tools-techniques/Laser Cutting|tool safet
 
 > *"Prototype iteration and learning the various techniques"*
 
-**In Practice**: [Day 31](../calendar/consolidated.md#day-31)
+**In Practice**: [[calendar/consolidated#day-31|Day 31]]
 
 Students demonstrated mature prototyping judgment by prioritizing core functionality over additional features, showing internalized testing and evaluation skills.
 
@@ -110,7 +110,7 @@ Students demonstrated mature prototyping judgment by prioritizing core functiona
 #### Testing in Action
 - **[[efforts/Robot Storage|Robot Storage]]**: Alignment challenges and USB connector specifications
 - **[[efforts/Dollhouse Design|Dollhouse Testing]]**: Constructible/deconstructible functionality verification
-- **[Day 17](../calendar/consolidated.md#day-17)**: Evaluating etched name signs against expectations
+- **[[calendar/consolidated#day-17|Day 17]]**: Evaluating etched name signs against expectations
 
 ---
 
