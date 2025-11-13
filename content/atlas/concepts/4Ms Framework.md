@@ -33,7 +33,7 @@ PROJECT SUCCESS
 
 ---
 
-## Maker {#maker}
+## Maker
 ### **The Human Element**
 
 > *"We can't tell you what to/why to make. We can help you figure out what to make."*
@@ -52,7 +52,7 @@ The maker brings expertise, creativity, and decision-making to every project. Un
 
 ---
 
-## Machine {#machine}  
+## Machine  
 ### **Tools as Extensions of Thinking**
 
 > *"The specific tool and device that you use"*
@@ -77,7 +77,7 @@ Understanding your tools' capabilities and limitations is crucial for successful
 
 ---
 
-## Method {#method}
+## Method
 ### **Processes and Workflows**
 
 > *"So many ways to do something basic. Some ways better than others."*
@@ -105,7 +105,7 @@ Method encompasses both technical processes and learning approaches. The same ou
 
 ---
 
-## Materials {#materials}
+## Materials
 ### **Properties, Constraints, and Possibilities**
 
 > *"What is the most appropriate material? Basic factors: cost, density, rigidity, workability."*
@@ -135,7 +135,7 @@ Projects like [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse De
 
 ---
 
-## Margin {#margin}
+## Margin
 ### **Room for Error, Scraps, and Learning**
 
 > *"Room for error, scraps, mistakes; both time and material"*

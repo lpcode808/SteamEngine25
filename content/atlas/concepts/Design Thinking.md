@@ -23,7 +23,7 @@ Design thinking is a human-centered approach to innovation that integrates the n
 
 ---
 
-## Empathize {#empathize}
+## Empathize
 ### **Understanding Your Users**
 
 > *"Who will use this? What's the real problem we're solving?"*
@@ -39,7 +39,7 @@ Students practiced observation and sketching exercises to develop empathy for th
 
 ---
 
-## Define {#define}
+## Define
 ### **Framing the Right Problem**
 
 > *"Constraint as creative catalyst, not limitation"*
@@ -55,7 +55,7 @@ Students refined problem-and-solution pairs while learning to articulate challen
 
 ---
 
-## Ideate {#ideate}
+## Ideate
 ### **Generating Possibilities**
 
 > *"Generate ideas and make them real"*
@@ -75,7 +75,7 @@ Introduction of [[atlas/concepts/AI Integration|Magic School AI chatbot]] as bra
 
 ---
 
-## Prototype {#prototype}
+## Prototype
 ### **Making Ideas Tangible**
 
 > *"Props for testing, not perfection"*
@@ -92,7 +92,7 @@ Students learned comprehensive [[atlas/tools-techniques/Laser Cutting|tool safet
 
 ---
 
-## Test {#test}
+## Test
 ### **Learning from Reality**
 
 > *"Prototype iteration and learning the various techniques"*
