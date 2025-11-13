@@ -1,10 +1,11 @@
 ---
-title: "Learning Through Reflection"
-tags: [concept, reflection, assessment, learning-theory]
-publish: true
 created: 2025-11-12
+tags: [concept, reflection, assessment, learning-theory]
+title: "Learning Through Reflection"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Learning Through Reflection
 
 > **"What was surprising, frustrating, accomplished, curious about?"** - Systematic approaches to processing experience and accelerating growth through reflection.

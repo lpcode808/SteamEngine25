@@ -1,10 +1,11 @@
 ---
-title: "Dimensional Accuracy: Precision in Design and Making"
-tags: [concept, design-thinking, cad, fabrication]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, cad, fabrication]
+title: "Dimensional Accuracy: Precision in Design and Making"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Dimensional Accuracy: Precision in Design and Making
 
 > **"Focus on the right dimensions rather than fine detail"** - Strategic thinking about where precision matters most.

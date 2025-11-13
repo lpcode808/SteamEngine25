@@ -1,9 +1,10 @@
 ---
+tags: [moc, concept, design-thinking]
 title: "Design Thinking MOC"
 aliases: ["Design Process"]
-tags: [moc, concept, design-thinking]
 publish: true
 ---
+up: [[Concepts MOC]]
 
 # Design Thinking MOC
 
@@ -20,7 +21,7 @@ publish: true
 Design Thinking is not a strict, linear process. It's a flexible cycle where you might loop back and repeat steps as you learn.
 
 1.  **[[concepts/Design Thinking#empathize|1. Empathize]]**: Understand the people you are designing for.
-    -   **Key practice**: [[concepts/4Ms Observation Sketching|Observation & Sketching]]
+    -   **Key practice**: [[concepts/Observation Sketching|Observation & Sketching]]
     -   **In action**: For the [[efforts/Robot Storage|Robot Storage]] project, we interviewed and observed the physics teacher to understand her daily workflow and frustrations.
 
 2.  **[[concepts/Design Thinking#define|2. Define]]**: Clearly articulate the problem you are trying to solve.
@@ -32,7 +33,7 @@ Design Thinking is not a strict, linear process. It's a flexible cycle where you
     -   **In action**: We used Gemini to visualize different storage concepts for the robots before building anything.
 
 4.  **[[concepts/Design Thinking#prototype|4. Prototype]]**: Build a quick, low-cost version of your idea to test it.
-    -   **Key practice**: [[concepts/4Ms Cardboard Prototyping|Cardboard Prototyping]] to test size and function.
+    -   **Key practice**: [[concepts/Cardboard Prototyping|Cardboard Prototyping]] to test size and function.
     -   **In action**: We built cardboard mockups of the robot holders to check dimensions before using expensive plywood.
 
 5.  **[[concepts/Design Thinking#test|5. Test]]**: Get feedback on your prototype from real users.

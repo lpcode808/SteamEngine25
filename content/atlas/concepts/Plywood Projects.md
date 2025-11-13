@@ -1,10 +1,11 @@
 ---
-title: "Plywood Projects: Structural Integrity and Natural Aesthetics"
-tags: [concept, 4ms-framework, materials, engineering]
-publish: true
 created: 2025-11-12
+tags: [concept, 4ms-framework, materials, engineering]
+title: "Plywood Projects: Structural Integrity and Natural Aesthetics"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Plywood Projects: Structural Integrity and Natural Aesthetics
 
 > **"Building with strength, beauty, and sustainability"** - How plywood combines engineering performance with natural aesthetics for sophisticated making projects.
@@ -175,7 +176,7 @@ Structural performance, natural beauty, manufacturing precision, and sustainable
 
 ### **🔗 Advanced Making Integration**
 
-- **[[atlas/concepts/4Ms Cardboard Prototyping|Cardboard Prototyping]]**: How paper-based testing informs and improves plywood project development
+- **[[atlas/concepts/Cardboard Prototyping|Cardboard Prototyping]]**: How paper-based testing informs and improves plywood project development
 
 ---
 
@@ -188,4 +189,4 @@ Structural performance, natural beauty, manufacturing precision, and sustainable
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Cardboard Prototyping|← Cardboard Prototyping]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]]*
+*Navigate: [[atlas/concepts/Cardboard Prototyping|← Cardboard Prototyping]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]]*

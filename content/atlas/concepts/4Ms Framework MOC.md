@@ -1,10 +1,10 @@
 ---
+tags: [moc, concept, 4ms-framework]
 title: "4Ms Framework MOC"
 aliases: ["4Ms"]
-tags: [moc, concept, 4ms-framework]
 publish: true
 ---
-
+up: [[Concepts MOC]]
 # 4Ms Framework MOC
 
 > [!tldr] TL;DR
@@ -21,7 +21,7 @@ The framework helps you analyze the entire system of a project.
 
 1.  **[[concepts/4Ms Framework#maker|Maker]]**: The person doing the work.
     -   **Questions**: What are my skills? What are my learning goals? Who am I collaborating with?
-    -   **See it in action**: In the [[efforts/Dollhouse Design|Dollhouse project]], the team's [[concepts/4Ms Group Cohesion|group cohesion]] (`Maker`) was the key to success.
+    -   **See it in action**: In the [[efforts/Dollhouse Design|Dollhouse project]], the team's [[concepts/Group Cohesion|group cohesion]] (`Maker`) was the key to success.
 
 2.  **[[concepts/4Ms Framework#machine|Machine]]**: The tools you use.
     -   **Questions**: What can this tool do? What are its limitations (e.g., the 2'x1' laser bed)?
@@ -29,11 +29,11 @@ The framework helps you analyze the entire system of a project.
 
 3.  **[[concepts/4Ms Framework#method|Method]]**: The process you follow.
     -   **Questions**: What is my workflow? Am I using [[concepts/Design Thinking|Design Thinking]]? What's my plan for prototyping?
-    -   **See it in action**: Our `Method` for learning [[tools-techniques/Onshape CAD|CAD]] involved [[concepts/4Ms Embedded Learning|observing a professional workflow first]].
+    -   **See it in action**: Our `Method` for learning [[tools-techniques/Onshape CAD|CAD]] involved [[concepts/Embedded Learning|observing a professional workflow first]].
 
 4.  **[[concepts/4Ms Framework#materials|Materials]]**: The physical stuff you are working with.
     -   **Questions**: What are the properties of this material? Is it strong enough? Is it safe to laser cut?
-    -   **See it in action**: We progressed from [[concepts/4Ms Cardboard Prototyping|cardboard]] to [[concepts/4Ms Plywood Projects|plywood]] (`Materials`) as our projects got more complex.
+    -   **See it in action**: We progressed from [[concepts/Cardboard Prototyping|cardboard]] to [[concepts/Plywood Projects|plywood]] (`Materials`) as our projects got more complex.
 
 5.  **[[concepts/4Ms Framework#margin|Margin]]**: The buffer for mistakes, learning, and the unexpected.
     -   **Questions**: Do I have extra material for a failed cut? Is there slack in my timeline?
@@ -45,10 +45,10 @@ The framework helps you analyze the entire system of a project.
 
 -   **Start with the main note**: Read the full **[[concepts/4Ms Framework|4Ms Framework]]** page for a complete overview.
 -   **Explore each "M"**:
-    -   [[concepts/4Ms Group Cohesion|Maker]]
+    -   [[concepts/Group Cohesion|Maker]]
     -   [[tools-techniques/Laser Cutting|Machine]]
     -   [[concepts/Design Thinking|Method]]
-    -   [[concepts/4Ms Cardboard Prototyping|Materials]]
+    -   [[concepts/Cardboard Prototyping|Materials]]
     -   [[calendar/consolidated#day-31|Margin]]
 
 ---

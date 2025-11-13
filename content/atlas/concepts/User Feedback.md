@@ -1,10 +1,11 @@
 ---
-title: "User Feedback: Testing with Real People"
-tags: [concept, design-thinking, testing]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, testing]
+title: "User Feedback: Testing with Real People"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # User Feedback: Testing with Real People
 
 > **"Testing with actual teachers and classmates"** - The most valuable insights come from the people who will actually use what you make.
@@ -45,7 +46,7 @@ Real user testing transformed both the [[efforts/Robot Storage|Robot Storage]] a
 - "What would make this more useful?"
 - "How does this compare to what you do now?"
 
-### [[atlas/concepts/4Ms Peer Feedback|Peer Feedback Protocols]]
+### [[atlas/concepts/Peer Feedback|Peer Feedback Protocols]]
 **Structured approaches like "notice and wonder"**
 - Separates observation from evaluation
 - Creates safe space for honest feedback

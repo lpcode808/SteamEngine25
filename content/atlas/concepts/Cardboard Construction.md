@@ -1,11 +1,12 @@
 ---
-title: "Cardboard Construction: Rapid, Low-Cost Iteration"
-tags: [concept, prototyping, materials, design-thinking]
-publish: true
 created: 2025-11-12
+tags: [concept, prototyping, materials, design-thinking]
+title: "Cardboard Construction: Rapid, Low-Cost Iteration"
+publish: true
 updated: 2025-11-12
 ---
-# Cardboard Construction: Rapid, Low-Cost Iteration
+[]]
+# Cardboard Co](<up: [[Concepts MOC]]>)nstruction: Rapid, Low-Cost Iteration
 
 > **"Props for testing, not perfection"** - How cardboard prototyping enables fast learning cycles and concept validation.
 

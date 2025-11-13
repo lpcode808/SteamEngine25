@@ -1,10 +1,11 @@
 ---
-title: "Iterative Refinement: Small Improvements Based on Testing"
-tags: [concept, design-thinking, prototyping]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, prototyping]
+title: "Iterative Refinement: Small Improvements Based on Testing"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Iterative Refinement: Small Improvements Based on Testing
 
 > **"Small improvements based on testing results"** - The path from good to great through systematic iteration.
@@ -17,7 +18,7 @@ Iterative refinement is the process of making incremental improvements to a desi
 
 ### Core Principles
 
-- **Test early and often** with [[atlas/concepts/4Ms Cardboard Prototyping|simple prototypes]]
+- **Test early and often** with [[atlas/concepts/Cardboard Prototyping|simple prototypes]]
 - **Make one change at a time** so you understand what improves performance
 - **Document your iterations** to understand your design evolution
 - **Accept that refinement takes time** - it's process, not failure
@@ -56,7 +57,7 @@ Both [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse Design|Doll
 - Why you made specific changes
 - What you'd try next
 
-### [[atlas/concepts/4Ms Peer Feedback|Peer Review Cycles]]
+### [[atlas/concepts/Peer Feedback|Peer Review Cycles]]
 **Get fresh eyes between iterations**
 - "Notice and wonder" protocols
 - Structured feedback sessions
@@ -90,8 +91,8 @@ Both [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse Design|Doll
 
 ### Materials
 **Material understanding grows through testing**
-- [[atlas/concepts/4Ms Cardboard Prototyping|Cardboard]] for early iterations
-- [[atlas/concepts/4Ms Plywood Projects|Plywood]] for refined prototypes
+- [[atlas/concepts/Cardboard Prototyping|Cardboard]] for early iterations
+- [[atlas/concepts/Plywood Projects|Plywood]] for refined prototypes
 - Acrylic for final production
 
 ### Margin

@@ -1,10 +1,11 @@
 ---
-title: "AI as Creative Partner: Responsible Innovation"
-tags: [concept, ai, design-thinking, future-learning]
-publish: true
 created: 2025-11-12
+tags: [concept, ai, design-thinking, future-learning]
+title: "AI as Creative Partner: Responsible Innovation"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # AI as Creative Partner: Responsible Innovation
 
 > **"AI is like a word calculator, personalized tutor, or research assistant"** - Tools that amplify human creativity rather than replacing it.

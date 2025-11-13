@@ -5,6 +5,7 @@ title: "Design Thinking: A Problem-Solving Framework"
 publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Design Thinking: A Problem-Solving Framework
 
 > **"Understand problems before jumping to solutions"** - The mindset that guides all STEAM learning.
@@ -33,7 +34,7 @@ Design thinking is a human-centered approach to innovation that integrates the n
 Students practiced observation and sketching exercises to develop empathy for their target users (family members) while learning about constraint-based design within material limits.
 
 #### Key Approaches
-- **[[atlas/concepts/4Ms Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
+- **[[atlas/concepts/Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
 - **[[atlas/concepts/Stakeholder Mapping|Stakeholder Mapping]]**: Understanding all affected people
 - **Examples**: [[efforts/Dollhouse Design|Dollhouse]] and [[efforts/Robot Storage|Robot Storage]] projects
 

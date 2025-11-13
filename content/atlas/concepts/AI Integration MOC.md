@@ -1,10 +1,10 @@
 ---
+tags: [moc, concept, ai-integration]
 title: "AI Integration MOC"
 aliases: ["AI Partnership"]
-tags: [moc, concept, ai-integration]
 publish: true
 ---
-
+up: [[Concepts MOC]]
 # AI Integration MOC
 
 > [!tldr] TL;DR

@@ -1,10 +1,11 @@
 ---
-title: "Magic School AI: Specialized Design Assistant"
-tags: [concept, ai, tools, education-technology]
-publish: true
 created: 2025-11-12
+tags: [concept, ai, tools, education-technology]
+title: "Magic School AI: Specialized Design Assistant"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Magic School AI: Specialized Design Assistant
 
 > **"Domain expertise meets educational accessibility"** - How specialized AI training creates powerful learning tools for students and educators.

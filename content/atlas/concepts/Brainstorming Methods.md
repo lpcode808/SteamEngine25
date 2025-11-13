@@ -1,10 +1,11 @@
 ---
-title: "Brainstorming Methods: Collaborative Idea Generation"
-tags: [concept, design-thinking, collaboration]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, collaboration]
+title: "Brainstorming Methods: Collaborative Idea Generation"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Brainstorming Methods: Collaborative Idea Generation
 
 > **"Build on others' ideas rather than competing with them"** - Techniques for productive group ideation.

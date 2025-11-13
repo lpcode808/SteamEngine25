@@ -1,10 +1,11 @@
 ---
-title: "Observation & Sketching: I Notice and Wonder"
-tags: [concept, 4ms-framework, design-thinking, documentation]
-publish: true
 created: 2025-11-12
+tags: [concept, 4ms-framework, design-thinking, documentation]
+title: "Observation & Sketching: I Notice and Wonder"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Observation & Sketching: "I Notice and Wonder"
 
 > **"Visual thinking foundation for design development"** - How systematic observation and sketching build design thinking and communication skills.
@@ -170,4 +171,4 @@ Notice → Wonder → Document → Connect: A systematic methodology for visual 
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/4Ms Peer Feedback|Peer Feedback →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*
+*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/Peer Feedback|Peer Feedback →]] | [[atlas/concepts/Design Thinking|Design Thinking →]]*

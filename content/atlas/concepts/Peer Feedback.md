@@ -1,10 +1,11 @@
 ---
-title: "Peer Feedback: Notice and Wonder Presentation Protocols"
-tags: [concept, 4ms-framework, collaboration, communication]
-publish: true
 created: 2025-11-12
+tags: [concept, 4ms-framework, collaboration, communication]
+title: "Peer Feedback: Notice and Wonder Presentation Protocols"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Peer Feedback: "Notice and Wonder" Presentation Protocols
 
 > **"Constructive collaboration through systematic observation"** - How structured peer feedback builds communication skills and learning community.
@@ -166,4 +167,4 @@ Notice → Wonder → Appreciate → Suggest: Structured approach to constructiv
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Observation Sketching|← Observation & Sketching]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]] | [[atlas/concepts/4Ms Embedded Learning|Embedded Learning →]]*
+*Navigate: [[atlas/concepts/Observation Sketching|← Observation & Sketching]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]] | [[atlas/concepts/Embedded Learning|Embedded Learning →]]*

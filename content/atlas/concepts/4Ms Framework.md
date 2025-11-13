@@ -1,10 +1,11 @@
 ---
-title: "The 4Ms Framework: Systems Thinking for Makers"
-tags: [concept, 4ms-framework, design-thinking, ai, laser-cutting, cad, reflection-methods]
-publish: true
 created: 2025-11-12
+tags: [concept, 4ms-framework, design-thinking, ai, laser-cutting, cad, reflection-methods]
+title: "The 4Ms Framework: Systems Thinking for Makers"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # The 4Ms Framework: Systems Thinking for Makers
 
 > **"Maker, Machine, Method, Materials, Margin"** - A systematic approach to understanding and planning any making project.
@@ -48,7 +49,7 @@ The maker brings expertise, creativity, and decision-making to every project. Un
 
 #### Examples from Our Journey
 - **[Day 01](../calendar/consolidated.md#day-01)**: Collaborative design instincts
-- **[Day 26](../calendar/consolidated.md#day-26)**: [[atlas/concepts/4Ms Group Cohesion|Collaborative strengths]] driving project selection
+- **[Day 26](../calendar/consolidated.md#day-26)**: [[atlas/concepts/Group Cohesion|Collaborative strengths]] driving project selection
 
 ---
 
@@ -86,18 +87,18 @@ Method encompasses both technical processes and learning approaches. The same ou
 
 #### Design and Planning Methods
 - **[[atlas/concepts/Design Thinking|Design Thinking Process]]**: Empathize → Define → Ideate → Prototype → Test
-- **[[atlas/concepts/4Ms Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
+- **[[atlas/concepts/Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
 - **[Day 22](../calendar/consolidated.md#day-22)**: Concept confirmation → sketching → scaled construction
 
 #### Fabrication Methods  
 - **[[atlas/tools-techniques/Laser Cutting|Laser Cutting Workflow]]**: Design → File preparation → Material setup → Cutting → Assembly
 - **[[atlas/tools-techniques/Onshape CAD|Parametric Modeling]]**: Feature-based design with automatic updates
-- **[[atlas/concepts/4Ms Cardboard Prototyping|Prototyping Progression]]**: Cardboard → Plywood → Acrylic → Mixed materials
+- **[[atlas/concepts/Cardboard Prototyping|Prototyping Progression]]**: Cardboard → Plywood → Acrylic → Mixed materials
 
 #### Learning Methods
 - **[[atlas/concepts/Reflection Methods|Reflection Cycles]]**: "What was surprising, frustrating, accomplished, curious about?"
-- **[[atlas/concepts/4Ms Peer Feedback|Peer Feedback]]**: "Notice and wonder" presentation protocols  
-- **[[atlas/concepts/4Ms Embedded Learning|Embedded Learning]]**: Observing professional workflows before hands-on practice
+- **[[atlas/concepts/Peer Feedback|Peer Feedback]]**: "Notice and wonder" presentation protocols  
+- **[[atlas/concepts/Embedded Learning|Embedded Learning]]**: Observing professional workflows before hands-on practice
 
 #### Method Evolution Examples
 - **[Day 02](../calendar/consolidated.md#day-02)**: "Messy first, then precise"
@@ -113,8 +114,8 @@ Method encompasses both technical processes and learning approaches. The same ou
 Material choice affects every aspect of a project, from design constraints to fabrication methods to final performance.
 
 #### Material Progression in Learning
-1. **[[atlas/concepts/4Ms Cardboard Prototyping|Cardboard]]**: Rapid, forgiving, cheap iteration
-2. **[[atlas/concepts/4Ms Plywood Projects|Plywood]]**: Structural integrity, natural aesthetics  
+1. **[[atlas/concepts/Cardboard Prototyping|Cardboard]]**: Rapid, forgiving, cheap iteration
+2. **[[atlas/concepts/Plywood Projects|Plywood]]**: Structural integrity, natural aesthetics  
 3. **Acrylic**: Precision, transparency, modern appearance
 4. **Mixed Materials**: Combining properties for optimal solutions
 
@@ -219,12 +220,12 @@ Before starting any project, systematically consider:
 
 Explore specific aspects of the 4 Ms framework:
 
-- **[[atlas/concepts/4Ms Cardboard Prototyping|Cardboard Prototyping]]**: Rapid, forgiving iteration methods
-- **[[atlas/concepts/4Ms Plywood Projects|Plywood Projects]]**: Structural integrity and natural aesthetics
-- **[[atlas/concepts/4Ms Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
-- **[[atlas/concepts/4Ms Peer Feedback|Peer Feedback]]**: "Notice and wonder" presentation protocols
-- **[[atlas/concepts/4Ms Embedded Learning|Embedded Learning]]**: Observing professional workflows
-- **[[atlas/concepts/4Ms Group Cohesion|Group Cohesion]]**: Collaborative strengths in project work
+- **[[atlas/concepts/Cardboard Prototyping|Cardboard Prototyping]]**: Rapid, forgiving iteration methods
+- **[[atlas/concepts/Plywood Projects|Plywood Projects]]**: Structural integrity and natural aesthetics
+- **[[atlas/concepts/Observation Sketching|Observation & Sketching]]**: "I notice and wonder" methodology
+- **[[atlas/concepts/Peer Feedback|Peer Feedback]]**: "Notice and wonder" presentation protocols
+- **[[atlas/concepts/Embedded Learning|Embedded Learning]]**: Observing professional workflows
+- **[[atlas/concepts/Group Cohesion|Group Cohesion]]**: Collaborative strengths in project work
 
 ---
 

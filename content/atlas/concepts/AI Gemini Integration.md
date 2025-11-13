@@ -1,10 +1,11 @@
 ---
-title: "Google Gemini: Visual and Creative AI"
-tags: [concept, ai, tools, design-thinking]
-publish: true
 created: 2025-11-12
+tags: [concept, ai, tools, design-thinking]
+title: "Google Gemini: Visual and Creative AI"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Google Gemini: Visual and Creative AI
 
 > **"Breakthrough image analysis meets creative partnership"** - How visual AI transforms design development and creative workflow.

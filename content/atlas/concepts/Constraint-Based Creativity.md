@@ -1,10 +1,12 @@
 ---
-title: "Constraint-Based Creativity: Using Limitations to Spark Innovation"
-tags: [concept, design-thinking, creativity]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, creativity]
+title: "Constraint-Based Creativity: Using Limitations to Spark Innovation"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
+
 # Constraint-Based Creativity: Using Limitations to Spark Innovation
 
 > **"Constraint as creative catalyst, not limitation"** - How boundaries create rather than restrict creative possibilities.

@@ -1,10 +1,11 @@
 ---
-title: "Group Cohesion: Collaborative Strengths in Project Selection"
-tags: [concept, 4ms-framework, collaboration, project-management]
-publish: true
 created: 2025-11-12
+tags: [concept, 4ms-framework, collaboration, project-management]
+title: "Group Cohesion: Collaborative Strengths in Project Selection"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Group Cohesion: Collaborative Strengths in Project Selection
 
 > **"When collaboration should drive project decisions"** - Understanding how team dynamics and shared investment create more impactful learning and outcomes.
@@ -185,4 +186,4 @@ The dollhouse project emerged as most impactful work precisely because:
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/4Ms Embedded Learning|Embedded Learning →]] | [[atlas/connections/Cross-Curricular|Cross-Curricular Integration →]]*
+*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/Embedded Learning|Embedded Learning →]] | [[atlas/connections/Cross-Curricular|Cross-Curricular Integration →]]*

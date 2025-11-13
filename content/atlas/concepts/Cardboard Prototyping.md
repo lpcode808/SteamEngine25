@@ -5,7 +5,7 @@ title: "Cardboard Prototyping: Rapid, Forgiving, Cheap Iteration"
 publish: true
 updated: 2025-11-12
 ---
-up: [[Atlas MOC]]
+up: [[Concepts MOC]]
 # Cardboard Prototyping: Rapid, Forgiving, Cheap Iteration
 
 > **"Professional foundation for design development"** - How cardboard prototyping builds essential design thinking and professional development skills.
@@ -183,7 +183,7 @@ Cardboard prototyping represents the foundation of professional design developme
 
 ### **🔗 Material and Process Progression**
 
-- **[[atlas/concepts/4Ms Plywood Projects|Plywood Projects]]**: How cardboard prototyping informs and improves wooden construction projects
+- **[[atlas/concepts/Plywood Projects|Plywood Projects]]**: How cardboard prototyping informs and improves wooden construction projects
 
 ---
 
@@ -196,4 +196,4 @@ Cardboard prototyping represents the foundation of professional design developme
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/4Ms Plywood Projects|Plywood Projects →]]*
+*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/Plywood Projects|Plywood Projects →]]*

@@ -1,10 +1,12 @@
 ---
-title: "Functional Testing: Does It Solve the Problem?"
-tags: [concept, design-thinking, testing]
-publish: true
 created: 2025-11-12
+tags: [concept, design-thinking, testing]
+title: "Functional Testing: Does It Solve the Problem?"
+publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
+
 # Functional Testing: Does It Solve the Problem?
 
 > **"Does it solve the problem it's meant to solve?"** - The fundamental question that determines whether a design succeeds or fails.
@@ -76,7 +78,7 @@ Both [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse Design|Doll
 ### [[atlas/concepts/Design Thinking#prototype|Prototype]]
 **Early functional testing with simple prototypes**
 - Test core functionality quickly
-- [[atlas/concepts/4Ms Cardboard Prototyping|Cardboard prototypes]] for concept validation
+- [[atlas/concepts/Cardboard Prototyping|Cardboard prototypes]] for concept validation
 - Avoid perfecting non-functional aspects
 
 ### [[atlas/concepts/Design Thinking#test|Test]]

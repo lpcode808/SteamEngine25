@@ -5,6 +5,7 @@ title: "Embedded Learning: Professional Workflow Observation"
 publish: true
 updated: 2025-11-12
 ---
+up: [[Concepts MOC]]
 # Embedded Learning: Professional Workflow Observation
 
 > **"Understanding through observation before hands-on practice"** - How systematic observation of expert practice accelerates skill development and professional understanding.
@@ -157,4 +158,4 @@ Expert practice observation, pattern recognition, safety integration, and qualit
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Peer Feedback|← Peer Feedback]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]]*
+*Navigate: [[atlas/concepts/Peer Feedback|← Peer Feedback]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]]*
