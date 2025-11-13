@@ -72,7 +72,7 @@ up:: [[index]]
 
 - Looking for teaching moves? Jump to [[atlas/connections/Community Engagement|Community Engagement]] and [[atlas/connections/Cross-Curricular|Cross-Curricular Links]].
 - Planning a new module? Combine [[atlas/concepts/Design Thinking MOC|Design Thinking MOC]] with [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] and [[efforts/Family Coasters|Family Coasters]].
-- Onboard a new student? Pair [[README|Course Quick Start]] with [[atlas/concepts/Concepts MOC|Core Concepts MOC]] and a guided pass through [[calendar/timeline|Timeline]].
+- Onboard a new student? Pair [[index|Course Quick Start]] with [[atlas/concepts/Concepts MOC|Core Concepts MOC]] and a guided pass through [[calendar/timeline|Timeline]].
 
 > [!note]
 > Add your own notes or tag new ideas inside the appropriate shelf so the Atlas stays the single source of truth for future cohorts.
