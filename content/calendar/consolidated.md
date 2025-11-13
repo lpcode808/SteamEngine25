@@ -12,9 +12,8 @@ up:: [[Journey MOC]]
 
 ---
 
-# Day 1: {#day-01}
-
-First Steps in STEAM
+## Day 1 {#day-01}
+**First Steps in STEAM**
 
 > **"Curiosity, Confidence, Creativity, Communication"** - The four principles that will guide our semester journey.
 
@@ -66,9 +65,8 @@ Create four connected words using **only cardstock and scissors**:
 
 ---
 
-# Day 2: {#day-02}
-
-Digital Art Foundations
+## Day 2 {#day-02}
+**Digital Art Foundations**
 
 **Date**: Second day of semester  
 **Focus**: "Messy first, then precise" - bridging analog and digital design  
@@ -111,9 +109,8 @@ Students begin understanding how digital design translates to physical making:
 
 ---
 
-# Day 3: {#day-03}
-
-Family Projects Planning
+## Day 3 {#day-03}
+**Family Projects Planning**
 
 **Date**: Third day of semester  
 **Focus**: Stanford D.school methodology and user-centered design  
@@ -154,7 +151,8 @@ Moving beyond personal preference to consider:
 
 ---
 
-# Day 4-9: Making and Reflecting {#day-04}
+## Day 4-9 {#day-04}
+**Making and Reflecting**
 
 **Date**: Days 4-9 of semester  
 **Focus**: Personal coaster creation and [[atlas/tools-techniques/Assessment Portfolio|portfolio development]]
@@ -192,7 +190,8 @@ Building communication skills through:
 
 ---
 
-# Day 10-14: Public Communication {#day-10}
+## Day 10-14 {#day-10}
+**Public Communication**
 
 **Date**: Days 10-14 of semester  
 **Focus**: [[atlas/connections/Community Engagement|Honolulu Tech Week]] preparation and community engagement  
@@ -238,7 +237,8 @@ Engaging with Honolulu's technology community:
 
 ---
 
-# Day 15-16: Structured Reflection {#day-15}
+## Day 15-16 {#day-15}
+**Structured Reflection**
 
 **Date**: Days 15-16 of semester  
 **Focus**: Feedback integration and learning consolidation  
@@ -269,7 +269,8 @@ Processing input from Tech Week presentations:
 
 ---
 
-# Day 17-18: Design Evaluation {#day-17}
+## Day 17-18 {#day-17}
+**Design Evaluation**
 
 **Date**: Days 17-18 of semester  
 **Focus**: Scale evaluation and 3D printing introduction  
@@ -314,9 +315,8 @@ Beginning to work together on shared challenges:
 
 ---
 
-# Day 19: {#day-19}
-
-Problem Identification
+## Day 19 {#day-19}
+**Problem Identification**
 
 **Date**: Day 19 of semester  
 **Focus**: Collaborative design thinking for real challenges  
@@ -347,9 +347,8 @@ Connecting classroom learning to authentic challenges:
 
 ---
 
-# Day 20: {#day-20}
-
-AI Ethics and Robot Storage
+## Day 20 {#day-20}
+**AI Ethics and Robot Storage**
 
 **Date**: Day 20 of semester  
 **Focus**: Responsible AI partnership and [[efforts/Robot Storage|robot storage]] project launch  
@@ -412,9 +411,8 @@ Visual AI for design development:
 
 ---
 
-# Day 21: {#day-21}
-
-"Context Rot" Discussion
+## Day 21 {#day-21}
+**"Context Rot" Discussion**
 
 **Date**: Day 21 of semester  
 **Focus**: AI limitations and critical thinking development  
@@ -460,9 +458,8 @@ Applying professional patterns to classroom projects:
 
 ---
 
-# Day 22: {#day-22}
-
-Dimensional Planning
+## Day 22 {#day-22}
+**Dimensional Planning**
 
 **Date**: Day 22 of semester  
 **Focus**: Tool safety and precise measurement for effective prototyping  
@@ -525,9 +522,8 @@ Learning from professional prototyping practices:
 
 ---
 
-# Day 23: {#day-23}
-
-Advanced AI Applications
+## Day 23 {#day-23}
+**Advanced AI Applications**
 
 **Date**: Day 23 of semester  
 **Focus**: Magic School laser cutting specialist and Gemini integration  
@@ -574,7 +570,8 @@ Learning from educational technology specialist:
 
 ---
 
-# Day 24-25: Knowledge Transfer {#day-24}
+## Day 24-25 {#day-24}
+**Knowledge Transfer**
 
 **Date**: Days 24-25 of semester  
 **Focus**: Substitute teacher collaboration and cross-curricular discovery  
@@ -621,9 +618,8 @@ Understanding how to select projects for maximum learning and impact:
 
 ---
 
-# Day 26: {#day-26}
-
-Project Discovery
+## Day 26 {#day-26}
+**Project Discovery**
 
 **Date**: Day 26 of semester  
 **Focus**: [[efforts/Dollhouse Design|Dollhouse project]] emerges as most impactful work  
@@ -670,9 +666,8 @@ Learning to work effectively in educational collaboration:
 
 ---
 
-# Day 27: {#day-27}
-
-USB Cable Measurements
+## Day 27 {#day-27}
+**USB Cable Measurements**
 
 **Date**: Day 27 of semester  
 **Focus**: [[atlas/tools-techniques/Onshape CAD|Onshape CAD]] introduction and dimensional precision  
@@ -719,9 +714,8 @@ Working with teachers as professional partners:
 
 ---
 
-# Day 28: {#day-28}
-
-AI Conference Integration
+## Day 28 {#day-28}
+**AI Conference Integration**
 
 **Date**: Day 28 of semester  
 **Focus**: Individual student connecting AI conference learning to classroom applications  
@@ -777,9 +771,8 @@ Introduction to professional development tools:
 
 ---
 
-# Day 29: {#day-29}
-
-Advanced Development Integration
+## Day 29 {#day-29}
+**Advanced Development Integration**
 
 **Date**: Day 29 of semester  
 **Focus**: VS Code integration and advanced coding environment exploration  
@@ -826,9 +819,8 @@ Connecting classroom learning to industry practices:
 
 ---
 
-# Day 30: {#day-30}
-
-Image Generation and Editing
+## Day 30 {#day-30}
+**Image Generation and Editing**
 
 **Date**: Day 30 of semester  
 **Focus**: Comprehensive AI image generation while addressing "context rot" challenges  
@@ -891,9 +883,8 @@ Systematic approaches to recording and sharing learning:
 
 ---
 
-# Day 31: {#day-31}
-
-Design Decision Maturity
+## Day 31 {#day-31}
+**Design Decision Maturity**
 
 **Date**: Day 31 of semester  
 **Focus**: Functionality over features and sophisticated design judgment  
@@ -956,9 +947,8 @@ Connecting classroom work to real-world professional practice:
 
 ---
 
-# Day 32: {#day-32}
-
-Real-World Cost Analysis
+## Day 32 {#day-32}
+**Real-World Cost Analysis**
 
 **Date**: Day 32 of semester  
 **Focus**: Economic analysis affecting design decisions  
@@ -1022,9 +1012,8 @@ Learning to think like professional designers and makers:
 
 ---
 
-# Day 33: {#day-33}
-
-Hands-On Refinement
+## Day 33 {#day-33}
+**Hands-On Refinement**
 
 **Date**: Day 33 of semester  
 **Focus**: User testing and practical design validation  
@@ -1087,9 +1076,8 @@ Systematic approaches to design refinement:
 
 ---
 
-# Day 34: {#day-34}
-
-Professional Design Process
+## Day 34 {#day-34}
+**Professional Design Process**
 
 **Date**: Day 34 of semester  
 **Focus**: Advanced CAD workflow and file format translation  
@@ -1153,9 +1141,8 @@ Understanding how technical skills develop in professional contexts:
 
 ---
 
-# Day 35: {#day-35}
-
-Production Integration
+## Day 35 {#day-35}
+**Production Integration**
 
 **Date**: Day 35 of semester  
 **Focus**: Professional workflows and practical decision-making  
