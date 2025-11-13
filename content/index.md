@@ -1,97 +1,86 @@
+---
+created: 2025-11-12
+tags: [moc, overview, design-thinking]
+title: "STEAM: Bringing Ideas to Life"
+description: "Interactive map of the STEAM learning ecosystem and its core navigation hubs."
+publish: true
+updated: 2025-11-12
+---
 # STEAM: Bringing Ideas to Life
-## Bits and Atoms - Hawaiʻi School for Girls at La Pietra
+## Your Map of the Learning Ecosystem
 
-> **Science · Technology · Engineering · Art · Mathematics**  
-> *Where curiosity meets creativity, and digital tools meet physical making*
-
----
-
-## Welcome to Your Learning Journey
-
-This is the story of how three students spent a semester learning to bring their ideas to life, working with both "bits" (digital tools, code, AI) and "atoms" (physical materials, laser cutting, prototyping). Whether you're a current student, future maker, or educator, explore how **design thinking**, **AI partnership**, and **hands-on creation** come together in modern STEAM education.
+> [!tldr]
+> Use this page to pick a starting point. Every link below leads to a Map of Content (MOC) that curates related notes, examples, and reflections across the STEAM course.
 
 ---
 
-## 🎯 What You'll Discover
+## Quick Orientation
 
-### [[learning-journey/timeline|📚 The Learning Journey]]
-Follow 35 days of discovery, from first laser cuts to advanced AI-assisted design. See how skills build from simple observations to complex problem-solving.
-
-- **[[learning-journey/daily-summaries/|Daily Learning Stories]]** - Real classroom moments and breakthrough discoveries
-- **[[learning-journey/milestones|Key Milestones]]** - Major achievements and turning points
-- **Growth Mindset in Action** - How "failure" becomes learning
-
-### [[concepts/|🧠 Core Concepts]]
-The big ideas that connect everything:
-
-- **[[concepts/design-thinking|Design Thinking Process]]** - Empathize → Define → Ideate → Prototype → Test
-- **[[concepts/4ms-framework|The 4 Ms Framework]]** - Maker, Machine, Method, Materials, Margin  
-- **[[concepts/ai-integration|AI as Creative Partner]]** - Using generative AI ethically and effectively
-- **[[concepts/reflection-methods|Learning Through Reflection]]** - Portfolio development and growth documentation
-
-### [[projects/|🛠️ Real Projects, Real Impact]]
-See how design thinking applies to solving real problems:
-
-- **[[projects/robot-storage|Robot Storage Solution]]** - Organizing classroom technology with precision CAD
-- **[[projects/dollhouse-design|Educational Dollhouse]]** - Cross-curricular collaboration with language learning
-- **[[projects/family-coasters|Personal Coasters]]** - First laser cutting project connecting to family
-- **[[projects/individual-explorations|Individual Explorations]]** - Student-driven creative investigations
-
-### [[tools-techniques/|⚙️ Tools & Techniques]]
-Master the maker toolkit:
-
-- **[[tools-techniques/laser-cutting|Laser Cutting Mastery]]** - From safety basics to complex joints
-- **[[tools-techniques/onshape-cad|Onshape CAD]]** - Parametric design and professional workflows  
-- **[[tools-techniques/ai-tools|AI Tools Arsenal]]** - Magic School, Gemini, and responsible AI use
-- **[[tools-techniques/assessment-portfolio|Portfolio & Reflection]]** - Documenting learning and growth
-
-### [[connections/|🌐 Beyond the Classroom]]
-How STEAM learning connects to the world:
-
-- **[[connections/cross-curricular|Cross-Curricular Links]]** - Physics, Spanish, art, and more
-- **[[connections/community-engagement|Community Engagement]]** - Tech Week, AI conferences, real-world applications
-- **[[connections/future-learning|Future Pathways]]** - Where these skills lead next
+- **[[README|Course Quick Start]]** – Fast overview of the program, expectations, and five must-read notes.
+- **[[calendar/index|Learning Journey MOC]]** – Follow the semester arc, phases, and daily documentation.
+- **[[Atlas MOC|Atlas of Ideas MOC]]** – Explore the frameworks, concepts, and tools that power every project.
+- **[[Efforts MOC|Projects Hub MOC]]** – Dive into signature efforts and see how learning shows up in real builds.
 
 ---
 
-## 🚀 Start Your Exploration
+## Core Navigation Hubs
 
-### New to STEAM?
-Begin with **[[learning-journey/timeline|The Timeline]]** to see the full learning arc, then dive into **[[concepts/design-thinking|Design Thinking]]** to understand our problem-solving approach.
+### [[calendar/index|Learning Journey]]
+- [[calendar/timeline|Semester Timeline]] – high-level view of the four phases.
+- [[calendar/milestones|Key Milestones]] – breakthrough moments and why they mattered.
+- [[calendar/consolidated|Daily Log]] – 35 days of observations, prompts, and reflections.
 
-### Interested in Making?
-Jump to **[[tools-techniques/laser-cutting|Laser Cutting]]** and see how digital design becomes physical reality in **[[projects/family-coasters|your first project]]**.
+### [[Atlas MOC|Atlas of Ideas]]
+- [[atlas/concepts/Concepts MOC|Core Concepts MOC]] – Design Thinking, 4Ms, AI partnership, reflection.
+- [[Real World|Connections MOC]] – Cross-curricular, community, and future pathways.
+- [[Tools MOC|Tools & Techniques MOC]] – Laser cutting, CAD, AI tools, portfolio craft.
 
-### Curious About AI?
-Explore **[[concepts/ai-integration|AI as Creative Partner]]** and see it in action through **[[projects/robot-storage|real project applications]]**.
-
-### Educator or Parent?
-Check out **[[concepts/reflection-methods|our assessment philosophy]]** and **[[connections/cross-curricular|cross-curricular connections]]** to see how STEAM integrates with broader learning goals.
-
----
-
-## 🎨 The STEAM Mindset
-
-Throughout this journey, you'll see four core principles in action:
-
-- **🔍 Curiosity** - "I notice and wonder"
-- **💪 Confidence** - "I can figure out how to make new things"  
-- **🎯 Creativity** - "I generate ideas and make them real"
-- **💬 Communication** - "I share thoughts collaboratively with others"
+### [[Efforts MOC|Projects & Efforts]]
+- [[efforts/Family Coasters|Family Coasters]] – foundational making with personal meaning.
+- [[efforts/Robot Storage|Robot Storage]] – professional collaboration with precision CAD.
+- [[efforts/Dollhouse Design|Educational Dollhouse]] – cross-curricular capstone.
+- [[efforts/Individual Explorations|Individual Explorations]] – student-directed mastery.
 
 ---
 
-## 📖 How to Navigate
+## Choose a Guided Path
 
-This site is designed for exploration. Every concept links to examples, every project connects to techniques, and every day builds on previous learning. Use the links to follow your curiosity - that's how the best learning happens.
+> [!tip] Students
+> 1. Skim the [[calendar/timeline|timeline]] to orient yourself.  
+> 2. Read [[efforts/Family Coasters|Family Coasters]] to see the first win.  
+> 3. Explore [[atlas/concepts/Design Thinking MOC|Design Thinking MOC]] to deepen your process.
 
-> **Pro Tip**: Look for these connection types:
-> - 📚 Learning progression links
-> - 🛠️ Tool and technique references  
-> - 💡 Concept applications
-> - 🔗 Cross-curricular connections
+> [!tip] Educators & Facilitators
+> 1. Start with [[README|Course Quick Start]] for the instructional overview.  
+> 2. Visit [[Atlas MOC|Atlas of Ideas]] to understand the conceptual spine.  
+> 3. Examine [[calendar/milestones|milestones]] for authentic assessment touchpoints.
+
+> [!tip] Families & Community Partners
+> 1. Browse [[Efforts MOC|Projects Hub]] to see what students built.  
+> 2. Jump to [[Real World|Connections MOC]] to learn how projects tie into community needs.  
+> 3. Read [[calendar/milestones|Key Milestones]] to celebrate progress together.
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz/) • Sharing the journey of STEAM learning at Hawaiʻi School for Girls at La Pietra*# Updated: STEAM Course
-# Updated: STEAM Course
+## Link the Big Ideas
+
+- **Process ↔ Projects**: Watch how [[atlas/concepts/Design Thinking|Design Thinking]] shows up in [[efforts/Robot Storage|Robot Storage]] and [[efforts/Dollhouse Design|Dollhouse Design]].
+- **Tools ↔ Confidence**: Trace skill growth from [[atlas/tools-techniques/Laser Cutting|Laser Cutting]] to [[atlas/tools-techniques/Onshape CAD|Onshape CAD]] across the [[calendar/consolidated|daily log]].
+- **Reflection ↔ Growth**: See how [[atlas/concepts/Reflection Methods|Reflection Methods]] feed into [[atlas/tools-techniques/Assessment Portfolio|Assessment Portfolios]] and milestone celebrations.
+- **Community ↔ Purpose**: Connect [[atlas/connections/Community Engagement|Community Engagement]] experiences with authentic audiences in [[efforts/Individual Explorations|Individual Explorations]].
+
+---
+
+## Keep Exploring
+
+- [[calendar/Journey MOC|Learning Journey Guide]] for story-first walkthroughs.
+- [[atlas/concepts/AI Integration MOC|AI Integration MOC]] for ethics-first AI partnership.
+- [[atlas/concepts/4Ms Framework MOC|4Ms Framework MOC]] to systematize planning and troubleshooting.
+- [[STEAM-Learning-Compendium|Full Compendium]] if you want every note in one place.
+
+> [!note]
+> Follow the links, add your own notes, and create new connections. This site is meant to be remixed as your understanding grows.
+
+---
+
+*Built with [Quartz](https://quartz.jzhao.xyz/) • Sharing the journey of STEAM learning at Hawaiʻi School for Girls at La Pietra*
