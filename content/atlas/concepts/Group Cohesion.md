@@ -176,6 +176,21 @@ The dollhouse project emerged as most impactful work precisely because:
 
 ---
 
+## In Practice
+
+Group cohesion emerged as a critical factor in project success and learning outcomes:
+
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-26|Day 26 - Collaborative Project Selection]]**: Breakthrough moment when the [[efforts/Dollhouse Design|dollhouse project]] emerged as highest priority precisely because of group cohesion - shared educational mission, complementary expertise, and cross-curricular benefit drove the decision. Students demonstrated sophisticated understanding that collaborative strengths should drive project selection over individual preferences.
+
+### **Efforts: Projects Demonstrating Collaborative Excellence**
+- **[[efforts/Dollhouse Design|Dollhouse Design]]**: Exemplar of group cohesion driving project success - [[atlas/connections/Cross-Curricular|cross-curricular collaboration]] with Spanish teacher, shared commitment to improving learning for others, complementary team skills, and sustainable educational impact.
+- **[[efforts/Robot Storage|Robot Storage]]**: Professional partnership with teacher as client - demonstrating effective stakeholder communication and collaborative problem-solving.
+
+**Key insight**: The most impactful projects emerged when team members recognized opportunities where collaboration would create superior outcomes compared to individual work - not just convenient task division, but genuine synergy of shared purpose and complementary strengths.
+
+---
+
 ## Questions for Further Exploration
 
 - **How do we distinguish between projects where collaboration enhances vs. complicates individual learning?**
@@ -185,4 +200,4 @@ The dollhouse project emerged as most impactful work precisely because:
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/Embedded Learning|Embedded Learning →]] | [[atlas/connections/Cross-Curricular|Cross-Curricular Integration →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/4Ms Framework|4Ms Framework]] | [[atlas/concepts/Embedded Learning|Embedded Learning →]] | [[atlas/connections/Cross-Curricular|Cross-Curricular Integration →]]*

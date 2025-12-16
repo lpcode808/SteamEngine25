@@ -62,11 +62,11 @@ Students refined problem-and-solution pairs while learning to articulate challen
 
 **In Practice**: [[calendar/consolidated#day-20|Day 20]]
 
-Introduction of [[atlas/concepts/AI Integration|Magic School AI chatbot]] as brainstorming partner, demonstrating how AI can expand ideation while maintaining human creativity and critical thinking.
+Introduction of [[atlas/tools-techniques/AI Partnership|Magic School AI chatbot]] as brainstorming partner, demonstrating how AI can expand ideation while maintaining human creativity and critical thinking.
 
 #### Ideation Techniques
 - **[[atlas/concepts/Brainstorming Methods|Collaborative Brainstorming]]**: Building on others' ideas
-- **[[atlas/concepts/AI Integration|AI-Assisted Ideation]]**: Using generative AI as creative partner
+- **[[atlas/tools-techniques/AI Partnership|AI-Assisted Ideation]]**: Using generative AI as creative partner
 - **[[atlas/concepts/Constraint-Based Creativity|Constraint-Based Creativity]]**: Using limitations to spark innovation
 
 #### Breakthrough Moments
@@ -88,7 +88,7 @@ Students learned comprehensive [[atlas/tools-techniques/Laser Cutting|tool safet
 - **[[atlas/concepts/Dimensional Accuracy|Dimensional Accuracy]]** over decorative detail
 - **[[atlas/concepts/Rapid Iteration|Rapid Iteration]]** as learning strategy
 - **[[atlas/concepts/4Ms Framework|Materials Matter]]**: Cardboard → Wood → Acrylic progression
-- **Tools**: [[atlas/tools-techniques/Laser Cutting|Laser Cutting]], [[atlas/concepts/Cardboard Construction|Cardboard]], [[atlas/tools-techniques/Onshape CAD|CAD]]
+- **Tools**: [[atlas/tools-techniques/Laser Cutting|Laser Cutting]], [[atlas/concepts/Cardboard Prototyping|Cardboard]], [[atlas/tools-techniques/Onshape CAD|CAD]]
 
 ---
 
@@ -109,7 +109,7 @@ Students demonstrated mature prototyping judgment by prioritizing core functiona
 #### Testing in Action
 - **[[efforts/Robot Storage|Robot Storage]]**: Alignment challenges and USB connector specifications
 - **[[efforts/Dollhouse Design|Dollhouse Testing]]**: Constructible/deconstructible functionality verification
-- **[[calendar/consolidated#day-17|Day 17]]**: Evaluating etched name signs against expectations
+- **[[calendar/consolidated#day-17-18|Day 17]]**: Evaluating etched name signs against expectations
 
 ---
 
@@ -122,7 +122,7 @@ Students demonstrated mature prototyping judgment by prioritizing core functiona
 - **Materials**: Testing material choices through iteration
 - **Margin**: Building in room for iteration and improvement
 
-### Collaboration with [[atlas/concepts/AI Integration|AI Tools]]
+### Collaboration with [[atlas/tools-techniques/AI Partnership|AI Tools]]
 - **Empathize**: AI for user research and insight synthesis
 - **Define**: AI for problem reframing and question generation
 - **Ideate**: AI as brainstorming partner and possibility expander
@@ -147,11 +147,34 @@ Students demonstrated mature prototyping judgment by prioritizing core functiona
 
 ---
 
+## In Practice
+
+Design thinking served as the foundational framework for all STEAM learning and projects:
+
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-1|Day 1 - Intuitive Application]]**: Students applied all five phases intuitively through Connected Words Challenge - empathizing with teammates, defining constraints, ideating silently, prototyping through division of labor, and testing against goals.
+- **[[calendar/consolidated#day-3|Day 3 - Systematic Application]]**: Stanford d.school methodology applied to Family Coasters project - family interviews (empathize), "How might we..." problem statements (define), individual creativity with feedback (ideate).
+- **[[calendar/consolidated#day-19|Day 19 - Problem Definition]]**: Students refined problem-and-solution pairs, learning to articulate challenges clearly and avoid jumping to solutions prematurely.
+- **[[calendar/consolidated#day-20|Day 20 - AI-Enhanced Ideation]]**: Introduction of [[atlas/tools-techniques/AI Partnership|Magic School AI]] as brainstorming partner - demonstrating how AI can expand ideation while maintaining human creativity.
+- **[[calendar/consolidated#day-22|Day 22 - Prototyping Fundamentals]]**: [[atlas/tools-techniques/Laser Cutting|Tool safety]] training with emphasis that prototypes are for testing concepts, not creating final products.
+- **[[calendar/consolidated#day-28|Day 28 - Rapid Prototyping]]**: "Vibe coding" - AI-assisted app development demonstrating rapid ideation-to-prototype cycles.
+- **[[calendar/consolidated#day-31|Day 31 - Testing & Refinement]]**: Students demonstrated mature testing judgment by prioritizing core functionality over additional features.
+
+### **Efforts: Projects Embodying Design Thinking**
+- **[[efforts/Family Coasters|Family Coasters]]**: User-centered design for family members - systematic empathy, constraint-based creativity, rapid iteration.
+- **[[efforts/Robot Storage|Robot Storage]]**: Professional problem-solving with teacher as client - comprehensive application of all five phases from user research through functional testing.
+- **[[efforts/Dollhouse Design|Dollhouse Design]]**: Cross-curricular collaboration demonstrating sophisticated design thinking in complex project - professional partnership, educational requirements, iterative CAD development.
+- **[[efforts/Individual Explorations|Individual Explorations]]**: Student-driven projects showing internalized design thinking process across diverse applications.
+
+> See [[calendar/milestones#first-collaborative-success|First Collaborative Success milestone]] for the breakthrough moment when design thinking clicked.
+
+---
+
 ## Reflection Questions
 
 - **Which stage of design thinking feels most natural to you? Which is most challenging?**
 - **How has design thinking changed the way you approach problems outside of STEAM class?**
-- **What role does [[atlas/concepts/AI Integration|AI partnership]] play in your design thinking process?**
+- **What role does [[atlas/tools-techniques/AI Partnership|AI partnership]] play in your design thinking process?**
 - **How do you balance [[atlas/concepts/Rapid Iteration|rapid iteration]] with taking time for deeper reflection?**
 
 ---

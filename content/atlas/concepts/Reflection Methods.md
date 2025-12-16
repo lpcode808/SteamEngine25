@@ -176,6 +176,33 @@ Reflection in STEAM education goes beyond simple documentation - it's a systemat
 
 ---
 
+## In Practice
+
+Reflection methods served as the foundational assessment and learning acceleration approach throughout the semester:
+
+### **Calendar: Continuous Application**
+While not always explicitly labeled, structured reflection appeared throughout the semester:
+- **[[calendar/consolidated#day-4-9|Day 4 - Portfolio Development]]**: Introduction to [[atlas/tools-techniques/Assessment Portfolio|portfolio practices]] and growth documentation - establishing "what was surprising, frustrating, accomplished, curious about?" as core reflection framework.
+- **Daily Practice**: Throughout all 44 days, students engaged in systematic reflection on their making experiences, recognizing patterns, celebrating growth, and planning next steps.
+
+### **Efforts: Reflection in Projects**
+Every project included reflection cycles:
+- **[[efforts/Family Coasters|Family Coasters]]**: Reflection on user-centered design process and constraint-based creativity.
+- **[[efforts/Robot Storage|Robot Storage]]**: Systematic analysis of problem-solving approaches, iteration cycles, and professional collaboration.
+- **[[efforts/Dollhouse Design|Dollhouse Design]]**: Deep reflection on cross-curricular collaboration, technical challenges, and sustainable impact.
+- **[[efforts/Individual Explorations|Individual Explorations]]**: Student-driven reflection on personal learning goals and creative development.
+
+### **Assessment Philosophy**
+Rather than traditional grading, reflection methods enabled:
+- **Growth-focused documentation** through [[atlas/tools-techniques/Assessment Portfolio|portfolios]]
+- **Process over product** emphasis in all projects
+- **Student agency** in recognizing and celebrating their own learning
+- **Authentic evaluation** supporting rather than interrupting learning
+
+> The "what was surprising, frustrating, accomplished, curious about?" framework became second nature, transforming how students approached learning and recognized their own growth.
+
+---
+
 ## Questions for Further Exploration
 
 - **How does systematic reflection change the learning process and student development?**

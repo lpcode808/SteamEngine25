@@ -54,8 +54,8 @@ Develop professional-level CAD capabilities through projects that demand precise
 ---
 
 ### **🤖 AI Partnership**
-**[[atlas/tools-techniques/AI Tools|AI Tools Arsenal]]** - Magic School, Gemini, and responsible AI use  
-*Ethical integration, creative collaboration, critical evaluation*
+**[[atlas/tools-techniques/AI Partnership|AI Partnership]]** - Ethics, Magic School, Gemini
+*Ethics first, creative collaboration, critical evaluation*
 
 Build responsible AI partnership skills through authentic application to design and making challenges. Students develop both technical capability and ethical frameworks for lifelong learning with AI systems.
 
@@ -123,7 +123,7 @@ Tools develop through authentic application:
 ### **[[atlas/concepts/index|Core Concepts]] Integration**
 - **[[atlas/concepts/Design Thinking|Design Thinking]]**: Tools serve human-centered problem solving rather than driving solutions
 - **[[atlas/concepts/4Ms Framework|4Ms Framework]]**: Understanding relationships between Maker, Machine, Method, Materials, Margin
-- **[[atlas/concepts/AI Integration|AI Partnership]]**: Ethical and effective integration of AI across all tool categories
+- **[[atlas/tools-techniques/AI Partnership|AI Partnership]]**: Ethical and effective integration of AI across all tool categories
 - **[[atlas/concepts/Reflection Methods|Learning Reflection]]**: Documentation and metacognitive practices that accelerate skill development
 
 ### **[[Project Storyarc|Real-World Application]]**
@@ -144,8 +144,8 @@ Tools develop through authentic application:
 ### **For New Students**
 Begin with **[[atlas/tools-techniques/Laser Cutting|Laser Cutting]]** through the **[[efforts/Family Coasters|Family Coasters]]** project to establish safety culture and experience immediate creative success. Then explore **[[atlas/tools-techniques/Assessment Portfolio|documentation practices]]** to capture learning journey.
 
-### **For Experienced Makers**  
-Dive into **[[atlas/tools-techniques/Onshape CAD|advanced CAD]]** challenges or explore **[[atlas/tools-techniques/AI Tools|AI partnership]]** for enhanced creative workflows. Consider **[[efforts/Individual Explorations|self-directed projects]]** that push multiple tool boundaries.
+### **For Experienced Makers**
+Dive into **[[atlas/tools-techniques/Onshape CAD|advanced CAD]]** challenges or explore **[[atlas/tools-techniques/AI Partnership|AI partnership]]** for enhanced creative workflows. Consider **[[efforts/Individual Explorations|self-directed projects]]** that push multiple tool boundaries.
 
 ### **For Educators**
 Focus on building **safety culture** and **collaborative learning environment** before introducing specific tools. Remember that tool mastery serves broader learning goals of creative confidence, collaborative capability, and community contribution.

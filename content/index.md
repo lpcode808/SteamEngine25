@@ -89,7 +89,7 @@ Inspired to make something? Here’s a path to get you started.
 ### [[calendar/index|Learning Journey]]
 - [[calendar/timeline|Semester Timeline]] – high-level view of the four phases.
 - [[calendar/milestones|Key Milestones]] – breakthrough moments and why they mattered.
-- [[calendar/consolidated|Daily Log]] – 35 days of observations, prompts, and reflections.
+- [[calendar/consolidated|Daily Log]] – 44 days of observations, prompts, and reflections.
 
 ### [[atlas/index|Atlas of Ideas]]
 - [[atlas/concepts/index|Core Concepts MOC]] – Design Thinking, 4Ms, AI partnership, reflection.

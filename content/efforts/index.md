@@ -24,9 +24,9 @@ publish: true
 | Stage                             | Project                           | Focus                     | Key Links                                                    |
 | --------------------------------- | --------------------------------- | ------------------------- | ------------------------------------------------------------ |
 | 1. Personal Foundation            | [[efforts/Family Coasters]]         | Family Coasters         | Safety culture, laser fundamentals, user empathy<br>[[atlas/tools-techniques/Laser Cutting]], [[atlas/concepts/Design Thinking]], [[calendar/consolidated#day-4-9]]       |
-| 2. Professional Problem-Solving   | [[efforts/Robot Storage]]           | Robot Storage           | Precision CAD, teacher partnership, iterative prototyping<br>[[atlas/tools-techniques/Onshape CAD]], [[atlas/concepts/4Ms Framework MOC]], [[calendar/consolidated#day-22]]    |
+| 2. Professional Problem-Solving   | [[efforts/Robot Storage]]           | Robot Storage           | Precision CAD, teacher partnership, iterative prototyping<br>[[atlas/tools-techniques/Onshape CAD]], [[atlas/concepts/4Ms Framework]], [[calendar/consolidated#day-22]]    |
 | 3. Cross-Curricular Collaboration | [[efforts/Dollhouse Design]]   | Educational Dollhouse   | Systems thinking, language integration, fabrication planning<br>[[atlas/connections/Cross-Curricular]], [[calendar/consolidated#day-31]], [[atlas/concepts/Reflection Methods]] |
-| 4. Independent Mastery            | [[efforts/Individual Explorations]] | Individual Explorations | Self-directed inquiry, tool innovation, mentorship<br>[[atlas/tools-techniques/AI Tools]], [[calendar/consolidated#day-28]], [[atlas/connections/Future Learning]]           |
+| 4. Independent Mastery            | [[efforts/Individual Explorations]] | Individual Explorations | Self-directed inquiry, tool innovation, mentorship<br>[[atlas/tools-techniques/AI Partnership]], [[calendar/consolidated#day-28]], [[atlas/connections/Future Learning]]           |
 
 > [!tip]
 > Use the “Key Links” column as a checklist when planning instruction or capturing portfolio evidence.
@@ -38,7 +38,7 @@ publish: true
 - **Making & Fabrication**: [[efforts/Family Coasters|Family Coasters]], [[efforts/Dollhouse Design|Educational Dollhouse]]
 - **Problem-Solving & Systems**: [[efforts/Robot Storage|Robot Storage]], [[efforts/Individual Explorations|Individual Explorations]]
 - **Collaboration & Community**: [[efforts/Dollhouse Design|Educational Dollhouse]], [[atlas/connections/Community Engagement|Community Engagement]]
-- **AI Integration**: [[efforts/Robot Storage|Robot Storage]], [[efforts/Individual Explorations|Individual Explorations]], [[atlas/concepts/AI Integration MOC|AI Integration MOC]]
+- **AI Integration**: [[efforts/Robot Storage|Robot Storage]], [[efforts/Individual Explorations|Individual Explorations]], [[atlas/tools-techniques/AI Partnership]]
 
 ---
 
@@ -50,9 +50,9 @@ publish: true
 > 3. Update your [[atlas/tools-techniques/Assessment Portfolio|portfolio]] with new goals.
 
 > [!tip] Educators designing a unit
-> 1. Use the progression table to scaffold learning experiences.  
-> 2. Open linked [[calendar/consolidated|daily entries]] to see how pacing and feedback looked in practice.  
-> 3. Pull prompts from [[atlas/concepts/Design Thinking MOC|Design Thinking MOC]] or [[atlas/concepts/Reflection Methods|Reflection Methods]] to guide student reflection.
+> 1. Use the progression table to scaffold learning experiences.
+> 2. Open linked [[calendar/consolidated|daily entries]] to see how pacing and feedback looked in practice.
+> 3. Pull prompts from [[atlas/concepts/Design Thinking]] or [[atlas/concepts/Reflection Methods|Reflection Methods]] to guide student reflection.
 
 > [!tip] Families & partners
 > 1. Browse the project notes to see artifacts and narratives.  

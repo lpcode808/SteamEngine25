@@ -15,22 +15,19 @@ up: [[atlas/concepts/index]]
 
 Dimensional accuracy isn't about perfection everywhere - it's about understanding where precision is critical for function and where approximation is sufficient. This strategic thinking develops through hands-on experience with real projects and user needs.
 
-## Key Learning Moments
+## In Practice
 
-### [[calendar/consolidated#day-22|Day 22: Dimensional Prototyping]]
-*"Focus on the right dimensions rather than fine detail"*
+This concept evolved from basic introduction to sophisticated application throughout the semester:
 
-Students learned to prioritize functional measurements over decorative perfection.
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-22|Day 22 - Dimensional Prototyping]]**: "Focus on the right dimensions rather than fine detail" - Introduction to prioritizing functional measurements over decorative perfection. Using [[atlas/concepts/Cardboard Prototyping|cardboard]] to verify scale and function before final fabrication.
+- **[[calendar/consolidated#day-27|Day 27 - Material Thickness & USB Measurements]]**: Critical learning that "standard" dimensions can't be assumed - actual USB cable measurements exceeded expectations. Discovery that machines don't solve measurement problems; systematic thinking does.
+- **[[calendar/consolidated#day-31|Day 31 - Design Decision Maturity]]**: Students prioritized core functionality over additional features, demonstrating mature judgment about where precision matters most.
+- **[[calendar/consolidated#day-34|Day 34 - CAD-to-Fabrication Workflow]]**: Advanced [[atlas/tools-techniques/Onshape CAD|parametric modeling]] where dimensional precision in digital design directly affects physical fabrication success.
 
-### [[calendar/consolidated#day-27|Day 27: USB Cable Measurements]]
-Discovery that "standard" USB cable dimensions exceeded expected measurements - machines don't solve measurement problems.
-
-### [[calendar/consolidated#day-31|Day 31: Design Decision Maturity]]
-Students chose core functionality over additional features, demonstrating mature prototyping judgment.
-
-## Applications Across Projects
-
-Dimensional accuracy proved critical in both [[efforts/Robot Storage|Robot Storage]] (USB connector precision) and [[efforts/Dollhouse Design|Dollhouse Design]] (geometric relationships).
+### **Efforts: Projects Requiring Precision**
+- **[[efforts/Robot Storage|Robot Storage]]**: USB connector specifications, charging port alignment, robot holder dimensions - precision critical for functional success.
+- **[[efforts/Dollhouse Design|Dollhouse Design]]**: Roof angle geometry, 2'×1' material constraints, furniture scale relationships, tab joint tolerances for constructible/deconstructible assembly.
 
 ## Strategic Thinking Framework
 

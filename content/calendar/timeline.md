@@ -1,10 +1,25 @@
 ---
-title: "The Learning Journey: 35 Days of Discovery"
+title: "The Learning Journey: 44 Days of Discovery"
 publish: true
 ---
 up: [[calendar/index]]
 
 > **"Curiosity, Confidence, Creativity, Communication"** - How these four principles guided our semester of bringing ideas to life.
+
+---
+
+## How to Use This Timeline
+
+**Use this view when you want to:**
+- 📅 **Quick-scan the entire semester** - See what happened across all 44 days
+- 🔄 **Understand progression** - How skills built systematically from week to week
+- 🎯 **Find specific topics** - Locate when AI, CAD, or collaboration appeared
+- 📊 **Track complexity growth** - Watch projects evolve from simple to sophisticated
+
+**Switch to [[calendar/milestones|Milestones]] when you want:**
+- 🌟 **Deep dives into breakthroughs** - Rich narratives with quotes and analysis
+- 💡 **"Why it mattered"** - Understanding transformation, not just chronology
+- 🎨 **Standout moments** - The days that changed everything
 
 ---
 
@@ -22,6 +37,8 @@ This timeline shows the progression from tentative first steps to confident maki
 
 **Key Milestone**: Students create personalized laser-cut items while learning documentation and reflection practices.
 
+> **Deep dive**: See [[calendar/milestones#first-collaborative-success|First Collaborative Success]] and [[calendar/milestones#digital-physical-connection|Digital-Physical Connection]] milestones for the breakthrough moments that shaped this phase.
+
 ---
 
 ### 🚀 **Exploration Phase** (Days 10-18)  
@@ -32,6 +49,8 @@ This timeline shows the progression from tentative first steps to confident maki
 - **[[calendar/consolidated#day-17-18|Days 17-18]]**: Design evaluation, 3D printing introduction, collaborative project planning
 
 **Key Milestone**: Students present their learning to community members, building confidence in communication.
+
+> **Deep dive**: See [[calendar/milestones#community-presentation-confidence|Community Presentation Confidence]] milestone for how authentic audiences transformed student confidence.
 
 ---
 
@@ -47,9 +66,11 @@ This timeline shows the progression from tentative first steps to confident maki
 
 **Key Milestone**: Students work on real problems for teachers while mastering advanced prototyping techniques.
 
+> **Deep dive**: See [[calendar/milestones#ai-ethics-before-tools|AI Ethics Before Tools]] and [[calendar/milestones#prototyping-mastery|Prototyping Mastery]] milestones for the foundational shifts in responsible technology use and making confidence.
+
 ---
 
-### 🎯 **Application Phase** (Days 26-35)
+### 🎯 **Application Phase** (Days 26-44)
 **Sophisticated projects and independent learning**
 
 - **[[calendar/consolidated#day-26|Day 26]]**: [[efforts/Dollhouse Design|Dollhouse project]] emerges as most impactful work
@@ -58,9 +79,23 @@ This timeline shows the progression from tentative first steps to confident maki
 - **[[calendar/consolidated#day-29|Day 29]]**: Advanced coding exploration and VS Code integration
 - **[[calendar/consolidated#day-30|Day 30]]**: [[atlas/concepts/AI Integration|AI image generation]] and context management
 - **[[calendar/consolidated#day-31|Day 31]]**: Critical design decision-making and geometric problem-solving
-- **[[calendar/consolidated#day-32|Days 32-35]]**: Production planning, advanced CAD workflows, and collaborative learning
+- **[[calendar/consolidated#day-32|Day 32]]**: Real-world cost analysis and production economics
+- **[[calendar/consolidated#day-33|Day 33]]**: Hands-on prototype refinement and user testing
+- **[[calendar/consolidated#day-34|Day 34]]**: Professional CAD-to-fabrication workflow mastery
+- **[[calendar/consolidated#day-35|Day 35]]**: Production planning and quality assurance decisions
+- **[[calendar/consolidated#day-36|Day 36]]**: Physical fabrication fundamentals and assembly best practices
+- **[[calendar/consolidated#day-37|Day 37]]**: Deep technical understanding with individual focus and web development exploration
+- **[[calendar/consolidated#day-38|Day 38]]**: Documentation workflow and collaborative CAD implementation
+- **[[calendar/consolidated#day-39|Day 39]]**: Live CAD demonstration, AI in design automation, fastening methods analysis
+- **[[calendar/consolidated#day-40|Day 40]]**: Material reality vs. specifications, precision measurement, AI-assisted presentations
+- **[[calendar/consolidated#day-41|Day 41]]**: Assembly challenges and critical workflow verification protocol established
+- **[[calendar/consolidated#day-42|Day 42]]**: Presentation planning begins, X-tool dimension troubleshooting
+- **[[calendar/consolidated#day-43|Day 43]]**: Assembly success with corrected parts, Onshape auto-layout discovery
+- **[[calendar/consolidated#day-44|Day 44]]**: Intensive presentation development, design thinking maturity demonstrated
 
-**Key Milestone**: Students handle complex technical projects while maintaining focus on user needs and design thinking.
+**Key Milestone**: Students handle complex technical projects while maintaining focus on user needs and design thinking, bridging digital design with physical making. Final weeks demonstrate professional quality assurance practices, material reality awareness, and sophisticated understanding of iterative design processes as students prepare final presentations.
+
+> **Deep dive**: See [[calendar/milestones#cross-curricular-collaboration|Cross-Curricular Collaboration]], [[calendar/milestones#cad-thinking-breakthrough|CAD Thinking Breakthrough]], [[calendar/milestones#design-decision-maturity|Design Decision Maturity]], [[calendar/milestones#vibe-coding-introduction|"Vibe Coding" Introduction]], [[calendar/milestones#web-as-readable-code|Web as Readable Code]], [[calendar/milestones#material-reality-vs-specifications|Material Reality vs. Specifications]], [[calendar/milestones#critical-workflow-verification|Critical Workflow Verification]], and [[calendar/milestones#design-thinking-maturity|Design Thinking Maturity]] milestones for the sophisticated integration and creative breakthroughs that defined this phase.
 
 ---
 

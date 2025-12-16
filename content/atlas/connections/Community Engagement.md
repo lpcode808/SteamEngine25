@@ -18,7 +18,7 @@ Real learning happens when students see themselves as valuable contributors to t
 
 ## Honolulu Tech Week: Students as Ambassadors
 
-### **[[calendar/consolidated#day-10|Day 10]]**: Preparation and Participation
+### **[[calendar/consolidated#day-10-14|Day 10]]**: Preparation and Participation
 
 #### **The Challenge**
 Present STEAM learning to community members at a professional technology event, demonstrating both technical skills and communication capabilities.
@@ -112,7 +112,7 @@ During fall break, one student attended an AI venture capital conference, creati
 
 ## Field Trip Learning: Aviation and Engineering
 
-### **[[calendar/consolidated#day-10|Day 10]]**
+### **[[calendar/consolidated#day-10-14|Day 10]]**
 *"The week included a memorable field trip to an air show, connecting real-world engineering and aviation to STEAM principles"*
 
 #### **Engineering Connections**

@@ -157,4 +157,23 @@ Expert practice observation, pattern recognition, safety integration, and qualit
 
 ---
 
-*Navigate: [[atlas/concepts/Peer Feedback|← Peer Feedback]] | [[atlas/concepts/4Ms Framework MOC|4Ms Framework Home →]]*
+## In Practice
+
+Embedded learning appeared strategically when introducing complex professional workflows:
+
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-34|Day 34 - CAD-to-Fabrication Workflow]]**: Students observed advanced [[atlas/tools-techniques/Onshape CAD|Onshape CAD]] techniques before hands-on practice - extrusion modeling, tab joint design, blueprint generation, and the complex workflow from Onshape → DXF → Illustrator → SVG → xTool. Professional workflow observation before attempting independent implementation.
+- **[[calendar/consolidated#day-38|Day 38 - CAD Implementation]]**: Continued embedded learning as students watched furniture concepts become parametric CAD models - observing professional decision-making, troubleshooting, and quality standards before attempting similar work.
+
+### **Philosophy in Action**
+Rather than "learn by doing" for all skills, embedded learning recognized that:
+- **Complex workflows** benefit from observation before practice
+- **Safety-critical tools** require systematic understanding before hands-on use
+- **Professional standards** are better learned through expert modeling than trial-and-error
+- **Accelerated development** often comes from pattern recognition through observation
+
+> **[[calendar/consolidated#day-38|Day 38]] insight**: "Embedded learning - students observe professional workflow before hands-on practice" - demonstrating how systematic observation accelerates skill development and prevents bad habit formation.
+
+---
+
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Peer Feedback|Peer Feedback]] | [[atlas/concepts/4Ms Framework|4Ms Framework →]]*

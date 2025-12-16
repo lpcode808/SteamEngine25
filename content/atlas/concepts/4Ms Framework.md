@@ -61,8 +61,8 @@ Understanding your tools' capabilities and limitations is crucial for successful
 
 #### Core Machines in Our Toolkit
 - **[[atlas/tools-techniques/Laser Cutting|xTool Laser Cutters]]**: Precision cutting and engraving
-- **[[atlas/tools-techniques/Onshape CAD|Onshape CAD Software]]**: Parametric 3D modeling  
-- **[[atlas/tools-techniques/AI Tools|AI Tools]]**: Magic School, Gemini, coding assistants
+- **[[atlas/tools-techniques/Onshape CAD|Onshape CAD Software]]**: Parametric 3D modeling
+- **[[atlas/tools-techniques/AI Partnership|AI Tools]]**: Magic School, Gemini, coding assistants
 - **Traditional Hand Tools**: X-Acto knives, rulers, hot glue, rotary cutters
 
 #### Machine Selection Factors
@@ -213,6 +213,24 @@ Before starting any project, systematically consider:
 
 ---
 
+## In Practice
+
+The 4 Ms framework appears as a systematic lens for analyzing projects throughout the semester:
+
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-1|Day 1 - Maker]]**: Collaborative design instincts and understanding teammate strengths in Connected Words Challenge.
+- **[[calendar/consolidated#day-2|Day 2 - Method]]**: "Messy first, then precise" - discovering effective workflows through iteration.
+- **[[calendar/consolidated#day-20|Day 20 - Method]]**: AI ethics before tools - establishing responsible processes before capability exploration.
+- **[[calendar/consolidated#day-22|Day 22 - Method]]**: Systematic prototyping progression - concept confirmation → sketching → scaled construction.
+- **[[calendar/consolidated#day-26|Day 26 - Maker]]**: [[atlas/concepts/Group Cohesion|Collaborative project selection]] driven by team strengths.
+- **[[calendar/consolidated#day-27|Day 27 - Materials & Machine]]**: Material thickness implications for design - machines don't solve measurement problems, systematic thinking does.
+- **[[calendar/consolidated#day-31|Day 31 - Margin]]**: Prioritizing core functionality over features - understanding scope management and resource allocation.
+- **[[calendar/consolidated#day-34|Day 34 - Method]]**: Professional CAD-to-fabrication workflow requiring multiple format conversions and tool coordination.
+
+### **Efforts: Comprehensive 4 Ms Applications**
+- **[[efforts/Robot Storage|Robot Storage]]**: Complete 4 Ms analysis from initial problem definition through iterative prototyping - demonstrates systematic consideration of Maker (teacher workflow), Machine (laser cutting), Method (user-centered design), Materials (durability), and Margin (testing cycles).
+- **[[efforts/Dollhouse Design|Dollhouse Design]]**: Systems thinking for complex cross-curricular project - material thickness considerations, design constraints, professional collaboration requirements.
+
 ---
 
 ## Deep Dive Topics
@@ -242,4 +260,4 @@ Explore specific aspects of the 4 Ms framework:
 
 ---
 
-*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/concepts/AI Integration|AI Integration →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/Design Thinking|Design Thinking ←]] | [[atlas/tools-techniques/AI Partnership|AI Partnership →]]*

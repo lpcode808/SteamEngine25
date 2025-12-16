@@ -186,6 +186,22 @@ Cardboard prototyping represents the foundation of professional design developme
 
 ---
 
+## In Practice
+
+Cardboard prototyping appears as a critical early-stage design validation tool:
+
+### **Calendar: Key Learning Days**
+- **[[calendar/consolidated#day-22|Day 22 - Dimensional Prototyping]]**: "Focus on the right dimensions rather than fine detail" - Introduction to using cardboard for scale and function verification before final fabrication. Students learned to identify critical measurements and plan multiple refinement rounds.
+
+### **Efforts: Prototyping in Projects**
+While cardboard prototyping was taught as a foundational skill (Day 22), many students moved directly to digital design tools ([[atlas/tools-techniques/Onshape CAD|Onshape CAD]]) for their projects. The principles of rapid iteration and dimensional testing, however, carried through into their CAD workflows - treating early CAD models as "digital cardboard" for quick testing before fabrication.
+
+**Key application**: The professional approach of "props for testing, not perfection" became a mindset that transferred across all making activities, whether physical cardboard or digital prototypes.
+
+> See [[calendar/milestones#prototyping-mastery|Prototyping Mastery milestone]] for breakthrough moment in dimensional thinking.
+
+---
+
 ## Questions for Further Exploration
 
 - **How does cardboard prototyping change the relationship between creative ambition and practical constraints?**
@@ -195,4 +211,4 @@ Cardboard prototyping represents the foundation of professional design developme
 
 ---
 
-*Navigate: [[atlas/concepts/4Ms Framework MOC|← 4Ms Framework Home]] | [[atlas/concepts/Plywood Projects|Plywood Projects →]]*
+*Navigate: [[atlas/concepts/index|← Concepts Home]] | [[atlas/concepts/4Ms Framework|4Ms Framework]] | [[atlas/concepts/Plywood Projects|Plywood Projects →]]*

@@ -36,7 +36,7 @@ Systems thinking for makers - understanding how all elements interact to create 
 
 ---
 
-### **[[atlas/concepts/AI Integration|🤖 AI as Creative Partner]]**
+### **[[atlas/tools-techniques/AI Partnership|🤖 AI as Creative Partner]]**
 **Ethics first, capabilities second**
 
 Learning to work with AI as a collaborator rather than a replacement for human thinking. Understanding both the power and the responsibility that comes with generative AI tools.
@@ -60,91 +60,47 @@ The assessment philosophy that prioritizes growth mindset and process learning o
 
 ---
 
-## How the Concepts Connect
+## All Core Concepts
 
-### **Design Thinking ↔ 4Ms Framework**
-- **Empathize** focuses on the **Maker** (user) and their needs
-- **Define** clarifies requirements for all 4 Ms
-- **Ideate** explores combinations of **Method**, **Machine**, and **Materials**
-- **Prototype** tests concepts within **Margin** constraints
-- **Test** evaluates whether **Maker** needs are met
+### Design Thinking
+- [[atlas/concepts/Design Thinking|The 5-phase framework]] → See [[efforts/Family Coasters|coasters]], [[efforts/Dollhouse Design|dollhouse]]
+- [[atlas/concepts/Brainstorming Methods|Collaborative ideation]] → Applied throughout project planning
+- [[atlas/concepts/Constraint-Based Creativity|Limitations as catalysts]] → [[calendar/consolidated#day-1|Day 1 cardstock challenge]]
+- [[atlas/concepts/Observation Sketching|Notice and wonder]] → [[atlas/tools-techniques/Assessment Portfolio|Portfolio practice]]
 
-### **AI Integration ↔ Design Thinking**
-- **AI as ideation partner** in the Ideate phase
-- **AI for research and synthesis** in Empathize and Define
-- **AI for rapid prototyping** in the Prototype phase
-- **Human creativity and ethics** guiding all AI collaboration
+### Prototyping & Testing
+- [[atlas/concepts/Cardboard Prototyping|Rapid iteration]] → [[calendar/consolidated#day-22|Day 22 dimensional testing]]
+- [[atlas/concepts/Dimensional Accuracy|Precision in making]] → [[efforts/Robot Storage|Robot holders]]
+- [[atlas/concepts/Iterative Refinement|Test and improve]] → All projects, Days 1-38
+- [[atlas/concepts/Functional Testing|Does it work?]] → [[calendar/consolidated#day-33|Day 33 user testing]]
+- [[atlas/concepts/User Feedback|Real people, real needs]] → [[efforts/Dollhouse Design|Teacher collaboration]]
 
-### **Reflection ↔ All Frameworks**
-- **Process documentation** across all concept applications
-- **Learning recognition** in both successes and challenges
-- **Future application** planning for continued growth
+### Systems Thinking
+- [[atlas/concepts/4Ms Framework|Maker, Machine, Method, Materials, Margin]] → [[calendar/consolidated#day-27|Day 27 material thickness]]
+- [[atlas/concepts/Stakeholder Mapping|Who's affected?]] → [[calendar/consolidated#day-3|Day 3 family projects]]
+- [[atlas/concepts/Plywood Projects|Material properties]] → Advanced making applications
 
----
+### Learning & Collaboration
+- [[atlas/concepts/Reflection Methods|Growth mindset assessment]] → [[atlas/tools-techniques/Assessment Portfolio|Portfolios]]
+- [[atlas/concepts/Peer Feedback|Notice and wonder protocols]] → [[calendar/consolidated#day-4-9|Day 9 presentations]]
+- [[atlas/concepts/Group Cohesion|Collaborative strengths]] → [[efforts/Dollhouse Design|Cross-curricular work]]
+- [[atlas/concepts/Embedded Learning|Professional workflow observation]] → [[calendar/consolidated#day-34|Day 34 CAD workflow]]
 
-## Concepts in Practice
-
-### **Foundation Projects** (Days 1-9)
-**Building confidence through immediate application**
-- [[calendar/consolidated#day-1|Connected words challenge]]: Design thinking introduction
-- [[calendar/consolidated#day-3|Family projects]]: User-centered design
-- [[efforts/Family Coasters|Coaster creation]]: Materials and methods exploration
-
-### **Development Projects** (Days 10-25)  
-**Applying concepts to complex challenges**
-- [[atlas/connections/Community Engagement|Tech Week presentation]]: Communication and reflection
-- [[calendar/consolidated#day-20|AI ethics introduction]]: Responsible innovation
-- [[efforts/Robot Storage|Robot storage solution]]: Professional design thinking
-
-### **Integration Projects** (Days 26-35)
-**Sophisticated concept application**
-- [[efforts/Dollhouse Design|Dollhouse design]]: Cross-curricular systems thinking
-- [[calendar/consolidated#day-34|Advanced CAD workflow]]: Method mastery and refinement
-- [[calendar/consolidated#day-30|AI image generation]]: Creative AI partnership
+### AI Partnership
+- [[atlas/tools-techniques/AI Partnership|Ethics-first framework]] → [[calendar/consolidated#day-20|Day 20 introduction]]
+- [[atlas/tools-techniques/AI Partnership#magic-school-ai-laser-cutting-specialist|Magic School AI]] → [[efforts/Robot Storage|Design consultation]]
+- [[atlas/tools-techniques/AI Partnership#google-gemini-visual-ai|Gemini AI]] → [[calendar/consolidated#day-28|Day 28 vibe coding]]
 
 ---
 
-## Transferable Applications
+## Broader Connections
 
-### **Academic Integration**
-- **[[atlas/connections/Cross-Curricular|Science projects]]**: Design thinking for research and experimentation
-- **Art and creativity**: AI partnership and iterative refinement
-- **Mathematics**: Systems thinking and precision measurement
-- **Language arts**: Communication and reflection practices
-
-### **Life Skills Development**  
-- **Problem-solving methodology**: Systematic approaches to any challenge
-- **Collaboration frameworks**: Working effectively with others and with AI
-- **Learning strategies**: Reflection and growth mindset practices
-- **Technology literacy**: Responsible and effective use of digital tools
-
-### **[[atlas/connections/Future Learning|Career Preparation]]**
-- **Design professions**: UX/UI, product design, architecture
-- **Engineering fields**: Systematic problem-solving and technical communication
-- **Technology careers**: AI collaboration and digital tool mastery
-- **Education and training**: Understanding how learning works
-
----
-
-## Deepening Your Understanding
-
-### **For Current Students**
-- **Which concept feels most natural to you? Which is most challenging?**
-- **How do you see these concepts connecting to your other classes?**
-- **Where have you applied these ideas outside of STEAM class?**
-- **What examples would you add to illustrate these concepts?**
-
-### **For Educators**
-- **How might these frameworks transfer to your subject area?**
-- **What assessment strategies support concept development?**
-- **How do you balance explicit concept teaching with embedded learning?**
-- **Where do you see opportunities for cross-curricular concept application?**
-
-### **For Future Makers**
-- **Which concepts most excite you for future projects?**
-- **How might these frameworks evolve with new technologies?**
-- **What concepts would you add based on your own experience?**
-- **How do these ideas connect to your career interests?**
+**See these concepts applied:**
+- [[calendar/timeline|Timeline view]] - Concept development across the semester
+- [[calendar/milestones|Key breakthroughs]] - When concepts clicked
+- [[Project Storyarc|Project case studies]] - Concepts in action
+- [[atlas/connections/Cross-Curricular|Beyond STEAM]] - Transfer to other subjects
+- [[atlas/connections/Future Learning|Career pathways]] - Professional applications
 
 ---
 

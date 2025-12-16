@@ -3,22 +3,22 @@ created: 2025-11-12
 tags: [project, cross-curricular, design-thinking, cad, fabrication]
 title: "Educational Dollhouse: Cross-Curricular Design Excellence"
 publish: true
-updated: 2025-11-12
+updated: 2025-12-15
 ---
 up: [[efforts/index.md]]
 
 > **"The most impactful application of their laser-cutting skills and collaborative abilities"** - How a simple storage problem became sophisticated educational tool design.
 
-**Client**: Spanish Teacher  
-**Challenge**: Create constructible/deconstructible educational tool for hands-on language learning  
-**Timeline**: [[calendar/consolidated#day-24|Day 24]] (conception) - [[calendar/consolidated#day-35|Day 35]] (ongoing refinement)  
+**Client**: Spanish Teacher
+**Challenge**: Create constructible/deconstructible educational tool for hands-on language learning
+**Timeline**: [[calendar/consolidated#day-24-25|Day 24]] (conception) - [[calendar/consolidated#day-44|Day 44]] (presentation development)
 **Impact**: [[atlas/connections/Cross-Curricular|Cross-curricular collaboration]] and authentic learning tool creation
 
 ---
 
 ## Project Genesis: From Substitute Teaching to Professional Collaboration
 
-### **[[calendar/consolidated#day-24|Day 24]]**: Unexpected Opportunity
+### **[[calendar/consolidated#day-24-25|Day 24]]**: Unexpected Opportunity
 *"Students worked with a substitute teacher to demonstrate and share their learning from the first semester half"*
 
 **The Spark:**
@@ -302,6 +302,25 @@ This project demonstrates the power of [[atlas/concepts/Design Thinking|design t
 - **[[atlas/concepts/AI Integration|Professional design process]]** with real client requirements
 
 The success of this project established a model for how STEAM students can contribute meaningfully to educational innovation while developing sophisticated technical and collaboration skills.
+
+---
+
+## Current Status (Days 39-44)
+
+**Manufacturing and Assembly Phase**
+
+The project transitioned from digital design to physical assembly, revealing important lessons about material reality and quality assurance:
+
+- **Material precision challenges**: Discovered that nominal "1/8 inch" plywood measures 0.108" in reality, and theoretical 12" width is actually 11.75" - [[calendar/consolidated#day-40|Day 40]]
+- **Critical workflow verification**: Established three-platform sanity check protocol (Onshape → Illustrator → xTool) after discovering dimensional errors - [[calendar/consolidated#day-41|Day 41]]
+- **Assembly iteration**: Second generation of wall pieces fit successfully after sanding, validating corrected workflow - [[calendar/consolidated#day-43|Day 43]]
+- **Professional troubleshooting**: Students experienced complete CAD-to-fabrication pipeline and learned systematic problem-solving when parts don't fit as expected
+
+**Presentation Development**
+
+Students are preparing final presentations covering the design thinking process, teacher client collaboration, and technical workflow learned throughout the project - [[calendar/consolidated#day-44|Day 44]].
+
+The dollhouse project continues to demonstrate the iterative nature of professional design work, where manufacturing reality tests theoretical designs and systematic quality assurance becomes essential for success.
 
 ---
 
